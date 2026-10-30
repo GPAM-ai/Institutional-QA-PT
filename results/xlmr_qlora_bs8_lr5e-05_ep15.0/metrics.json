@@ -1,0 +1,13 @@
+{
+  "model_type": "xlmr",
+  "tuning_type": "qlora",
+  "train_epochs": 15.0,
+  "learning_rate": 5e-05,
+  "batch_size": 8,
+  "train_time_seconds": 325.571706533432,
+  "train_time_minutes": 5.426195108890534,
+  "peak_vram_mb": 438.06640625,
+  "disk_size_mb": 18.278156280517578,
+  "validation_exact_match": 25.735294117647058,
+  "validation_f1": 41.473007037143994
+}

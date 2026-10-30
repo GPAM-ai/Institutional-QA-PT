@@ -1,0 +1,13 @@
+{
+  "model_type": "bertugues",
+  "tuning_type": "lora",
+  "train_epochs": 15.0,
+  "learning_rate": 0.0001,
+  "batch_size": 16,
+  "train_time_seconds": 139.80695295333862,
+  "train_time_minutes": 2.330115882555644,
+  "peak_vram_mb": 2756.85693359375,
+  "disk_size_mb": 2.948330879211426,
+  "validation_exact_match": 25.735294117647058,
+  "validation_f1": 37.743327584638635
+}

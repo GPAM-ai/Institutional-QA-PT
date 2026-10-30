@@ -1,0 +1,43 @@
+
+Linhas de Pesquisa
+Sistemas Computacionais
+
+Sistemas computacionais estão presentes em diversos ambientes, envolvendo desde aplicações simples em eletrodomésticos e dispositivos de entretenimento até complexos sistemas embarcados, indispensáveis para o controle de aeronaves, veículos automotores, equipamentos médicos e outros. A efetividade, eficiência e segurança progressivamente requeridas por esses sistemas demanda uma contínua evolução das técnicas e ferramentas de diversas disciplinas da computação. Assim, a linha de pesquisa de Sistemas Computacionais envolve o estudo e a busca por inovações nas seguintes áreas: computação de alto desempenho, engenharia de software, redes de computadores e arquiteturas de computadores, entre outras, visando o desenvolvimento de sistemas de computação adequados em diversos domínios e diferentes plataformas. Os problemas são estudados de maneira sistêmica, envolvendo o conhecimento atual de cada disciplina e assegurando a articulação indispensável entre ensino e pesquisa. Dessa forma, o discente é capacitado a analisar criticamente o estado da arte dos assuntos relacionados e propor soluções no contexto do desenvolvimento de sistemas de computação.
+Docentes permanentes:
+
+    Prof. Dr. Álvaro Luiz Fazenda - contato-individual-001-removido
+    Prof. Dr. André Marcorin de Oliveira - contato-individual-002-removido
+    Prof. Dr. Bruno Yuji Lino Kimura - contato-individual-006-removido
+    Prof. Dr. Ezequiel Roberto Zorzal - contato-individual-011-removido
+    Prof. Dr. Fabio Fagundes Silveira - contato-individual-012-removido 
+    Prof. Dr. Luiz Eduardo Galvão Martins - contato-individual-015-removido
+    Prof. Dr. Sérgio Ronaldo Barros dos Santos - contato-individual-019-removido
+    Prof. Dr. Tiago Silva da Silva - contato-individual-020-removido
+
+Sistemas Inteligentes
+
+Nesta linha, são desenvolvidos sistemas computacionais para modelagem e solução de problemas de maneira análoga à utilizada pelo cérebro humano ou baseados em processos encontrados na natureza (por exemplo, sistemas bio-inspirados). Sistemas inteligentes abrangem aprendizado de máquina, reconhecimento de padrões, mineração de dados, análise e processamento de sinais e imagens, visão computacional, sistemas multi-agentes, processamento de linguagens naturais, dentre outras disciplinas.
+Docentes permanentes:
+
+    Prof. Dr. André Carlos Ponce de Leon Ferreira de Carvalho (ICMC/USP) - contato-individual-003-removido
+    Prof. Dr. Antônio Augusto Chaves - contato-individual-004-removido
+    Prof. Dr. Elbert Einsten Nehrer Macau - contato-individual-010-removido
+    Prof. Dr. Didier A. Vega Oliveros - contato-individual-009-removido 
+    Prof. Dr. Fábio Augusto Menocci Cappabianco - contato-individual-007-removido
+    Profa. Dra. Lilian Berton - contato-individual-014-removido
+    Prof. Dr. Márcio Porto Basgalupp - contato-individual-005-removido
+    Prof. Dr. Marcos Gonçalves Quiles - contato-individual-016-removido
+    Prof. Dr. Rodrigo Colnago Contreras - contato-individual-008-removido 
+
+Docentes colaboradores:
+
+    Prof. Dr. Carlos Marcelo Gurjão de Godoy - contato-individual-013-removido
+    Dr. Leonardo Bacelar Lima Santos (CEMADEN) - contato-individual-018-removido
+    Profª. Dra. Regina Célia Coelho  - contato-individual-017-removido
+    Prof. Dr. Rodolpho Vilhena de Moraes - contato-individual-021-removido 
+
+ 
+
+ 
+Publicado: 14 Dezembro 2020 
+Última Atualização: 06 Abril 2026 

@@ -1,0 +1,13 @@
+{
+  "model_type": "bertimbau_large",
+  "tuning_type": "qlora",
+  "train_epochs": 15.0,
+  "learning_rate": 0.0001,
+  "batch_size": 64,
+  "train_time_seconds": 475.2576675415039,
+  "train_time_minutes": 7.920961125691732,
+  "peak_vram_mb": 5971.66015625,
+  "disk_size_mb": 6.67910099029541,
+  "validation_exact_match": 54.41176470588235,
+  "validation_f1": 72.94492747141523
+}

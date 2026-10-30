@@ -1,0 +1,11 @@
+
+Templates
+
+A seguir, está disponibilizado o template (em Latex) do PPGCC para a escrita de qualificações, dissertações e teses.
+
+    Acessar o template para escrita de Qualificação, Dissertação e Tese: https://www.overleaf.com/read/wwbvmzhpjzsw
+
+Observação importante: configurar o Overleaf com Compiler: XeLaTeX  e  Tex Live version: 2016 (Shared Latex).
+
+Publicado: 23 Novembro 2022 
+Última Atualização: 13 Mai 2023 

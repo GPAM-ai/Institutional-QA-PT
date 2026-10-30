@@ -1,0 +1,288 @@
+
+Normas das Disciplinas
+Em termos de carga horária,  o aluno deverá concluir um total de 56 créditos para obter o título de mestre e  80 créditos para obter o título de doutor. Cada crédito equivale a 15 horas, compreendendo aulas, seminários, atividades de laboratório ou de campo, pesquisa, estudo e técnicas de ensino. Um dos intuitos do curso é deixar que o aluno entre em contato com o seu tema de pesquisa o quanto antes, sem onerá-lo excessivamente com conhecimentos que não serão utilizados posteriormente em sua investigação.
+
+Essa tendência de privilegiar a pesquisa é observada em alguns cursos de pós-graduação de excelência nacionais, que têm procurado exigir menor carga horária em disciplinas, característica também de diversos programas europeus de computação e de outras áreas.
+O curso proposto apresenta características dos sistemas europeu e americano, promovendo o acesso rápido à pesquisa sem deixar de oferecer uma base sólida de conhecimento na área, objetivo importante da pós-graduação.
+Para isso, as atividades do programa de Mestrado estão distribuídas da seguinte forma:
+
+    Disciplinas Obrigatórias: Análise de Algoritmos e Estruturas de Dados (06 créditos), Seminários (02 créditos), Estudos Dirigidos I (03 créditos) e Estudos Dirigidos II (03 créditos);
+    Disciplinas Eletivas: 12 créditos totalizados em disciplinas de 04 ou 02 créditos;
+    Realização de Exame de Proficiência na Língua Inglesa (sem direito a crédito);
+    Aprovação no Exame de Qualificação de Mestrado (sem direito a crédito);
+    Elaboração e Defesa de Dissertação de Mestrado (30 créditos).
+
+No doutorado, em termos de carga horária, o aluno deverá concluir  40 créditos referente a disciplinas e 40 créditos referente à defesa da tese.
+- Disciplinas Obrigatórias:
+   - 2 disciplinas básicas da computação (totalizando 12 créditos)
+   - 3 disciplinas de Seminários (totalizando 06 créditos)
+   - 2 disciplinas de Estudos Dirigidos (totalizando 06 créditos)
+- Disciplinas Eletivas:
+   - 16 créditos totalizados em disciplinas de 02 ou 04 créditos;
+    - Disciplina de Estágio à Docência (obrigatória para bolsistas Capes);
+    - Realização de Exame de Proficiência na Língua Inglesa;
+    - Aprovação no Exame de Qualificação de Doutorado;
+    - Elaboração e Defesa de Dissertação de Doutorado (40 créditos).
+ 
+As disciplinas básicas de computação obrigatórias são:
+- Análise de Algoritmos e Estruturas de Dados (06 créditos)
+- Teoria da Computação (06 créditos)
+
+O programa ainda define uma disciplina eletiva especial de Metodologia Científica para Computação (04 créditos) com conhecimentos básicos para o início da prática de pesquisa na área. Os alunos serão fortemente recomendados a cursar essa disciplina.
+
+ 
+
+Publicado: 14 Janeiro 2021 
+Última Atualização: 04 Abril 2025 
+
+--------------------------------------------------------------------------------------------------------------------------------
+EMENTAS
+
+    DISCIPLINA ANÁLISE DE ALGORITMOS E ESTRUTURAS DE DADOS
+    Detalhes da disciplina Carga horária: 90 horas
+    Créditos: 6
+    Ementa do curso: Estruturas de dados elementares: vetores; matrizes; listas estáticas e
+    dinâmicas (pilhas, filas e listas). Árvores: terminologia, representação; algoritmos de
+    manipulação e percursos em árvores; árvores balanceadas. Ordenação, pesquisa e hashing.
+    Complexidade de algoritmos. Aplicações.
+    Bibliografia:
+    (a) Cormen, T. H.; Leiserson, C. E.; Rivest, R. L. (2009). Introduction to Algorithms: Third Edition,
+    MIT Press & McGraw-Hill.
+    (b) Tenenbaum, A. M.; Langsam, Y.; Augenstein, M. J. (1995). Estruturas de Dados usando C,
+    Pearson Education do Brasil.
+    (c) Ziviani, N. (2004). Projeto de Algoritmos com implementações em Pascal e C.Thomson, 2a.
+    Edição.
+    (d) Knuth, D. E. (1997- 2005). The art of computer programming, Addison-Wesly Publishing
+    Company, vols. 1, 2, 3 e 4.
+    (e) Mehta, D. P.; Sahni, S. (2005). Handbook of Data Structures and Applications,Chapman &
+    Hall/ CRC.
+
+
+    DISCIPLINA RECUPERAÇÃO DE INFORMAÇÃO BASEADA EM CONTEÚDO
+    Carga horária: 60 horas
+    Créditos: 4
+    Ementa do curso: Parte 1- Definição de imagens e processamento de imagens; processo de
+    aquisição de imagens digitais; transformações geométricas e afins; interpolação de pixels;
+    convolução e correlação; descritores de imagens; Parte 2- Representação dos Documentos;
+    Préprocessamento de Texto; Descritores de Textos; Introdução ao Processamento de
+    Linguagem Natural; Introdução à Recuperação da Informação; Arquitetura de um Sistema de
+    RI; Modelos Clássicos de RI; Medidas de Desempenho em RI; Parte 3- Modelos de
+    Aprendizagem para RI; Métodos de Re-ranking; Métodos de Ranking Aggregation; Medidas de
+    Ranking; Algoritmos Evolucionários para RI; Aplicação de RI para problemas reais.
+    Bibliografia:
+    [1] Análise de imagens digitais : princípios, algoritmos e aplicações / Hélio Pedrini, William
+    Robson Schwartz.
+    [2] Modern information retrieval / Ricardo Baeza-Yates, Berthier RibeiroNeto.
+    [3] Content-Based Image Retrieval: Ideas, Influences, and Current Trends / Vipin Tyagi.
+    [4] Data Mining and Machine Learning: Fundamental Concepts and Algorithms / Mohammed J.
+    Zaki and Wagner Meira, Jr
+    [5] Processamentos de linguagem natural / Júlio Serafim Martins
+
+
+    DISCIPLINA REDES NEURAIS
+    Carga horária: 60 horas
+    Créditos: 4
+    Ementa do curso: Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e
+    regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo
+    de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações.
+    Autoencoders. Redes neurais competitivas: SOM, GNG. PCA. Redes Hopfield. Máquinas de
+    Boltzmann e máquinas de Boltzmann restritas. Introdução às arquiteturas profundas: DNN,
+    CNN, RNN. Softwares e aplicações.
+    Bibliografia:
+    1) Rumelhart, David E.; McClelland, James L., Parallel Distributed Processing, Vol. 1:
+    Foundations, A Bradford Book, 1994.
+    2) Haykin S., Neural Networks: A comprehensive Foundation, 2rd Edition Prentice Hall, 1998.
+    3) Haykin S., Neural Networks and Learning Machines, 3rd Edition, Pearson India, 2008.
+    4) Yoshua Bengio and Ian J. Goodfellow and Aaron Courville, Deep Learning, MIT Press, 2016.
+    5) LeCun, Y., Bengio, Y. and Hinton, G. E., Deep Learning, Nature, Vol. 521, pp 436-444.
+
+
+    DISCIPLINA ROBÓTICA E SISTEMAS AUTÔNOMOS
+    Carga horária: 60 horas
+    Créditos: 4
+    Ementa do curso: Introdução aos Sistemas Autônomos. Descrição Espacial e Transformações.
+    Sensores e Atuadores. Locomoção. Controle de Sistemas Dinâmicos. Planejamento de
+    Caminhos. Mapeamento e Localização Simultânea. Inteligência Artificial. Aplicações e Projetos
+    em Robótica Móvel.
+    Bibliografia:
+    1. Introduction to Autonomous Mobile Robots. Roland Siegwart, Illah Reza Nourbakhsh &
+    Davide Scaramuzza. The MIT Press, 2011. 2nd Edition.
+    2. Probabilistic Robotics. Sebastian Thrun, Wolfram Burgard & Dieter Fox. The MIT Press, 2005.
+    3. Planning Algorithms. Steven M. LaValle. Cambridge University Press, 2006.
+    4. Curso de Robótica Móvel. Douglas G. Macharet.
+    5. Artigos, manuais, relatórios técnicos e materiais disponíveis na internet.
+
+
+    DISCIPLINA SEMINÁRIOS
+    Carga horária: 30 horas
+    Créditos: 2
+    Ementa do curso: A ser definida conforme temas de pesquisa atuais na área de Ciência da
+    Computação, e de acordo com avanços recentes, teóricos e experimentais. A cada semana o
+    seminário tratará de um tópico relacionado com uma das linhas de pesquisa do programa.
+    Cada seminarista deverá discorrer sobre assuntos relacionados às suas pesquisas, dando
+    oportunidade aos alunos de aperfeiçoar sua formação através do conhecimento de novas
+    abordagens a problemas da área. O responsável pelo seminário deverá fomentar o debate
+    entre conferencista e alunos, desenvolvendo o espírito crítico científico.
+    Bibliografia: Artigos científicos em periódicos e anais de conferências da área.
+
+
+    DISCIPLINA SISTEMAS CRÍTICOS
+    Carga horária: 60 horas
+    Créditos: 4
+    Ementa do curso: Histórico. Conceitos de sistemas críticos. Processos de desenvolvimento e
+    ciclo de vida de sistemas críticos. Normas e regulamentações de sistemas críticos. Técnicas e
+    processos de análise de riscos, perigos e acidentes. Especificação de requisitos e segurança.
+    Bibliografia:
+    1) Leveson, N. G. Engineering a Safer World: Systems Thinking Applied to Safety. The MIT
+    Press, 2011.
+    2) Sommerville, I. Engenharia de Software, Pearson Education do Brasil, 10ª edição, 2019.
+    3) Smith, D. J. and Simpson, K. G. L. The Safety Critical Systems Handbook. Elsevier B|H, 5th
+    edition, 2020.
+    4) Martins, L. E. G.; Gorschek, T. Requirements Engineering for SafetyCritical Systems.
+    Copenhague: River Publishers, 2021.
+    5) Normas e regulamentações sobre sistemas e software (ISO / IEC / ABNT).
+
+
+    DISCIPLINA SISTEMAS EMBARCADOS
+    Carga horária: 60 horas
+    Créditos: 4
+    Ementa do curso: Introdução e histórico. Microcontroladores. Sistemas de memória. Sensores
+    e atuadores. Periféricos. Interfaces de comunicação. Programação de microcontroladores.
+    Projeto de hardware e software. Aplicações de sistemas embarcados.
+    Bibliografia:
+    Básica:
+    1. PECKOL, James K. Embedded systems: a contemporary design tool. Hoboken, N.J.: John
+    Willey & Sons, 2008. 810 p. ISBN 9780471721802.
+    2. GANSSLE, Jack. The art of designing embedded systems. Burlington, MA: Elsevier, 2008. 298
+    p. ISBN 9780750686440.
+    3. LEE, Edward Ashford; SESHIA, Sanjit Arunkumar. Introduction to embedded systems: a cyber
+    physical systems approach. [S.l.]: LeeSeshia.org, 2011. 480 p. ISBN 9780557708574.
+    Complementar:
+    1. OLIVEIRA, André Schneider de; ANDRADE, Fernando Souza de. Sistemas embarcados:
+    hardware e firmware na prática. 2 ed. São Paulo: Érica, 2010. 320 p. ISBN 9788536501055
+    (Livro).
+    2. ALMEIDA, Rodrigo Maximiano A. de. Programação de sistemas embarcados: desenvolvendo
+    software para microcontroladores em linguagem C. Rio de Janeiro GEN LTC 2016 1 recurso
+    online ISBN 9788595156371 (E-Book).
+    3. LEE, Insup; LEUNG, Joseph Yt; SON, Sang H. Handbook of real-time and embedded systems.
+    [S.l.]: [s.n.], 2007. [p. irr.] ISBN 9781584886785 (Livro).
+    4. MONK, Simon. Programação com Arduino: começando com sketches. 2. Porto Alegre
+    Bookman 2017 1 recurso online ISBN 9788582604472 (E-Book).
+    5. MONK, Simon. Programação com Arduino II: passos avançados com sketches. Porto Alegre
+    Bookman 2015 1 recurso online (Tekne). ISBN 9788582602973 (E-Book).
+    6. WILMSHURST, Tim. Designing embedded systems with PIC microcontrollers: principles and
+    applications. 2nd ed. England: newnes, 2010. 661 p. ISBN 9781856177504 (Livro).
+    7. SOUZA, David José de. Desbravando o microcontrolador PIC18 : ensino didático. São Paulo
+    Erica 2012 1 recurso online ISBN 9788536518329 (E-Book).
+    8. ZANCO, Wagner da Silva. Microcontroladores PIC 18 com linguagem C : uma abordagem
+    prática e objetiva. São Paulo Erica 2010 1 recurso online ISBN 9788536519982 (E-Book).
+
+
+    DISCIPLINA TEORIA DA COMPUTAÇÃO
+    Carga horária: 90 horas
+    Créditos: 6
+    Ementa do curso: Linguagens Regulares: Autômatos finitos determinísticos e não
+    determinísticos; expressões regulares; Linguagens Livres de Contexto: Gramáticas Livres de
+    Contexto; autômatos de pilha; Linguagens Sensíveis ao Contexto e Linguagens Recursivamente
+    Enumeráveis: Máquinas de Turing. Tese de Church-Turing. Indecibilidade: Máquinas de Turing
+    Universais.
+    Bibliografia:
+    1) HOPCROFT, John E; MOTWANI, Rajeev; ULLMAN, Jeffrey D. Introdução a teoria de
+    autômatos, linguagens e computação. [Introduction to automata theory, languages, and
+    computation.]. Rio de Janeiro: Campus, 2002. 560 p. ISBN 978- 85-352-1072-9.
+    2) Aho, Alfred V et al. Compiladores: princípios, técnicas e ferramentas. 2 ed. São Paulo:
+    Person Addison Wesley, 2007. 634 p. ISBN 978-85-88639-24-9. tradução de "Compilers:
+    principles, techniques, and tools.
+    3) MENEZES, Paulo Blauth. Linguagens formais e autômatos. 5.ed. Porto Algre: Bookman,
+    2008. 215 p. ISBN 978-85-7780-266-1
+
+
+    DISCIPLINA TEORIA DOS GRAFOS
+    Carga horária: 60 horas
+    Créditos: 4
+    Ementa do curso: Conceitos básicos de grafos, subgrafos, isomorfismo, caminhos e circuitos, e
+    cortes. Grafos conexos e Teorema de Menger. Grafos Eulerianos. Algoritmos em Árvores.
+    Emparelhamentos. Grafos bipartidos. Grafos hamiltonianos. Conjuntos estáveis e cliques.
+    Coloração de arestas. Coloração de vértices. Noções de planaridade. Fluxo em Redes
+    Bibliografia:
+    1) Bollobás, B. (1998). Modern Graph Theory, Springer-Verlag. Bondy,
+    2) J. A.; Murty, U. S. R. (2008). Graph Theory, Springer.
+    3) Diestel, R. (2005). Graph theory. 3rd Edition. Graduate Texts in Mathematics, 173. Springer-
+    Verlag, Berlin.
+    4) Marco Goldbarg and Elizabeth Goldbarg (2012). Grafos. 1a edição. Editora Campus Elsevier.
+
+
+    DISCIPLINA USER-CENTERED DESIGN
+    Carga horária: 60 horas
+    Créditos: 4
+    Ementa do curso: Fundamental theory and practice of the design, implementation, and
+    evaluation of human-computer interfaces. Topics include UX (User eXperience) Design;
+    principles of design; methods for evaluating interfaces with or without user involvement;
+    techniques for prototyping and implementing user interfaces. Course outcomes: - Explain and
+    reason with core concepts from human-computer interaction, design, psychology, and
+    cognitive science - such as affordances, signifiers, and user experience - and describe existing
+    interfaces based on these principles. - Understand and apply specific user-centered design
+    methods - for user research, ideation, prototyping, and evaluation - to design problems and
+    situations. - Generate design ideas grounded in user research, and rationalize the connection
+    from a design concept back to observations of people's real-world behavior. - Prototype user
+    interfaces using low-level (e.g., paper prototyping, storyboarding), mid-level (e.g.,
+    wireframing), and high-fidelity techniques (e.g., Figma, Adobe XD). - Constructively evaluate
+    and critique user interfaces (e.g., via usability walkthroughs and design heuristics), identifying
+    effective design elements, design weaknesses that require revision, and opportunities for
+    improvement. - Demonstrate design communication skills to present user research and design
+    concepts to elicit criticism and feedback - including sketching, prototyping, personas,
+    scenarios, as well as verbal, written, and video presentation.
+    Bibliografia:
+    1.) Helen Sharp, Yvonne Rogers, Jennifer Preece. Interaction Design: Beyond humancomputer
+    Interaction: Wiley.
+    2.) Don Norman. The Design of Everyday Things: Basic Books.
+    3.) Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt, Bill Buxton. Sketching User
+    Experiences: The Workbook: Elsevier.
+    4.) Bill Buxton. Sketching User Experiences: Getting the Design Right and the Right Design:
+    Elsevier.
+    5.) Simone D. J. Barbosa, Bruno Santana da Silva, Milene Selbach Silveira, Isabela Gasparini,
+    Ticianne Darin, Gabriel D. J. Barbosa. Interação Humano-Computador e Experiência do
+    Usuário: Autopublicação.
+
+
+    DISCIPLINA VISÃO COMPUTACIONAL
+    Carga horária: 60 horas
+    Créditos: 4
+    Ementa do curso: Sistema visual Humano. Abordagens sobre Visão Computacional
+    (Psicológica, Biológica e Computacional). Modelos de Visão Computacional (reducionista,
+    hierárquico, visão ativa). Análise de Texturas. Análise de Texturas Multiescalas. Contornos e
+    Modelos. Transformada de Distância, Geodésica e Esqueletonização. Reconhecimento de
+    Formas. Compressão. Registro. Agrupamento e Classificação de Padrões em Imagens.
+    Bibliografia:
+    (a) Marr, D. V. (1982). A Computational Investigation into Human Representation and
+    Processing of Visual Information, W.H. Freeman, 397pp.
+    (b) Forsyth, D.A.; Ponce, J. (2002). Computer Vision. A Modern Approach. Prentice Hall, 693pp.
+    (c) Trucco, E.; Verri, A. (1998). Introductory Techniques for 3D Computer Vision. Prentice-Hall,
+    343pp.
+    (d) Pedrini, H.; Schwartz, W.R. (2008). Análise de Imagens Digitais: Princípios, Algoritmos e
+    Aplicações. Thomson Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

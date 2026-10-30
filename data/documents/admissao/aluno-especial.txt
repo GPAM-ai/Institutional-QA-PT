@@ -1,0 +1,43 @@
+
+2026/01: Seleção de Alunos em Regime Especial (disciplinas isoladas)
+
+Primeiro semestre de 2026
+
+Inscrições: de 05/01/2026 a 30/01/2026 
+
+Divulgação das inscrições deferidas:  13/02/26
+
+Link inscrições: https://lnkd.in/dx5G_fGC
+
+Seleção: As disciplinas tem vagas limitadas, cada docente responsável por uma disciplina poderá aplicar critérios de seleção.
+
+Divulgação dos resultados: será divulgado no  site da secretaria e os docentes de cada disciplina entrarão em contato diretamente com os alunos com as informações sobre acesso as aulas. Em caso de dúvidas, entrar em contato direto com o docente por email  https://ppg.unifesp.br/cc/orientadores
+
+Início das aulas: 02/03/2026
+
+Fim das aulas: 10/07/2026
+
+Mais informações: https://secpos-sjc.unifesp.br/index.php/alunosespeciais
+
+O PPG-CC irá ofertar as seguintes disciplinas com seus respectivos horários: 
+-------------------------------------------------------------------------------------------------------------------------
+Unidade Curricular                             | Categoria   | Docente                  | Dia - Horário         | Local                     | Vagas
+-------------------------------------------------------------------------------------------------------------------------
+Teoria da Computação                           | Obrigatória | Antonio Chaves           | Seg 13h30 e Qua 15h30 | Presencial Pq. Tecnológico| 20
+Seminários                                     | Obrigatória | Marcio Basgalupp         | Seg 17:30 - 19:00     | Remoto                    | 100
+Análise de Algoritmos e Estrutura de Dados     | Obrigatória | Lilian Berton            | Sex 19:00 - 23:00     | Presencial Talim          | 50
+Visão Computacional                            | Eletiva     | Fábio A. M. Cappabianco  | Qui 19:00 - 23:00     | Híbrido                   | 50
+Fundamentos e Tópicos em Redes Neurais em Grafos| Eletiva     | Didier A. Vega Oliveros  | Seg 19:00 - 23:00     | Presencial Talim          | 10
+Inteligência Artificial                        | Eletiva     | Didier A. Vega Oliveros  | Qua 19:00 - 23:00     | Presencial Talim          | 50
+User Center Design                             | Eletiva     | Tiago Silva da Silva     | Qua 19:00 - 23:00     | Híbrido                   | 50
+Aprendizado de Máquina (4)                     | Eletiva     | Rodrigo Contreras        | Qua 13:30 - 17:30     | Híbrido                   | 50
+Meta-Heurísticas em Otimização Combinatória    | Eletiva     | Antonio Chaves           | Seg 15h30 e Qua 13h30 | Presencial Pq. Tecnológico| 20
+Projeto de Ciência de Dados                    | Eletiva     | Felipe Verri             | Ter 13:30-17:30       | Presencial Pq. Tecnológico| 20
+-------------------------------------------------------------------------------------------------------------------------
+Publicado: 27 Janeiro 2024 
+Última Atualização: 08 Dezembro 2025 
+
+
+
+
+

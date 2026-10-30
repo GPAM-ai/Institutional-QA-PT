@@ -1,0 +1,28 @@
+{
+  "retained_institutional_emails": [
+    "atendimento.pos.sjc@unifesp.br",
+    "biblioteca.ict@unifesp.br",
+    "biblioteca.sjc@unifesp.br",
+    "fas@unifesp.br",
+    "pggcc@unifesp.br",
+    "poggcc@unifesp.br",
+    "ppgcc@unifesp.br",
+    "ppgpq@unifesp.br",
+    "proae@unifesp.br",
+    "sei.sjc@unifesp.br",
+    "sjc@unifesp.br",
+    "soi@unifesp.br",
+    "spg.pos@unifesp.br",
+    "suporte.sjc@unifesp.br",
+    "unifesp@unifesp.br"
+  ],
+  "retained_institutional_phones": [
+    "(12) 3924-9531",
+    "(12) 3924-9563",
+    "(12) 3924-9571"
+  ],
+  "retained_public_faculty_names": true,
+  "student_label": "Estudante 001",
+  "individual_email_label_pattern": "contato-individual-NNN-removido",
+  "scope": "Targeted minimization, not full anonymization. Public faculty identities, roles, dates and source URLs remain."
+}

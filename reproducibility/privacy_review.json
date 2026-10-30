@@ -1,0 +1,24 @@
+{
+  "changed_files": [
+    "data/processed/corpus_completo.json",
+    "data/documents/sobre-o-programa/Linhas-de-Pesquisa.txt",
+    "data/documents/sobre-o-programa/Coordenação.txt",
+    "results/hybrid_sft_truth_a02/hybrid_predictions.json",
+    "results/hybrid_sft_qwen15b_truth/hybrid_predictions.json",
+    "results/hybrid_rag_qwen_always_baseline/hybrid_predictions.json",
+    "results/hybrid_verify_always/hybrid_predictions.json",
+    "results/hybrid_verify_evidence/hybrid_predictions.json",
+    "results/tucano_rag/predictions.json",
+    "results/hybrid_llm_verify/hybrid_predictions.json",
+    "results/hybrid_gated_sft_t8/hybrid_predictions.json"
+  ],
+  "unique_individual_emails_removed": 21,
+  "replacement_operations": {
+    "student_name_occurrences": 76,
+    "individual_profile_occurrences": 1,
+    "individual_email_occurrences": 1806
+  },
+  "private_backup_in_distribution": false,
+  "personal_phone_or_home_address_detected": false,
+  "note": "Counts include offset-prefix transformation operations; they are not distinct-person counts. Residual identification via public roles and source pages remains possible."
+}

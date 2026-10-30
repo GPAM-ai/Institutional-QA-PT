@@ -1,0 +1,43 @@
+
+Projetos de Pesquisa
+ 
+Projetos: Linha Sistemas Inteligentes
+Título: Métodos exatos e heurísticos para a solução de problemas de otimização combinatória
+Professores Envolvidos: Antonio Chaves 
+Descrição: O objetivo principal é desenvolver métodos exatos, heurísticas e metaheurísticas para resolução de problemas de natureza combinatória, industriais ou de serviços, e também analisar os seus aspectos computacionais. Este projeto tem relevância acadêmica e técnica. Pretendemos contribuir para o avanço no estado-da-arte com pesquisas focando em problemas combinatórios oriundos de aplicações industriais.
+ 
+Projetos: Linha Sistemas Inteligentes
+Título: Redes Complexas: métodos e aplicações
+Professores Envolvidos: Elbert Macau, Lilian Berton, Marcos Quiles, Leonardo Santos
+Descrição:  O formalismo das redes complexas permite modelar situações onde um número grande de agentes interagem entre si de forma não trivial. Existem os nós, representando os agentes, enquanto suas interações são capturadas através de arestas que os interconectam. Em geral, tem-se uma topografia não regular de interligação entre nós, que capturam as interações existente no sistema.. Esse formalismo permite modelar os mais diversos fenômenos naturais e cenários tecnológicos. Esse projeto visa (1) estender os conceitos teóricos relacionados ao formalismo das Redes Complexas; (2) aplicá-lo para modelar cenários específicos, em especial a problemas que envolvem um número muito grande de agentes cujas interações entre si alternam-se ao longo do tempo.
+ 
+ 
+Título: Técnicas de Aprendizado de Máquina para Big Data Analytics e Data Science
+Professores Envolvidos: Didier A. Vega-Oliveros, Marcos Quiles, Lilian Berton, Márcio Basgalupp, André Carvalho, Rodrigo Contreras
+Descrição:  O Aprendizado de Máquina (AM) é uma área da Inteligência Computacional (IC) que investiga métodos capazes de generalizar conceitos a partir de dados. As técnicas de AM são então usadas na obtenção de modelos preditivos e descritivos a partir de um ou mais conjuntos de dados. Esses modelos podem ser usados para aumentar a compreensão acerca de um determinado domínio ou gerar recomendações para a tomada de decisão. Com o crescente armazenamento de dados, e a consequente necessidade de sua análise, as pesquisas em AM têm se voltado a dar suporte a Big Data Analytics e Data Science. Este projeto tem como objetivo desenvolver e aplicar técnicas de aprendizado de máquina nos mais variados contextos.
+ 
+ 
+Título: Investigação de Técnicas de Computação Visual e Inteligência de Máquina para Aplicações Médicas, Multimídia e e-Science
+Professores Envolvidos: Fábio Faria, Jurandy Almeida, Fábio Cappabianco, Regina Coelho, Thaína Tosta
+Descrição:  Este projeto visa propor novidades em teorias, algoritmos, métodos e arquiteturas para composição, captura, processamento, análise, reconhecimento, modelagem e geração de dados multimídias em aplicações reais e de domínio eScience. Dentre as diferentes aplicações estão: Pré-processamento, extração de características, segmentação e rastreamento de objetos, registro de imagens, visualização e modelagem 3D, identificação de informações em vídeos, visão de máquina entre outros.
+ 
+Título: Sistemas Robóticos Autônomos: Estudos Avançados e Aplicações de Técnicas de Inteligência Artificial e Visão Computacional
+Professores Envolvidos: Fábio Faria, Fábio Cappabianco, Luiz Galvão Martins, Sérgio Barros
+Descrição:  Sistemas robóticos cada vez mais sofisticados têm revolucionado diversos segmentos da sociedade, especialmente, os setores industriais e de serviços, que necessitam de máquinas inteligentes e capazes de interagir com ambientes em constante mudança, para aprimorar a eficiência e a capacidade produtiva. A autonomia dos sistemas robóticos pode ser atingida a partir da aplicação de técnicas Inteligência Artificial e Visão Computacional, que permitem aos robôs adquirir habilidades não programadas, aprender ações a partir de níveis sofisticados de percepção baseados em imitação e experiência, e reconhecer diferentes cenários circundantes, através da extração de padrões e sinais visuais. Neste contexto, o objetivo deste projeto é investigar e desenvolver novas abordagens, teóricas e aplicadas, que contribuam para o avanço nos diferentes campos da robótica. As abordagens incluem métodos, técnicas e ferramentas nas áreas de expertise dos pesquisadores, que são: Aprendizado de Máquina, Inteligência Artificial, Visão Computacional, Controle de Sistemas Dinâmicos, e Sistemas Embarcados. Em relação ao âmbito das investigações teóricas e práticas para este projeto pode-se destacar a produção de revisões sistemáticas da literatura, a concepção de protótipos robóticos, o desenvolvimento de algoritmos para diversas finalidades, a verificação e validação dos sistemas, e a realização de diferentes estudos de caso em cenários reais. A partir deste projeto espera-se contribuir com a produção e a transferência de novas tecnologias no campo da robótica para o setor produtivo, bem como com a formação profissional de recursos humanos dos níveis de graduação e de pós-graduação, e a divulgação do conhecimento produzido em veículos de alto impacto.
+Observação: Projeto vinculado às linhas de Sistemas Inteligentes e Sistemas Computacionais
+ 
+Projetos: Linha Sistemas Computacionais
+Título: Métodos e Algoritmos para Segurança, Comunicação e Processamento de Alto Desempenho em Redes de Computadores e Sistemas Distribuídos
+Professores Envolvidos: Álvaro Fazenda, Bruno Kimura, Joahannes Costa
+Descrição:  Sistemas computacionais eficientes são a base para a implementação de novos paradigmas tecnológicos, como Redes 5G, IoX (Internet of Everything), Blockchains, Indústria 4.0, Cidades Inteligentes, e-Science. Suas técnicas podem também ser aplicadas a sistemas já consolidados permitindo melhoria de seu desempenho e ampliando suas funcionalidades, tais como modelos numéricos de simulação de fenômenos físicos, algoritmos aplicados a grafos e procedimentos em pesquisa operacional. Esses sistemas e suas técnicas inovadoras viabilizam o desenvolvimento de soluções disruptivas nos mais diversos domínios de aplicações, como em cidades inteligentes, serviços públicos eletrônicos, telemedicina, educação à distância, sistemas de transporte inteligentes, veículos autônomos tripulados e não-tripulados, ciências ambientais, entre outros. Decorrentes dos requisitos cada vez mais rígidos das aplicações, desafios relacionados à eficiência dos sistemas computacionais vêm sendo ampliados. Podem-se destacar: (1) as transmissões de dados em latências ultra-baixas, vazões máximas, zero perda e baixo consumo energético dos dispositivos; (2) a garantia e manutenção das propriedades de segurança da informação (integridade, confidencialidade, autenticidade, não-repúdio e privacidade) nas diferentes etapas do fluxo dos dados; (3) o processamento distribuído e paralelo de forma a otimizar o desempenho de sistemas com volumes de dados e de operações continuamente crescentes, gerados por sistemas e dispositivos finais. Tendo em vista que esses desafios demandam a contínua evolução de sistemas computacionais, este projeto de pesquisa tem foco na investigação de algoritmos, métodos, técnicas, protocolos e aplicações nas áreas de Redes de Computadores, Segurança Computacional, Sistemas Distribuídos e Processamento de Alto Desempenho.
+ 
+ 
+Título: Desenvolvimento de Processos, Métodos, Técnicas e Ferramentas Avançadas para Engenharia de Software
+Professores Envolvidos: Luiz Galvão Martins, Fábio Silveira, Tiago Silva da Silva
+Descrição:  A Engenharia de Software contribui para a melhoria da qualidade e produtividade no desenvolvimento de software, nos diversos segmentos da sociedade. Este projeto tem como objetivo investigar e desenvolver novas abordagens de Engenharia de Software, as quais incluem processos, métodos, técnicas e ferramentas nas áreas de expertise dos pesquisadores: Engenharia de Software Experimental, Teste de Software, Reuso de Software, Interação Humano-Computador, Qualidade de Software, e Engenharia de Requisitos. Neste contexto, as pesquisas associadas a este projeto incluem a execução de revisões sistemáticas, experimentos, estudos de caso e outros tipos de estudos teóricos e aplicados que contribuam para a diminuição de custos, aumento da produtividade e melhoria da qualidade do software desenvolvido. Espera-se contribuir com a transferência de novas tecnologias de software para o setor produtivo, bem como com a formação de recursos humanos e a divulgação do conhecimento produzido em veículos de alto impacto.
+ 
+ 
+
+
+Publicado: 14 Janeiro 2021 
+Última Atualização: 09 Janeiro 2026 

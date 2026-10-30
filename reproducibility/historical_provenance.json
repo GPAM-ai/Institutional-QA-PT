@@ -1,0 +1,34 @@
+{
+  "adapter_provenance": {
+    "phi_4_mini": {
+      "matches_checkpoint_202": true,
+      "sha256": "d030639010c03f7b87cb32e3398daf3657719b79b457b0a0990034311cf377ad",
+      "checkpoint_epoch": 1.0,
+      "checkpoint_step": 202,
+      "base_model": "microsoft/Phi-4-mini-instruct"
+    },
+    "qwen_1.5b": {
+      "matches_checkpoint_202": true,
+      "sha256": "04030dc464a5427bf7a7381b05347fb0242b7923d9ff12a5a1f1220faf158610",
+      "checkpoint_epoch": 1.0,
+      "checkpoint_step": 202,
+      "base_model": "Qwen/Qwen2.5-1.5B-Instruct"
+    }
+  },
+  "phi_effective_retrieval": {
+    "log": "log/logs_eval_phi4_sft_2900440.out",
+    "graph_skipped": true,
+    "indexed_chunks": 318,
+    "graph_changes_base_ranking": false
+  },
+  "source_hashes": {
+    "data/processed/corpus_completo.json": "1c3330ed15ccd80856f6399b83f8ebe2118d3209d7f44b0114b3371bbdbee5bc",
+    "scripts/train_unifesp_qa.py": "77840442d4740675cf061139e81bfcbaec09ada89c03e34649f64e9093a7984a",
+    "scripts/train_llm_rag.py": "836f03725e7f92c6419c549e91eae7053d5f23b40c4a6f9a492da1faee44c452",
+    "scripts/evaluate_hybrid_rag.py": "86ac1b54960934c9aee1aebb6a845f9e4907d9465298473a7ce20f2e5bf948e2",
+    "scripts/evaluate_generative_rag.py": "f1dade1b66aaf83a59b278b95ce09e35663e7ce3ce626477f516c4a463f3eef7",
+    "scripts/retriever.py": "9f8bf81f6d71043d8f39a4bc278873e96d86d959039d48442df16db5e23e75df",
+    "log/logs_eval_phi4_sft_2900440.out": "f66e0bc96eed8dbaf24e6fd37bc532294c6f7427b8360366ba7a43f0d179258a"
+  },
+  "note": "Historical provenance retained from the prior audit. Adapter hashes require local weights to independently verify; weights are not included in the public artifact."
+}

@@ -1,0 +1,107 @@
+
+Defesas
+
+O fluxo de solicitação de banca de defesa é definido pela Secretaria de Pós-Graduação. 
+
+Fluxo Detalhado: https://secpos-sjc.unifesp.br/index.php/formularios/defesa 
+
+Atendimento remoto (Secretaria de Pós-Graduação da UNIFESP/SJC): atendimento.pos.sjc@unifesp.br
+
+Publicado: 23 Novembro 2022 
+Última Atualização: 04 Abril 2025 
+-------------------------------------------------------------------------------------------------------
+
+Defesa de Mestrado/Doutorado
+
+INÍCIO
+
+Discente/orientador envia a solicitação de Banca de Defesa via formulário com no mínimo 45 dias de antecedência da data prevista para realização da defesa*
+
+CEPG homologa a solicitação de Banca de Defesa em reuniões mensais
+
+Solicitação homologada?
+
+Não. Discente faz as correções propostas pela CEPG
+
+Sim. CaPGPq homologa a solicitação de Banca de Defesa em reuniões mensais
+
+Discente/orientador encaminha o texto para banca com antecedência e com a análise de similaridade pelo Turnitin
+
+Secretaria envia o convite aos membros da Banca com 5 dias de antecedência à data de realização da banca
+
+Secretaria envia a documentação ao presidente da banca com 2 dias de antecedência à data de realização da banca
+
+Orientador encaminha e-mail à secretaria após a realização da banca informando o resultado e que a ata está assinada
+
+FIM
+
+*Em alguns programas, o discente/orientador tem que enviar para a CEPG a sugestão de nomes para a banca antes.
+
+ 
+Orientações para solicitação de banca de defesa
+
+Enviar o Requerimento de Solicitação de Banca de Defesa com no mínimo 45 dias de antecedência da data prevista para realização da defesa. 
+
+Devem ser encaminhados TODOS os documentos solicitados no requerimento. Caso falte documento o pedido não será avaliado.
+
+Instruções: 
+
+    Verifique se já cumpriu os requisitos para solicitar a defesa. Consulte o regimento do seu PPG.
+    Apenas para o programa PPG-PIT é necessário enviar previamente o formulário de Sugestão de Banca. Após a confirmação da banca pela coordenação, o requerimento de Solicitação de Banca de Defesa deverá ser preenchido.  
+    É necessário fazer o upload do Histórico Acadêmico em PDF.
+    Para acesso aos formulários do Google Forms,  utilize o seu email institucional Unifesp (obrigatório).  Informações adicionais: 
+
+ Link meet e streaming
+
+     O(a) orientador(a) deve criar o link, pois é o único que tem acesso ao item "adicionar transmissão ao vivo" nas opções do menu no gmail.
+     O link streaming não é de uso obrigatório, se não for utilizá-lo, repetir o link tradicional da sala virtual a ser utilizada nos dois campos do formulário.
+     Para mais informações, acesse:   Como criar o link streaming (https://www.unifesp.br/campus/sjc/images/sjc/pos-graduacao/Formul%C3%A1rios/Defesa/Solicitar_Defesa/Criar_e_iniciar_streaming.pdf) .
+
+TURNITIN para alunos
+
+Relatório de similaridade
+
+     A Unifesp utiliza  o TURNITIN, um  software anti-plágio. Por meio deste, é possível gerar relatórios e identificar o percentual de similaridade entre os textos submetidos ao sistema e a base de dados do software. 
+    Para submeter trabalhos e gerar relatórios de similaridade no TURNITIN, o docente orientador deve solicitar acesso para o aluno enviando e-mail para Biblioteca do ICT - biblioteca.sjc@unifesp.br, conforme instruções da biblioteca.  
+
+downloadPdf Tutorial para docentes:https://www.unifesp.br/campus/sjc/images/sjc/pos-graduacao/Formul%C3%A1rios/Defesa/Solicitar_Defesa/TUTORIAL_TURNITIN.pdf
+
+downloadPdf Tutorial para alunos:https://www.unifesp.br/campus/gua/images/Biblioteca/TUTORIAL_TURNITIN_para_alunos.pdf
+
+É obrigatório fazer upload do relatório de similaridade Turnitin no requerimento de banca e também obrigatório o envio (pelo aluno/orientador) aos membros da banca. É desejável que o envio se dê com ao menos 15 dias de antecedência da data de realização da banca de defesa.
+
+ 
+Formulários para defesa
+
+    PPG-CC: https://docs.google.com/forms/d/e/1FAIpQLSf5zjFtVrPFhZK4LNn1XPYgjvp_l5XOzdSP2zXusYP3OZkdMA/viewform
+
+
+formularioRequerimento de banca de defesa
+
+DOCUMENTOS NECESSÁRIOS - (EXIGIDOS O UPLOAD EM PDF  DOS ITENS DE  01 A 08) - DÚVIDAS; CONSULTE O MENU REQUISITOS DA PÁGINA SECRETARIA 
+https://secpos-sjc.unifesp.br/index.php/formularios/defesa
+01 - PROJETO DE PESQUISA (DISSERTAÇÃO/TESE A SER APRESENTADO À BANCA) - OU SEJA, DEVIDAMENTE E PRATICAMENTE FINALIZADO.
+02 - RELATÓRIO DE SIMILARIDADE (TURNITIN) ATUALIZADO
+03 - CARTA DE APROVAÇÃO CEP COMITÊ DE ÉTICA EM PESQUISA) OU DECLARAÇÃO DE RESPONSABILIDADE, CONFORME O CASO - CONSULTE O SITE DO CEP - https://cep.unifesp.br
+04 - HISTÓRICO ACADÊMICO (ATUALIZADO)
+05 - COMPROVANTE DE REALIZAÇÃO DO PAD (PROGRAMA DE APERFEIÇOAMENTO DIDÁTICO) - OBRIGATÓRIO PARA BOLSISTAS CAPES
+06 - ARTIGO SUBMETIDO UPLOAD EM PDF DO DRAFT (OBRIGATÓRIO PARA O DOUTORADO)
+07 - ARTIGO PUBLICADO UPLOAD EM PDF E O LINK DO LOCAL EM QUE FOI PUBLICADO (OBRIGATÓRIO PARA O DOUTORADO)
+COMPROVANTE DE PARTICIPAÇÃO EM EVENTO CIENTÍFICO, SE FOR REQUISITO EXIGIDO PELO PPG - VER O REGIMENTO DO PPG
+08 - COMPROVANTE DE APRESENTAÇÃO EM EVENTO CIENTÍFICO, SE FOR REQUISITO EXIGIDO PELO PPG - VER O REGIMENTO DO PPG
+09 - DATA DO EXAME DE PROFICIÊNCIA EM LÍNGUA ESTRANGEIRA (INGLÊS) REALIZADO (DIA/MÊS/ANO)
+10 - DATA DO EXAME DE QUALIFICAÇÃO REALIZADO (DIA/MÊS/ANO)
+11 - TENHA EM MÃOS O NÚMERO DO CPF,  O CÓDIGO ORCiD (Open Researcher and Contributor ID), A DATA DE NASCIMENTO E O LINK DO LATTES DE CADA UM DOS MEMBROS DA BANCA - INCLUINDO OS DOS SUPLENTES
+12 - LINK DA SALA VIRTUAL E EM STREAMING (OPCIONAL) - PARA SEGURANÇA (VEJA COMO CRIAR O LINK DE STREAMING NA PÁGINA DA SECRETARIA 
+*QUANTO AO LINK STREAMING PEÇA AO SEU ORIENTADOR(A) PARA CRIA-LO POIS SOMENTE ELES TEM ACESSO AO ITEM "Adicionar transmissão ao vivo" NAS OPÇÕES DO MENU NO GMAIL. (OPCIONAL)
+13-DESCREVER OS PRINCIPAIS DESTAQUES TÉCNICOS E CIENTÍFICOS DO TRABALHOS OBS.:
+VEJA QUAIS SÃO ESSES PONTOS COM SEU/SUA ORIENTADOR(A)
+14-DECLARAÇÃO DE USO DE FERRAMENTAS DE IA -  DOCUMENTO A SER GERADO VIA SISTEMA SEI: PROPGPQ: DECLARAÇÃO DE USO DE IA Para gerar e obter o documento acesse: https://docs.google.com/forms/d/e/1FAIpQLSd-xgQIPvsfFm_vTUq4TBvD9aK2IY0xUS_817GsA_3M7-2cOQ/viewform
+ATENÇÃO: REQUERIMENTOS FORA DO PRAZO (45 DIAS ANTES DA DATA AGENDADA PARA REALIZAÇÃO DA BANCA [APRESENTAÇÃO] ) NÃO SERÃO ACEITOS
+OS REQUERIMENTOS PRECISAM PASSAR POR ANÁLISE, CONVALIDAÇÃO E HOMOLOGAÇÃO DA CEPG (COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO) DO PPG CORRESPONDENTE PARA QUE A BANCA OCORRA NA FORMA PROPOSTA NOS TERMOS APRESENTADOS NESTE REQUERIMENTO.
+ 
+
+ 
+
+ 
+

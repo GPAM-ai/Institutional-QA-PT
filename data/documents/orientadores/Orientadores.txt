@@ -1,0 +1,93 @@
+
+Orientadores
+
+Sistemas Computacionais
+
+    Prof. Dr. Álvaro Luiz Fazenda
+    Computação de Alto-Desempenho
+
+
+
+    Prof. Dr. André Marcorin de Oliveira
+    Controle de Sistemas Dinâmicos e Sistemas Embarcados
+
+
+    Prof. Dr. Bruno Yuji L. Kimura
+    Avaliação de desempenho, Sistemas Computacionais Distribuídos, Comunicação de Dados, Redes de Próxima Geração (B5G/6G), Protocolos de Transporte, Comunicação Multimídia, IoT/IoX, Aprendizado Distribuído
+
+
+    Prof. Dr. Ezequiel Zorzal
+    Realidade Virtual
+
+
+    Prof. D. Fábio A. M. Cappabianco
+    Processamento de Imagens
+
+
+    Prof. Dr. Fábio F. Silveira
+    Engenharia de Software
+
+
+    Prof. Dr. Luiz E. Galvão Martins
+    Engenharia de Requisitos, Engenharia de Software para Sistemas Embarcados, Safety-Critical Systems, Sistemas Ciberfísicos, Sistemas Robóticos, e Inovação Tecnológica em Sistemas Médicos.
+
+
+    Prof. Dr. Sérgio Ronaldo B. dos Santos
+    Controle de Sistemas Dinâmicos e Sistemas Embarcados
+
+
+    Prof. Dr. Tiago S. da Silva
+    Interação Humano-Computador
+
+
+Sistemas Inteligentes
+
+    Prof. Dr. André C. P. L. F. de Carvalho
+    Inteligência Artificial
+
+
+    Prof. Dr. Antonio Augusto Chaves
+    Metaheurísticas
+
+
+    Prof. Dr. Elbert E. N. Macau
+    Sistemas Complexos
+
+
+    Prof. Dr. Didier A. Vega Oliveros
+    Inteligência Artificial e Aplicações
+
+    Profa. Dra. Lilian Berton
+    Inteligência Artificial
+
+
+    Prof. Dr. Márcio P. Basgalupp
+    Ciência de Dados, Aprendizado de Máquina, AutoML, Data Streams, Computação Bioinspirada e Cidades Inteligentes
+
+
+    Prof. Dr. Marcos G. Quiles
+    Aprendizado de Máquina e Aplicações
+
+
+    Prof. Dr. Rodrigo Colnago Contreras
+    Processamento de Sinais
+
+
+Colaboradores
+
+    Prof. Dr. Carlos Marcelo Gurjão de Godoy
+    Processamento de Sinais
+
+
+    Prof. Dr. Leonardo Bacelar Lima Santos
+    Sistemas Complexos
+
+
+    Profa. Dra. Regina Célia Coelho
+    Processamento de Imagens, Visão Computacional, Computação Gráfica, Realidade Virtual e Aumentada, Desenvolvimento de Aplicativos para a Educação e Área da Saúde, Desenvolvimento de Ambiente de Simulação para a Área da Saúde
+
+    Prof. Dr. Rodolpho Vilhena de Moraes
+    Otimização
+
+ Publicado: 28 Março 2026 
+ Última Atualização: 05 Abril 2026 

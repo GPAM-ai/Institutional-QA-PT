@@ -1,0 +1,13 @@
+{
+  "model_type": "bertimbau_base",
+  "tuning_type": "lora",
+  "train_epochs": 15.0,
+  "learning_rate": 2e-05,
+  "batch_size": 64,
+  "train_time_seconds": 35.55879545211792,
+  "train_time_minutes": 0.592646590868632,
+  "peak_vram_mb": 10432.75732421875,
+  "disk_size_mb": 2.9205379486083984,
+  "validation_exact_match": 0.0,
+  "validation_f1": 4.14372482720134
+}

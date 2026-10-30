@@ -1,0 +1,93 @@
+
+Pós Defesa
+
+O fluxo do procedimento pós-defesa é definido pela Secretaria de Pós-Graduação. 
+
+Fluxo Detalhado: https://secpos-sjc.unifesp.br/index.php/formularios/pos-defesa
+
+Atendimento remoto (Secretaria de Pós-Graduação da UNIFESP/SJC): atendimento.pos.sjc@unifesp.br
+
+Publicado: 23 Novembro 2022 
+Ultima Atualização: 04 Abril 2025 
+------------------------------------------------------------------------------------------------------
+
+Pós-defesa
+
+
+INÍCIO
+
+Discente realiza o depósito da dissertação/tese no repositório institucional http://tinyurl.com/3atyeca3
+
+Discente realiza o peticionamento via SEI do tipo: Repositório Institucional
+
+Discente realiza o peticionamento via SEI do tipo: Requerimento de Diploma
+
+Secretaria solicita a análise e aprovação do orientador e da coordenação do PPG no processo tipo Repositório Institucional
+
+Após o trabalho aprovado, a Secretaria tramita o processo SEI para a CaPGPq para análise e homologação
+
+CaPGPq faz a homologação do título e encaminha os documentos ao CPGPq
+
+CPGPq faz a homologação do Título
+
+Discente retira o diploma na secretaria de pós graduação da Talim em aproximadamente 90 dias após a homologação
+
+FIM
+ 
+
+Observações:
+
+    Prazo regimental para depositar a Dissertação/Tese (PPG-PO, PPG-CC, PPG-BIOTEC, PPG-EM, PPG-PIT): 30 dias corridos (a contar da Defesa realizada).
+    Prazo regimental para depositar a Dissertação/Tese (PPG-EB, PROFMAT e PPGMAT): 60 dias corridos (a contar da Defesa realizada).
+    Para saber os requisitos para homologação de título acesse: Regimento Interno de Pós-graduação e Pesquisa da Unifesp (artigos 90, 91 e 92)https://www.unifesp.br/reitoria/propgpq/servicos/noticias-todos/comunicados/641-regimento-interno-da-pro-reitoria-de-pos-graduacao-e-pesquisa .
+    Após concluir as 2 (duas) etapas subsequentes de finalização do curso, se houver inconsistências, estas serão averiguadas posteriormente na checagem da documentação enviada, e providências adicionais serão solicitadas ao aluno(a) concluinte.
+
+Em caso de dúvida, contate exclusivamente o e-mail: atendimento.pos.sjc@unifesp.br 
+
+Procedimentos: 
+
+Procedimentos Pós-defesa - Primeira etapa: Depósito no Repositório Institucional
+
+1a. Etapa - Enviar a dissertação/tese - depositar no repositório institucional
+
+Passo-a-passo para realizar o autodepósito do arquivo digital (pdf) de sua dissertação/tese - final no repositório institucional:
+
+    1. Acesse o repositório institucional - http://repositorio.unifesp.br/
+        Para fazer o login no repositório institucional e submeter seu trabalho insira seu usuário e senha da intranet.
+    2. Siga o tutorial para auto-arquivamento - Depósito de dissertações/teses https://secpos-sjc.unifesp.br/images/institutional/pattern/formularios/pos-defesa/NOVO_Tutorial_para_auto-arquivamento_-_Teses_e_dissertaes.pdf
+    3. Não é necessário aguardar o processo de revisão da dissertação/tese depositada para prosseguir com as demais etapas.
+
+Mais informações:
+
+    Descrição do fluxo completo (PROPGPq): https://www.unifesp.br/reitoria/propgpq/tipos-de-processos/repositorio-institucional
+    Perguntas Frequentes:https://bibliotecas.unifesp.br/servicos/ri-perguntas-frequentes
+
+Atenção: Lembre-se de assinalar ou não o item 'embargo' para divulgação ou não da dissertação/tese. O embargo é a restrição de publicização de seu trabalho acadêmico por um prazo de 12 meses, prorrogável por mais 12 meses a pedido.
+
+Em caso de dúvidas contate a biblioteca do ICT pelo e-mail: biblioteca.sjc@unifesp.br 
+
+
+Procedimentos Pós-defesa - Segunda etapa: Peticionamento
+
+2a. Etapa - Peticionamento 
+
+    Antes leia o conteúdo disponível no link: https://www.unifesp.br/reitoria/propgpq/sei-pos-graduacao.
+    Verifique seu cadastro no sistema SEI-UNIFESP para acesso ao módulo de peticionamento: Cadastro
+        Caso ainda não tenha acesso,  cadastre-se para ter acesso ao Módulo de Peticionamento. Em caso de dúvidas entre em contato com sei.sjc@unifesp.br com cópia para atendimento.pos.sjc@unifesp.br (informe seu nome completo, número de matrícula, curso e ano de ingresso).
+
+IMPORTANTE:  É necessário abrir dois processos, um para o Repositório Institucional (Processo1) e outro para o Requerimento de Diploma (Processo2).
+
+ 
+
+Processo 1) Peticionamento Pós-Graduação - Repositório Institucional
+
+    Após realizar o depósito de sua dissertação/tese final, faça o peticionamento conforme o passo-a-passo descrito neste tutorial: https://secpos-sjc.unifesp.br/images/institutional/pattern/formularios/gerais/Repositorio_Institucional-SEI-Tutorial-AT-01_2024.pdf
+    Abrir um processo no SEI-UNIFESP do tipo: PROPGPQ - Repositório institucional
+
+Processo 2) Peticionamento PROPGPQ - Requerimento de diploma
+
+    Abrir um processo no SEI-UNIFESP do tipo: PROPGPQ - Requerimento de diploma 
+        Faça o peticionamento conforme o passo-a-passo em orientações gerais para peticionamento(https://www.unifesp.br/reitoria/propgpq/peticionamento-eletronico)
+
+ 
+

@@ -1,0 +1,13 @@
+{
+  "model_type": "mbert",
+  "tuning_type": "qlora",
+  "train_epochs": 15.0,
+  "learning_rate": 0.0002,
+  "batch_size": 64,
+  "train_time_seconds": 211.52279114723206,
+  "train_time_minutes": 3.5253798524538675,
+  "peak_vram_mb": 3341.3935546875,
+  "disk_size_mb": 5.0581254959106445,
+  "validation_exact_match": 29.411764705882355,
+  "validation_f1": 43.69644236686455
+}

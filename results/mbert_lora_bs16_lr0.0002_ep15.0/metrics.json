@@ -1,0 +1,13 @@
+{
+  "model_type": "mbert",
+  "tuning_type": "lora",
+  "train_epochs": 15.0,
+  "learning_rate": 0.0002,
+  "batch_size": 16,
+  "train_time_seconds": 167.49650621414185,
+  "train_time_minutes": 2.791608436902364,
+  "peak_vram_mb": 2756.98193359375,
+  "disk_size_mb": 5.0581254959106445,
+  "validation_exact_match": 33.82352941176471,
+  "validation_f1": 48.00022102034784
+}

@@ -1,0 +1,2450 @@
+[
+  {
+    "id": "custom_bol_019",
+    "question": "Quantos créditos possui a disciplina de Teoria da Computação na grade do doutorado?",
+    "gold_answer": "6 créditos",
+    "llm_response": "Os créditos da disciplina de Teoria da Computação são os seguintes: 1 crédito por semestre. A disciplina tem duração total de 60 créditos. A carga horária semanal"
+  },
+  {
+    "id": "custom_bol_019_var0",
+    "question": "creditos teoria da computacao doutorado",
+    "gold_answer": "6 créditos",
+    "llm_response": "As disciplinas básicas de computação obrigatórias são: - Análise de Algoritmos e Estruturas de Dados (06 créditos) - Teoria da Computação (06 créditos)"
+  },
+  {
+    "id": "custom_bol_019_var1",
+    "question": "carga creditos teoria computacao",
+    "gold_answer": "6 créditos",
+    "llm_response": "Carga Horária: 90 Horas Créditos: 6"
+  },
+  {
+    "id": "custom_bol_019_var2",
+    "question": "quantos creditos vale teoria da computação",
+    "gold_answer": "6 créditos",
+    "llm_response": "Os créditos equivalem ao total de horas-aula ministradas durante os dois semestres letivos do curso, acrescido de 60 (sessenta) horas-aulas"
+  },
+  {
+    "id": "rule_link_egressos_001",
+    "question": "Qual é o link da lista de egressos mencionado no documento?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/egressos2/egressos",
+    "llm_response": "Perfil do Programa PPG-CC - [PERFIL_PESSOAL_REMOVIDO]"
+  },
+  {
+    "id": "rule_link_egressos_001_var0",
+    "question": "Onde posso encontrar o endereço de internet para link da lista de egressos?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/egressos2/egressos",
+    "llm_response": "Para acessar a lista de egressos do programa, clique aqui."
+  },
+  {
+    "id": "rule_link_egressos_001_var1",
+    "question": "Qual o link de acesso para link da lista de egressos?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/egressos2/egressos",
+    "llm_response": "Para acessar o link da lista de egressos do PPG-CCD, clique aqui."
+  },
+  {
+    "id": "rule_link_egressos_001_var2",
+    "question": "Qual site é fornecido para link da lista de egressos?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/egressos2/egressos",
+    "llm_response": "Site da secretaria acadêmica: https://www.secretaria.propesq.pg.br/"
+  },
+  {
+    "id": "custom_v2_sel_009",
+    "question": "Qual comissão conduz o processo seletivo de alunos regulares?",
+    "gold_answer": "Comissão Especial de Seleção (CES)",
+    "llm_response": "As Comissões Especiais de Seleção são compostas pelos docentes, conforme indicado na Resolução n 01, de 20 de dezembro de 2019, publicada no D.O.E. de"
+  },
+  {
+    "id": "custom_v2_sel_009_var0",
+    "question": "quem faz selecao de aluno regular",
+    "gold_answer": "Comissão Especial de Seleção (CES)",
+    "llm_response": "Professor Titular - Antonio Augusto Chaves"
+  },
+  {
+    "id": "custom_v2_sel_009_var1",
+    "question": "comissao especial selecao regular",
+    "gold_answer": "Comissão Especial de Seleção (CES)",
+    "llm_response": "As disciplinas são oferecidas conforme demanda do corpo docente do Programa. Os candidatos devem estar atentos ao cronograma de atividades do curso e às datas de divulgação dos editais."
+  },
+  {
+    "id": "custom_v2_sel_009_var2",
+    "question": "ces selecao alunos regulares",
+    "gold_answer": "Comissão Especial de Seleção (CES)",
+    "llm_response": "As disciplinas são oferecidas conforme cronograma disponível na página do curso. Os candidatos devem acompanhar as datas divulgadas através do site da Secretaria do Programa (http://www.secret"
+  },
+  {
+    "id": "custom_disc_012",
+    "question": "O que estuda a ementa de Redes Neurais além das redes neurais competitivas?",
+    "gold_answer": "Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações. Autoencoders",
+    "llm_response": "As redes neurais são uma subárea da inteligência artificial (IA), especificamente focando na construção de modelos preditivos baseados em dados de entrada. As redes"
+  },
+  {
+    "id": "custom_disc_012_var0",
+    "question": "ementa redes neurais MLP perceptrons",
+    "gold_answer": "Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações. Autoencoders",
+    "llm_response": "Perceptron multicamada (multi-camada)"
+  },
+  {
+    "id": "custom_disc_012_var1",
+    "question": "retropropagacao ementa redes neurais",
+    "gold_answer": "Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações. Autoencoders",
+    "llm_response": "As redes neurais são uma classe de sistemas baseados em aprendizado profundo que permitem a construção de modelos preditivos complexos usando técnicas como retropropagação. As principais características"
+  },
+  {
+    "id": "custom_disc_012_var2",
+    "question": "hopfield boltzmann redes neurais",
+    "gold_answer": "Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações. Autoencoders",
+    "llm_response": "As redes neurais são uma classe de modelos matemáticos que permitem a construção de sistemas inteligentes capazes de aprender padrões complexos através de dados rotulados. As principais características"
+  },
+  {
+    "id": "sobre_programa_apresentacao_002",
+    "question": "A quem se destina formalmente o Programa de Pós-Graduação em Ciência da Computação?",
+    "gold_answer": "portadores de diploma de graduação, outorgado por Instituição de Ensino Superior (IES) reconhecida pelo MEC.",
+    "llm_response": "Os discentes, regularmente matriculados no Programa, são:"
+  },
+  {
+    "id": "sobre_programa_apresentacao_002_var0",
+    "question": "Quem pode se candidatar ao PPG-CC?",
+    "gold_answer": "portadores de diploma de graduação, outorgado por Instituição de Ensino Superior (IES) reconhecida pelo MEC.",
+    "llm_response": "Profa. Dra. Raiane Patrícia Severino Assumpção Vice-reitora, em exercício da Reitoria, e da Presidência do Consu"
+  },
+  {
+    "id": "sobre_programa_apresentacao_002_var1",
+    "question": "Quais os requisitos de formação para ingressar no programa?",
+    "gold_answer": "portadores de diploma de graduação, outorgado por Instituição de Ensino Superior (IES) reconhecida pelo MEC.",
+    "llm_response": "Para ingressar, o candidato deve ser aprovado no processo seletivo do programa, realizado anualmente pela Comissão Coordenadora do Programa (CCP)."
+  },
+  {
+    "id": "sobre_programa_apresentacao_002_var2",
+    "question": "O PPG-CC é voltado para quais portadores de diploma?",
+    "gold_answer": "portadores de diploma de graduação, outorgado por Instituição de Ensino Superior (IES) reconhecida pelo MEC.",
+    "llm_response": "Os cursos de mestrado e doutorado são voltados para todos os portadores de diploma. Os candidatos devem estar regularmente matriculados, cursando as disciplinas obrigatórias e cumprindo"
+  },
+  {
+    "id": "custom_proj_017",
+    "question": "Quais são as áreas de expertise dos pesquisadores no projeto de Sistemas Robóticos Autônomos?",
+    "gold_answer": "Aprendizado de Máquina, Inteligência Artificial, Visão Computacional, Controle de Sistemas Dinâmicos, e Sistemas Embarcados",
+    "llm_response": "Experiências em Aprendizagem de Máquina; Inteligência Artifical; Visão Computacional; Controle de Sistemas Dinâmicos; Sistemas Embarcados, entre outros."
+  },
+  {
+    "id": "custom_proj_017_var0",
+    "question": "expertise pesquisadores robotica",
+    "gold_answer": "Aprendizado de Máquina, Inteligência Artificial, Visão Computacional, Controle de Sistemas Dinâmicos, e Sistemas Embarcados",
+    "llm_response": "Experiência na área de Robótica Aplicada à Automação Industrial e Sistemas Ciberfísicos."
+  },
+  {
+    "id": "custom_proj_017_var1",
+    "question": "areas de conhecimento robotica autônoma",
+    "gold_answer": "Aprendizado de Máquina, Inteligência Artificial, Visão Computacional, Controle de Sistemas Dinâmicos, e Sistemas Embarcados",
+    "llm_response": "As áreas de conhecimento relacionadas à robótica autônoma, são as seguintes:"
+  },
+  {
+    "id": "custom_proj_017_var2",
+    "question": "sistemas embarcados controle dinâmicos robotica",
+    "gold_answer": "Aprendizado de Máquina, Inteligência Artificial, Visão Computacional, Controle de Sistemas Dinâmicos, e Sistemas Embarcados",
+    "llm_response": "Os sistemas embarcados são dispositivos que podem executar tarefas complexas usando componentes eletrônicos integrados ou controlando-os por meio de software. Eles geralmente têm recursos avançados de hardware"
+  },
+  {
+    "id": "custom_reg_021",
+    "question": "O estudante pode ter mais de um orientador credenciado no programa?",
+    "gold_answer": "Cada estudante terá um único orientador credenciado no PPG-CC",
+    "llm_response": "Se você tiver dois orientadores, você terá duas bolsas de produtividade do CNPq. Se você tiver três orientadores, você terá três bolsas de produtividade do CNPq, além de"
+  },
+  {
+    "id": "custom_reg_021_var0",
+    "question": "pode ter dois orientadores ppgcc",
+    "gold_answer": "Cada estudante terá um único orientador credenciado no PPG-CC",
+    "llm_response": "As orientações devem estar vinculadas à mesma linha de pesquisa, sendo possível haver mais de duas linhas de pesquisa. Artigos 1 e 2 são exemplos de atividades de orientação, conforme"
+  },
+  {
+    "id": "custom_reg_021_var1",
+    "question": "coorientacao regulamento ppgcc",
+    "gold_answer": "Cada estudante terá um único orientador credenciado no PPG-CC",
+    "llm_response": "Os programas de mestrado e doutorado estão organizados em linhas de pesquisa e subáreas de conhecimento."
+  },
+  {
+    "id": "custom_reg_021_var2",
+    "question": "orientador unico ppgcc",
+    "gold_answer": "Cada estudante terá um único orientador credenciado no PPG-CC",
+    "llm_response": "Perfil 1"
+  },
+  {
+    "id": "custom_v2_ava_004",
+    "question": "Como é calculado o Coeficiente de Rendimento (CR) do discente?",
+    "gold_answer": "média dos conceitos obtidos nas disciplinas do curso, ponderados por suas respectivas unidades de crédito",
+    "llm_response": "Para calcular o CR do discente, serão considerados todos os conceitos, exceto aqueles relacionados às disciplinas obrigatórias e eletivas."
+  },
+  {
+    "id": "custom_v2_ava_004_var0",
+    "question": "calculo cr ppgcc",
+    "gold_answer": "média dos conceitos obtidos nas disciplinas do curso, ponderados por suas respectivas unidades de crédito",
+    "llm_response": "Publicado: 10 Março 2020"
+  },
+  {
+    "id": "custom_v2_ava_004_var1",
+    "question": "como calcula o cr do aluno",
+    "gold_answer": "média dos conceitos obtidos nas disciplinas do curso, ponderados por suas respectivas unidades de crédito",
+    "llm_response": "Segue abaixo o texto original:"
+  },
+  {
+    "id": "custom_v2_ava_004_var2",
+    "question": "coeficiente rendimento calculo",
+    "gold_answer": "média dos conceitos obtidos nas disciplinas do curso, ponderados por suas respectivas unidades de crédito",
+    "llm_response": "Para calcular o coeficiente de rendimento, você precisa saber qual é o número total de créditos necessários para concluir seu programa de pós-graduação. Você pode encontrar essas informações"
+  },
+  {
+    "id": "llm_aluno-especial_seg002_04",
+    "question": "Qual a modalidade de ensino da disciplina de Aprendizado de Máquina (4)?",
+    "gold_answer": "Híbrido",
+    "llm_response": "Modalidade de Ensino: Bacharelado em Ciência da Computação"
+  },
+  {
+    "id": "llm_aluno-especial_seg002_04_var0",
+    "question": "Aprendizado de Máquina (4) é presencial ou remoto?",
+    "gold_answer": "Híbrido",
+    "llm_response": "As informações fornecidas sobre aprendizagem de máquina (4), incluindo detalhes sobre seu formato de projeto, objetivos e metodologia, estão disponíveis apenas em inglês. Para obter respostas específicas à sua pergunta,"
+  },
+  {
+    "id": "llm_aluno-especial_seg002_04_var1",
+    "question": "Formato da aula de Aprendizado de Máquina (4)",
+    "gold_answer": "Híbrido",
+    "llm_response": "Explique brevemente o formato da aula de Aprendizado de Máquina, incluindo tópicos específicos abordados.</instruction:"
+  },
+  {
+    "id": "custom_pos_020",
+    "question": "Qual o link para acessar as orientações gerais de peticionamento eletrônico da reitoria da Unifesp?",
+    "gold_answer": "https://www.unifesp.br/reitoria/propgpq/peticionamento-eletronico",
+    "llm_response": "As orientações gerais para peticionamento eletrônico estão disponíveis em: https://www.unifesp.br/reitoria/propgpq/orientacoes-gerais. Acessando"
+  },
+  {
+    "id": "custom_pos_020_var0",
+    "question": "link orientações gerais peticionamento",
+    "gold_answer": "https://www.unifesp.br/reitoria/propgpq/peticionamento-eletronico",
+    "llm_response": "Obrigado! A partir deste momento você está habilitado para peticionar. Acesse o link abaixo para saber como proceder:"
+  },
+  {
+    "id": "custom_pos_020_var1",
+    "question": "peticionamento eletronico propgpq unifesp",
+    "gold_answer": "https://www.unifesp.br/reitoria/propgpq/peticionamento-eletronico",
+    "llm_response": "Objetivo: Aprovar os procedimentos para peticionamento eletrônico dos processos de seleção de alunos especiais nos cursos de pós-graduação stricto sensu (mest"
+  },
+  {
+    "id": "custom_pos_020_var2",
+    "question": "sei propgpq peticionamento eletronico",
+    "gold_answer": "https://www.unifesp.br/reitoria/propgpq/peticionamento-eletronico",
+    "llm_response": "Objetivo: Apresentar os passos necessários para realização do peticionamento eletrônico no Sistema Eletrônico de Informações (SEI), utilizando o login e senha do"
+  },
+  {
+    "id": "rule_link_pos-defesa_001",
+    "question": "Qual é o link importante mencionado no documento?",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/formularios/pos-defesa",
+    "llm_response": "Observação: O link relevante é: https://meet.google.com/sfm-dzvwi-qpb"
+  },
+  {
+    "id": "rule_link_pos-defesa_001_var0",
+    "question": "Onde posso encontrar o endereço de internet para link importante?",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/formularios/pos-defesa",
+    "llm_response": "Para acessar o site da secretaria do programa, clique aqui."
+  },
+  {
+    "id": "rule_link_pos-defesa_001_var1",
+    "question": "Qual o link de acesso para link importante?",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/formularios/pos-defesa",
+    "llm_response": "As informações sobre o link de acesso à página da secretaria estão disponíveis na página da Secretaria do Programa de Pós-Graduação em Ciência da Computação (PPG-CC) https://s"
+  },
+  {
+    "id": "rule_link_pos-defesa_001_var2",
+    "question": "Qual site é fornecido para link importante?",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/formularios/pos-defesa",
+    "llm_response": "Site: https://www.Ppgcc.sites.unifesp.br/site/index.html"
+  },
+  {
+    "id": "custom_proap_004",
+    "question": "Qual o site para preenchimento do formulário de solicitação da verba PROAP?",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/proapnovo",
+    "llm_response": "Site: https://www.Capes.gov.br/site/capa/verbete/verbas"
+  },
+  {
+    "id": "custom_proap_004_var0",
+    "question": "site formulario proap",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/proapnovo",
+    "llm_response": "Perfil: PROAP - Programa de Apoio à Pós-Graduação"
+  },
+  {
+    "id": "custom_proap_004_var1",
+    "question": "link de solicitação proap",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/proapnovo",
+    "llm_response": "As solicitações devem ser enviadas por e-mail para: ppgcc@unifesp.br. As informações necessárias estão disponíveis na página de cada curso."
+  },
+  {
+    "id": "custom_proap_004_var2",
+    "question": "onde pedir verba proap",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/proapnovo",
+    "llm_response": "Perfil PROAP: https://www.proafep.unesp.br/perfil-proap/"
+  },
+  {
+    "id": "custom_req_006",
+    "question": "Em qual sistema virtual e link o estudante deve obter o histórico acadêmico?",
+    "gold_answer": "https://siiu.unifesp.br/login",
+    "llm_response": "Para acessar o histórico acadêmico, clique aqui."
+  },
+  {
+    "id": "custom_req_006_var0",
+    "question": "link historico academico",
+    "gold_answer": "https://siiu.unifesp.br/login",
+    "llm_response": "Obrigado por entrar em contato! Você pode encontrar as instruções detalhadas sobre como preencher o formulário de solicitação de banca de defesa, bem como acessar os links de transmissão"
+  },
+  {
+    "id": "custom_req_006_var1",
+    "question": "siiu historico",
+    "gold_answer": "https://siiu.unifesp.br/login",
+    "llm_response": "Segue abaixo o Histórico Acadêmico: https://sieu.unifesp.br/siiu/historico.htm"
+  },
+  {
+    "id": "custom_req_006_var2",
+    "question": "siiu unifesp login",
+    "gold_answer": "https://siiu.unifesp.br/login",
+    "llm_response": "Perfil SiIu: https://si-ii.unifesp.br/siiu/login/login.aspx Usuário externo (somente): https://"
+  },
+  {
+    "id": "rule_link_aluno-especial_001",
+    "question": "Qual é o link de inscrições mencionado no documento?",
+    "gold_answer": "https://lnkd.in/dx5G_fGC",
+    "llm_response": "Link de Inscrição: https://lnkd.in/dx5G_fGC"
+  },
+  {
+    "id": "rule_link_aluno-especial_001_var0",
+    "question": "Onde posso encontrar o endereço de internet para link de inscrições?",
+    "gold_answer": "https://lnkd.in/dx5G_fGC",
+    "llm_response": "As inscrições serão realizadas exclusivamente pelo sistema eletrônico https://lattes.cnpq.br/web/docs/inscrições, acessando o link “Inscrição"
+  },
+  {
+    "id": "rule_link_aluno-especial_001_var1",
+    "question": "Qual o link de acesso para link de inscrições?",
+    "gold_answer": "https://lnkd.in/dx5G_fGC",
+    "llm_response": "Para acessar o link de inscrições, clique aqui."
+  },
+  {
+    "id": "rule_link_aluno-especial_001_var2",
+    "question": "Qual site é fornecido para link de inscrições?",
+    "gold_answer": "https://lnkd.in/dx5G_fGC",
+    "llm_response": "Site oficial do Programa de Pós-Graduação em Ciência da Computação (PPGCC) - http://www.Ppgcc.Com.br/"
+  },
+  {
+    "id": "custom_req_003",
+    "question": "Qual o link de acesso ao sistema SEI para usuários externos realizarem peticionamento?",
+    "gold_answer": "https://portalsei.unifesp.br/usuario-externo",
+    "llm_response": "Objetivo: Este tópico visa responder à pergunta sobre como acessar o Sistema Eletrônico de Informações (SEI), utilizado pela Pró-reitoria de Pós-Gradução (ProPG"
+  },
+  {
+    "id": "custom_req_003_var0",
+    "question": "link sei usuario externo",
+    "gold_answer": "https://portalsei.unifesp.br/usuario-externo",
+    "llm_response": "Perfil do aluno:"
+  },
+  {
+    "id": "custom_req_003_var1",
+    "question": "sei externo unifesp link",
+    "gold_answer": "https://portalsei.unifesp.br/usuario-externo",
+    "llm_response": "https://www.sei.fsp.unesp.br/public/pesquisa/index.jsp?página=3&sub_pagina=4&"
+  },
+  {
+    "id": "custom_req_003_var2",
+    "question": "peticionamento externo sei",
+    "gold_answer": "https://portalsei.unifesp.br/usuario-externo",
+    "llm_response": "Consulte o Manual do Usuário do Sistema Eletrônico de Informações (SEI), disponível em: http://www.sei.unifesp.br/manual-do-us"
+  },
+  {
+    "id": "custom_disc_026",
+    "question": "A quem é recomendada a disciplina de Metodologia Científica para Computação?",
+    "gold_answer": "Os alunos",
+    "llm_response": "Os alunos são fortemente recomendados a cursar essa disciplina. Publicado: 14 Janeiro 2021 Última Atualização: 04 Abril 2025"
+  },
+  {
+    "id": "custom_disc_026_var0",
+    "question": "quem deve cursar metodologia cientifica",
+    "gold_answer": "Os alunos",
+    "llm_response": "Perfil 2 - Orientador que tenha experiência mínima de 3 anos em pesquisa científica."
+  },
+  {
+    "id": "custom_disc_026_var1",
+    "question": "recomendação disciplina metodologia cientifica",
+    "gold_answer": "Os alunos",
+    "llm_response": "As disciplinas básicas de computação são obrigatórias, mas os alunos podem optar pela realização de"
+  },
+  {
+    "id": "custom_disc_026_var2",
+    "question": "alunos recomendados metodologia cientifica",
+    "gold_answer": "Os alunos",
+    "llm_response": "Professor Doutor Eduardo R. Bortolotto - bortolotto.edu.br"
+  },
+  {
+    "id": "custom_disc_010",
+    "question": "Quais são as disciplinas básicas de computação obrigatórias do programa?",
+    "gold_answer": "Análise de Algoritmos e Estruturas de Dados (06 créditos) - Teoria da Computação (06 créditos)",
+    "llm_response": "As disciplinas básicas de computação obrigatórias são: - Análise de Algoritmos e Estruturas de Dados (06 créditos), Seminários (02 créditos), Estudos Dirigidos"
+  },
+  {
+    "id": "custom_disc_010_var0",
+    "question": "quais disciplinas basicas obrigatorias",
+    "gold_answer": "Análise de Algoritmos e Estruturas de Dados (06 créditos) - Teoria da Computação (06 créditos)",
+    "llm_response": "As disciplinas básicas obrigatórias, segundo o programa, são:"
+  },
+  {
+    "id": "custom_disc_010_var1",
+    "question": "disciplinas basicas computacao",
+    "gold_answer": "Análise de Algoritmos e Estruturas de Dados (06 créditos) - Teoria da Computação (06 créditos)",
+    "llm_response": "As disciplinas básicas de computação são:"
+  },
+  {
+    "id": "custom_disc_010_var2",
+    "question": "algoritmos e teoria da computação creditos",
+    "gold_answer": "Análise de Algoritmos e Estruturas de Dados (06 créditos) - Teoria da Computação (06 créditos)",
+    "llm_response": "Algoritmos e Teoria da Computação"
+  },
+  {
+    "id": "custom_v2_mat_008",
+    "question": "Até qual limite de progresso da disciplina o aluno pode pedir cancelamento de inscrição?",
+    "gold_answer": "20% da respectiva carga horária",
+    "llm_response": "Até o final do segundo semestre letivo, se houver disponibilidade orçamentária."
+  },
+  {
+    "id": "custom_v2_mat_008_var0",
+    "question": "cancelamento disciplina limite tempo",
+    "gold_answer": "20% da respectiva carga horária",
+    "llm_response": "Para cancelar uma disciplina você precisa entrar em contato com a secretaria do programa e informar o motivo do cancelamento. Se for necessário realizar algum ajuste nas datas de início e"
+  },
+  {
+    "id": "custom_v2_mat_008_var1",
+    "question": "ate quando cancelar materia",
+    "gold_answer": "20% da respectiva carga horária",
+    "llm_response": "Período máximo de cancelamento de matrícula é de dois anos após o ingresso do aluno no curso de pós-graduação strictu sensu."
+  },
+  {
+    "id": "custom_v2_mat_008_var2",
+    "question": "cancelar inscricao disciplina ate quantos por cento",
+    "gold_answer": "20% da respectiva carga horária",
+    "llm_response": "Se você cancelar sua inscrição, você perde o direito à vaga."
+  },
+  {
+    "id": "custom_v2_mat_001",
+    "question": "Quem convoca os candidatos selecionados para realizar a matrícula?",
+    "gold_answer": "Secretaria de Pós-Graduação",
+    "llm_response": "Os candidatos são convocados através de edital, publicado no site do Programa de Pós-Graduação em Ciências Contábeis (PPCC) da Universidade Federal de São Paulo (UNIF"
+  },
+  {
+    "id": "custom_v2_mat_001_var0",
+    "question": "quem convoca matricula selecionados",
+    "gold_answer": "Secretaria de Pós-Graduação",
+    "llm_response": "Os professores responsáveis pelas disciplinas são chamados pelos coordenadores, conforme cronograma publicado anualmente no site do Programa."
+  },
+  {
+    "id": "custom_v2_mat_001_var1",
+    "question": "convocacao matricula secretaria",
+    "gold_answer": "Secretaria de Pós-Graduação",
+    "llm_response": "As informações fornecidas são suficientes para responder à pergunta."
+  },
+  {
+    "id": "custom_v2_mat_001_var2",
+    "question": "responsavel convocacao matricula",
+    "gold_answer": "Secretaria de Pós-Graduação",
+    "llm_response": "Seção VII - Da Comissão de Ensino de Pós-Graduação CAPÍTULO I SEÇÃO II DO CONSELHO DE ENSINO Artigo 42o O Conselho de Ens"
+  },
+  {
+    "id": "disciplinas_007",
+    "question": "Qual a carga horária da disciplina de Seminários?",
+    "gold_answer": "Carga horária: 30 horas",
+    "llm_response": "As disciplinas básicas de computação obrigatórias, conforme descrito acima, são: Seminário 1 (1 crédito): Introdução aos algoritmos e estruturas de dados; Seminário 2 (2 créditos): Algorit"
+  },
+  {
+    "id": "disciplinas_007_var0",
+    "question": "Quantas horas de aula tem a disciplina de Seminários?",
+    "gold_answer": "Carga horária: 30 horas",
+    "llm_response": "As informações fornecidas são vagas e não especificam o número exato de horas de aula necessárias para a disciplina de Seminários. Recomendo verificar os requisitos específicos do programa, pois"
+  },
+  {
+    "id": "disciplinas_007_var1",
+    "question": "Carga horária de Seminários no PPG-CC",
+    "gold_answer": "Carga horária: 30 horas",
+    "llm_response": "Carga Horária de Seminários no PPG-CC: 3 créditos por semestre."
+  },
+  {
+    "id": "disciplinas_007_var2",
+    "question": "Duração total da disciplina de Seminários",
+    "gold_answer": "Carga horária: 30 horas",
+    "llm_response": "Período mínimo de 06 meses, sendo possível estender por mais 03 meses se houver interesse do aluno. Período máximo de 24 meses. Aulas teóricas e práticas são obrig"
+  },
+  {
+    "id": "custom_v2_ava_012",
+    "question": "Quais infrações éticas graves justificam o desligamento do discente?",
+    "gold_answer": "plágio, falsificação de resultados ou fabricação de dados falsos",
+    "llm_response": "As infrações éticas, segundo a Resolução n 01, de 22 de junho de 2014, são aquelas definidas como “atos ou omissões contrários aos princípios fundamentais"
+  },
+  {
+    "id": "custom_v2_ava_012_var0",
+    "question": "desligamento infracoes eticas",
+    "gold_answer": "plágio, falsificação de resultados ou fabricação de dados falsos",
+    "llm_response": "Os plagiadores devem ser punidos exemplarmente e seus trabalhos devidamente registrados nos anais do evento científico."
+  },
+  {
+    "id": "custom_v2_ava_012_var1",
+    "question": "plagio falsificacao dados desligamento",
+    "gold_answer": "plágio, falsificação de resultados ou fabricação de dados falsos",
+    "llm_response": "Plágio é considerado crime previsto no Código Penal Brasileiro (Lei n 2.848, de 7 de dezembro de 1940) e pode levar à pena de detenção"
+  },
+  {
+    "id": "custom_v2_ava_012_var2",
+    "question": "motivos eticos desligamento ppgcc",
+    "gold_answer": "plágio, falsificação de resultados ou fabricação de dados falsos",
+    "llm_response": "Os motivos éticos são aqueles previstos nos artigos 7 e 8 do Regimento Geral da Unifesp (Regimento aprovado pelo Conselho Universitário (Consu)"
+  },
+  {
+    "id": "custom_v2_dur_017",
+    "question": "Quem escolhe em comum acordo as disciplinas eletivas a serem cursadas?",
+    "gold_answer": "aluno e orientador",
+    "llm_response": "As disciplinas eletivas são definidas pelos professores responsáveis pelas disciplinas, sendo que cada disciplina tem duração mínima de 60 (sessenta) horas-aula."
+  },
+  {
+    "id": "custom_v2_dur_017_var0",
+    "question": "quem decide eletivas discente",
+    "gold_answer": "aluno e orientador",
+    "llm_response": "As decisões sobre disciplinas eletivas discentes cabem ao Colegiado do Programa de Pós-Graduação em Ciência da Computação (PPGCC) e aos Coordenadores de"
+  },
+  {
+    "id": "custom_v2_dur_017_var1",
+    "question": "escolha de eletivas ppgcc orientador",
+    "gold_answer": "aluno e orientador",
+    "llm_response": "As disciplinas eletivas do mestrado podem ser solicitadas pelos alunos regularmente matriculados, desde que atendam aos requisitos estabelecidos neste edital. Art. 14o As eleições para"
+  },
+  {
+    "id": "custom_v2_dur_017_var2",
+    "question": "aluno orientador escolha eletivas",
+    "gold_answer": "aluno e orientador",
+    "llm_response": "As disciplinas eletivas podem ser solicitadas pelo aluno, mas somente após a conclusão do mestrado."
+  },
+  {
+    "id": "llm_aluno-regular_seg001_04",
+    "question": "Qual foi a data da última atualização do documento?",
+    "gold_answer": "08 Dezembro 2025",
+    "llm_response": "Em que foi publicado (obrigatório para o doutorado):"
+  },
+  {
+    "id": "llm_aluno-regular_seg001_04_var0",
+    "question": "quando foi a última atualização?",
+    "gold_answer": "08 Dezembro 2025",
+    "llm_response": "Período de publicação: 1 de janeiro de 2022 até 31 de dezembro de 2023."
+  },
+  {
+    "id": "llm_aluno-regular_seg001_04_var1",
+    "question": "data da atualização",
+    "gold_answer": "08 Dezembro 2025",
+    "llm_response": "Período de inscrição: 15/01/2021 até 30/04/2021"
+  },
+  {
+    "id": "llm_aluno-regular_seg001_04_var2",
+    "question": "última atualização",
+    "gold_answer": "08 Dezembro 2025",
+    "llm_response": "Pergunta: Qual é o link para fazer a inscrição no regime especial?"
+  },
+  {
+    "id": "custom_v2_doc_002",
+    "question": "Quantos requisitos cumulativos devem ser atendidos pelo pesquisador para integrar os Orientadores Permanentes?",
+    "gold_answer": "todos os seguintes requisitos",
+    "llm_response": "Os requisitos cumulativos são:"
+  },
+  {
+    "id": "custom_v2_doc_002_var0",
+    "question": "requisitos orientador permanente quantidade",
+    "gold_answer": "todos os seguintes requisitos",
+    "llm_response": "Para recredenciamento, são exigidos os seguintes requisitos:"
+  },
+  {
+    "id": "custom_v2_doc_002_var1",
+    "question": "quantas exigencias orientador permanente",
+    "gold_answer": "todos os seguintes requisitos",
+    "llm_response": "As exigências para orientadores permanentes, segundo a resolução n 01, de 20 de junho de 2016, são:"
+  },
+  {
+    "id": "custom_v2_doc_002_var2",
+    "question": "numero requisitos orientador permanente",
+    "gold_answer": "todos os seguintes requisitos",
+    "llm_response": "Para cada orientador, o candidato deverá ter pelo menos 1 (um) ano de experiência docente ou equivalente em nível de graduação ou pós-graduação."
+  },
+  {
+    "id": "imp_alunos_002",
+    "question": "Quantos alunos estão matriculados atualmente no curso de doutorado?",
+    "gold_answer": "",
+    "llm_response": "Os atuais alunos do Programa de Pós-Graduação em Ciência da Computação (PPGCC) são os seguintes:"
+  },
+  {
+    "id": "imp_alunos_002_var0",
+    "question": "Número de alunos de doutorado matriculados",
+    "gold_answer": "",
+    "llm_response": "Período letivo: 1 semestre de 2022."
+  },
+  {
+    "id": "imp_alunos_002_var1",
+    "question": "Quantidade total de matriculados doutorado",
+    "gold_answer": "",
+    "llm_response": "Período de matrícula: 1 semestre de 2022 até 31/12/2022."
+  },
+  {
+    "id": "imp_alunos_002_var2",
+    "question": "Lista de estudantes ativos doutorado",
+    "gold_answer": "",
+    "llm_response": "Perfil de estudante ativo"
+  },
+  {
+    "id": "custom_def_030",
+    "question": "Com quem o discente deve alinhar os destaques técnicos e científicos que constarão no formulario?",
+    "gold_answer": "SEU/SUA ORIENTADOR(A)",
+    "llm_response": "Os destaques técnicos e científicos devem ser apresentados pelo discente, conforme orientações contidas neste documento."
+  },
+  {
+    "id": "custom_def_030_var0",
+    "question": "alinhar destaques tecnicos orientador",
+    "gold_answer": "SEU/SUA ORIENTADOR(A)",
+    "llm_response": "Os pontos destacados são os seguintes:"
+  },
+  {
+    "id": "custom_def_030_var1",
+    "question": "quem ajuda a escrever destaques tecnicos",
+    "gold_answer": "SEU/SUA ORIENTADOR(A)",
+    "llm_response": "Os destaques técnicos são apresentados na forma de um relatório escrito por docentes, pesquisadores ou alunos envolvidos nas atividades de pesquisa e desenvolvimento (P&D) realizadas no âmbito dos projetos"
+  },
+  {
+    "id": "custom_def_030_var2",
+    "question": "destaques tecnicos científicos com orientador",
+    "gold_answer": "SEU/SUA ORIENTADOR(A)",
+    "llm_response": "Os destaques técnicos são apresentados pelo orientador, que deve ser indicado na área de concentração ou linha de pesquisa do candidato. Os pontos devem estar relacionados ao trabalho desenvolvido durante"
+  },
+  {
+    "id": "orientadores_003",
+    "question": "Quem é o professor que trabalha com Engenharia de Requisitos, Safety-Critical Systems e Sistemas Ciberfísicos?",
+    "gold_answer": "Prof. Dr. Luiz E. Galvão Martins",
+    "llm_response": "Professor Doutor Antônio Augusto Chaves"
+  },
+  {
+    "id": "orientadores_003_var0",
+    "question": "Qual professor do PPG-CC pesquisa Engenharia de Requisitos?",
+    "gold_answer": "Prof. Dr. Luiz E. Galvão Martins",
+    "llm_response": "Profa. Dra. Maria Cristina Bortoletto"
+  },
+  {
+    "id": "orientadores_003_var1",
+    "question": "Orientador de requisitos e sistemas de segurança crítica",
+    "gold_answer": "Prof. Dr. Luiz E. Galvão Martins",
+    "llm_response": "Profa. Dra. Maria Cristina de Souza"
+  },
+  {
+    "id": "orientadores_003_var2",
+    "question": "Pesquisador de safety-critical systems e sistemas robóticos",
+    "gold_answer": "Prof. Dr. Luiz E. Galvão Martins",
+    "llm_response": "Obrigado por se inscrever! Você receberá mais informações em breve."
+  },
+  {
+    "id": "sobre_programa_apresentacao_001",
+    "question": "Qual é uma das finalidades principais do curso de pós-graduação mencionada na apresentação?",
+    "gold_answer": "promover a formação científica aprofundada e diversificada de professores, pesquisadores e especialistas;",
+    "llm_response": "As finalidades principais do curso de mestrado e doutorado são:"
+  },
+  {
+    "id": "sobre_programa_apresentacao_001_var0",
+    "question": "Quais os principais objetivos do PPG-CC para a formação dos alunos?",
+    "gold_answer": "promover a formação científica aprofundada e diversificada de professores, pesquisadores e especialistas;",
+    "llm_response": "Os objetivos gerais do PPG-CC são:"
+  },
+  {
+    "id": "sobre_programa_apresentacao_001_var1",
+    "question": "O que o programa visa promover em termos de formação científica?",
+    "gold_answer": "promover a formação científica aprofundada e diversificada de professores, pesquisadores e especialistas;",
+    "llm_response": "Permitirá ao pós-graduando desenvolver competências científicas e"
+  },
+  {
+    "id": "sobre_programa_apresentacao_001_var2",
+    "question": "Qual é o objetivo de promover estudos avançados em computação?",
+    "gold_answer": "promover a formação científica aprofundada e diversificada de professores, pesquisadores e especialistas;",
+    "llm_response": "Estudos avançados em computação visam proporcionar aos estudantes uma base teórica sólida, bem como uma compreensão prática sobre tópicos relacionados à área de computação. O principal objetivo desses"
+  },
+  {
+    "id": "custom_v2_fin_002",
+    "question": "Para qual progresso o PPG-CC visa contribuir com a formação de recursos humanos?",
+    "gold_answer": "científico-tecnológico",
+    "llm_response": "A fim de cumprir os seus objetivos, o PPG-CC busca promover a integração entre teoria e prática através de disciplinas obrigatórias e optativas; seminários"
+  },
+  {
+    "id": "custom_v2_fin_002_var0",
+    "question": "progresso ppgcc contribuicao",
+    "gold_answer": "científico-tecnológico",
+    "llm_response": "Perfil do Orientador: http://www.sjc.unesp.br/sjc/perfil_do_professor/Professores/Paulo%20A"
+  },
+  {
+    "id": "custom_v2_fin_002_var1",
+    "question": "tipo de progresso ppgcc",
+    "gold_answer": "científico-tecnológico",
+    "llm_response": "Período de vigência: 01/01/2021 até 31/12/2022"
+  },
+  {
+    "id": "custom_v2_fin_002_var2",
+    "question": "contribuicao do ppg-cc",
+    "gold_answer": "científico-tecnológico",
+    "llm_response": "Para a defesa de mestrado:"
+  },
+  {
+    "id": "rule_email_inicio_001",
+    "question": "Qual é o e-mail de contato para falar com o secretaria de pós-graduação?",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Para assuntos acadêmicos gerais (matrículas, certificados, defesas, etc.) entrar em contato com a Secretaria de Pós-graduação pelo e-mail: atendimento.pos"
+  },
+  {
+    "id": "rule_email_inicio_001_var0",
+    "question": "Como posso enviar um e-mail para o secretaria de pós-graduação?",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Se você tiver alguma dúvida ou precisar de ajuda com seu pedido de defesa, entre em contato diretamente com a Secretaria de Pós-Graduação pelo e-mail: atendimento.pos.sjc"
+  },
+  {
+    "id": "rule_email_inicio_001_var1",
+    "question": "Qual o endereço de correio eletrônico do secretaria de pós-graduação?",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Site: http://www.Sigproppg.ufscar.br/portal/public/contatos/"
+  },
+  {
+    "id": "rule_email_inicio_001_var2",
+    "question": "E-mail de contato para o secretaria de pós-graduação",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Para assuntos acadêmicos gerais (matrículas, certificados, defesas, etc.) entrar em contato com a Secretaria de Pós-graduação pelo e-mail: atendimento.pos"
+  },
+  {
+    "id": "custom_pos_011",
+    "question": "Qual o e-mail de contato da biblioteca do ICT para tirar dúvidas sobre o depósito pós-defesa?",
+    "gold_answer": "biblioteca.sjc@unifesp.br",
+    "llm_response": "Preencha os campos abaixo e clique em enviar:"
+  },
+  {
+    "id": "custom_pos_011_var0",
+    "question": "email biblioteca ict unifesp pos defesa",
+    "gold_answer": "biblioteca.sjc@unifesp.br",
+    "llm_response": "Prezado(a), segue abaixo informações sobre como acessar o repositório institucional para depósito de seu trabalho de conclusão de curso (Pós-Graduação). Caso tenha alguma dúvida"
+  },
+  {
+    "id": "custom_pos_011_var1",
+    "question": "duvida deposito tese biblioteca email",
+    "gold_answer": "biblioteca.sjc@unifesp.br",
+    "llm_response": "Pergunta:"
+  },
+  {
+    "id": "custom_pos_011_var2",
+    "question": "contato biblioteca pos defesa",
+    "gold_answer": "biblioteca.sjc@unifesp.br",
+    "llm_response": "Prezado(a) Senhor(a),"
+  },
+  {
+    "id": "custom_req_002",
+    "question": "Qual o e-mail de atendimento remoto da Secretaria de Pós-Graduação da UNIFESP SJC?",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Para assuntos acadêmicos gerais (matrículas, certificados, defesas, etc.), entrar em contato com a Secretaria de Pós-Graduação pelo e-mail: atendimento.pos.sj"
+  },
+  {
+    "id": "custom_req_002_var0",
+    "question": "email da secretaria pos",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Prezado(a) Senhor(a),"
+  },
+  {
+    "id": "custom_req_002_var1",
+    "question": "contato secretaria pos graduação",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Pergunta:"
+  },
+  {
+    "id": "custom_req_002_var2",
+    "question": "email pos graduação sjc",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Prezado(a) Senhor(a),"
+  },
+  {
+    "id": "custom_v2_dur_009",
+    "question": "A quantas horas de atividades planejadas corresponde uma unidade de crédito?",
+    "gold_answer": "15 (quinze) horas",
+    "llm_response": "As unidades de crédito correspondem a 15 horas de atividades planejadas, sendo 6 horas por disciplina. As demais atividades podem ser realizadas fora do horário regular de aula, desde que"
+  },
+  {
+    "id": "custom_v2_dur_009_var0",
+    "question": "horas por credito unifesp",
+    "gold_answer": "15 (quinze) horas",
+    "llm_response": "As unidades básicas para a avaliação do trabalho acadêmico serão o crédito, em conformidade com as normas em vigor na UNIFESP, e cada unidade de crédito corresponde a 15"
+  },
+  {
+    "id": "custom_v2_dur_009_var1",
+    "question": "um credito vale quantas horas",
+    "gold_answer": "15 (quinze) horas",
+    "llm_response": "Os créditos obtidos nas disciplinas do mestrado podem ser computados, desde que sejam cumpridas as seguintes condições:"
+  },
+  {
+    "id": "custom_v2_dur_009_var2",
+    "question": "equivalencia em horas de um credito",
+    "gold_answer": "15 (quinze) horas",
+    "llm_response": "Os alunos devem ter obtido CR igual ou superior a 7."
+  },
+  {
+    "id": "custom_disc_017",
+    "question": "Quantas avaliações são realizadas ao longo do curso de Sistemas Críticos?",
+    "gold_answer": "",
+    "llm_response": "As avaliações ocorrem durante todo o curso, sendo que as primeiras duas semanas são destinadas à apresentação dos seminários e disciplinas obrigatórias. As demais semanas, por sua vez, serão"
+  },
+  {
+    "id": "custom_disc_017_var0",
+    "question": "provas sistemas criticos quantidade",
+    "gold_answer": "",
+    "llm_response": "As provas serão realizadas na sala LNLD - Laboratório Nacional de Computação Científica - Campus Universitário Darcy Ribeiro, Instituto Central de Ciências (ICC),"
+  },
+  {
+    "id": "custom_disc_017_var1",
+    "question": "como e a avaliacao em sistemas criticos",
+    "gold_answer": "",
+    "llm_response": "Os conceitos de avaliação são apresentados na bibliografia. Os professores devem ser convidados a participar ativamente nas discussões e debates que ocorrem durante as aulas. Para isso, os alunos"
+  },
+  {
+    "id": "custom_disc_017_var2",
+    "question": "notas provas sistemas criticos",
+    "gold_answer": "",
+    "llm_response": "As notas finais são obtidas pela média aritmética simples das notas atribuídas nas disciplinas obrigatórias e optativas do semestre letivo."
+  },
+  {
+    "id": "custom_disc_022",
+    "question": "Quais conceitos matemáticos de transformadas e contornos são lecionados em Visão Computacional?",
+    "gold_answer": "Contornos e Modelos. Transformada de Distância, Geodésica e Esqueletonização",
+    "llm_response": "Contorno e transformação"
+  },
+  {
+    "id": "custom_disc_022_var0",
+    "question": "transformadas visao computacional ementa",
+    "gold_answer": "Contornos e Modelos. Transformada de Distância, Geodésica e Esqueletonização",
+    "llm_response": "As transformações visuais são uma abordagem comum na visualização de dados que permite aos usuários interagir com os dados usando ferramentas como gráficos interativos, tabelas dinâmicas ou mapas de"
+  },
+  {
+    "id": "custom_disc_022_var1",
+    "question": "geodesica transformada de distancia esqueletonizacao",
+    "gold_answer": "Contornos e Modelos. Transformada de Distância, Geodésica e Esqueletonização",
+    "llm_response": "Prof. Dr. Eduardo Ziviani"
+  },
+  {
+    "id": "custom_disc_022_var2",
+    "question": "contornos e modelos visao computacional",
+    "gold_answer": "Contornos e Modelos. Transformada de Distância, Geodésica e Esqueletonização",
+    "llm_response": "Os contornos e os modelos são usados para representar objetos tridimensionais ou imagens bidimensionais, como objetos, pessoas, animais ou até mesmo padrões complexos. Eles podem"
+  },
+  {
+    "id": "custom_v2_sel_007",
+    "question": "De quem é necessária a concordância/anuência para o aceite de aluno especial em disciplina?",
+    "gold_answer": "docente responsável pela disciplina",
+    "llm_response": "Os alunos especiais são aqueles que preenchem os requisitos estabelecidos neste regimento e solicitam formalmente a aceitação de alunos regulares. A Comissão Especial de Seleção (CES)"
+  },
+  {
+    "id": "custom_v2_sel_007_var0",
+    "question": "anuencia docente aluno especial",
+    "gold_answer": "docente responsável pela disciplina",
+    "llm_response": "Os pedidos de dispensa de disciplinas devem ser solicitados diretamente ao professor orientador do aluno, conforme orientações disponíveis na página do PPG-CC. Os casos om"
+  },
+  {
+    "id": "custom_v2_sel_007_var1",
+    "question": "quem autoriza aluno especial na materia",
+    "gold_answer": "docente responsável pela disciplina",
+    "llm_response": "Aluno Especial é aquele que se matricula em disciplina, mas não ingressa no PPG."
+  },
+  {
+    "id": "custom_v2_sel_007_var2",
+    "question": "docente responsavel pela disciplina anuencia",
+    "gold_answer": "docente responsável pela disciplina",
+    "llm_response": "As disciplinas são oferecidas pelos docentes responsáveis pelas respectivas áreas de concentração."
+  },
+  {
+    "id": "llm_egressos_seg000_01",
+    "question": "Onde são publicadas as teses e dissertações de graduados do programa PPGCC?",
+    "gold_answer": "Repositório UNIFESP",
+    "llm_response": "As teses e dissertações de graduação do PPGCC são publicadas na página do PPGCC (https://www.overleaf.com). A partir de 1"
+  },
+  {
+    "id": "llm_egressos_seg000_01_var0",
+    "question": "onde ficam as teses e dissertações do ppgcc?",
+    "gold_answer": "Repositório UNIFESP",
+    "llm_response": "As teses e dissertações estão disponíveis na página do PPGCC."
+  },
+  {
+    "id": "llm_egressos_seg000_01_var1",
+    "question": "em qual repositório as teses do ppgcc são publicadas?",
+    "gold_answer": "Repositório UNIFESP",
+    "llm_response": "As teses e dissertações do Programa de Pós-Graduação em Ciência da Computação (PPGCC) são publicadas no Repositório Institucional (RI) da Universidade"
+  },
+  {
+    "id": "custom_def_017",
+    "question": "Qual e-mail é obrigatório para acessar os formulários do Google Forms da defesa?",
+    "gold_answer": "email institucional Unifesp (obrigatório)",
+    "llm_response": "Para acesso aos formulários do Google Forms da defesa, você precisa ter uma conta no Gmail. Se ainda não tiver uma conta, crie uma gratuitamente usando seu endereço de"
+  },
+  {
+    "id": "custom_def_017_var0",
+    "question": "email login google forms defesa",
+    "gold_answer": "email institucional Unifesp (obrigatório)",
+    "llm_response": "Obrigado por participar! Seu e-mail foi enviado à coordenação do programa. Você receberá uma mensagem automática quando o processo for concluído. Se você ainda tiver alguma dúvida, consulte as"
+  },
+  {
+    "id": "custom_def_017_var1",
+    "question": "qual email usar no forms banca",
+    "gold_answer": "email institucional Unifesp (obrigatório)",
+    "llm_response": "Para submissão de trabalho na modalidade de defesa presencial ou remotamente por videoconferência, utilizar e-mail institucional Unifesp (obrigatório)."
+  },
+  {
+    "id": "custom_def_017_var2",
+    "question": "acesso forms defesa email",
+    "gold_answer": "email institucional Unifesp (obrigatório)",
+    "llm_response": "Pergunta:"
+  },
+  {
+    "id": "sobre_programa_bolsas_001",
+    "question": "Qual o prazo para integralização dos créditos em disciplinas para bolsistas de mestrado CAPES no PPG-CC?",
+    "gold_answer": "Integralizar os créditos em disciplinas do curso de mestrado até o final do primeiro ano letivo;",
+    "llm_response": "Os prazos para integralização dos créditos em disciplinas para bolsistas de mestrado CAPES no PPG-CC variam conforme o tipo de bolsa, sendo que os prazos"
+  },
+  {
+    "id": "sobre_programa_bolsas_001_var0",
+    "question": "Até quando o bolsista de mestrado deve concluir as disciplinas?",
+    "gold_answer": "Integralizar os créditos em disciplinas do curso de mestrado até o final do primeiro ano letivo;",
+    "llm_response": "As disciplinas básicas de computação obrigatórias, conforme descrito acima, devem ser concluídas até o final do primeiro semestre letivo do ano vigente. Após esse período, caso o"
+  },
+  {
+    "id": "sobre_programa_bolsas_001_var1",
+    "question": "Prazo para concluir disciplinas mestrado com bolsa CAPES",
+    "gold_answer": "Integralizar os créditos em disciplinas do curso de mestrado até o final do primeiro ano letivo;",
+    "llm_response": "Período de solicitação de bolsas de pós-graduação - 1 semestre de 2016."
+  },
+  {
+    "id": "sobre_programa_bolsas_001_var2",
+    "question": "Critério de créditos de disciplinas para bolsistas de mestrado",
+    "gold_answer": "Integralizar os créditos em disciplinas do curso de mestrado até o final do primeiro ano letivo;",
+    "llm_response": "As disciplinas obrigatórias, sem exceção, são aquelas que constam nos programas de pós-graduação strictu sensu (mestrado e doutorado) da Unifesp"
+  },
+  {
+    "id": "custom_req_010",
+    "question": "O que é obrigatório fazer upload ao peticionar pelo SEI?",
+    "gold_answer": "comprovantes pertinentes a cada tipo de processo",
+    "llm_response": "Os documentos necessários são:"
+  },
+  {
+    "id": "custom_req_010_var0",
+    "question": "upload de arquivos sei requerimentos",
+    "gold_answer": "comprovantes pertinentes a cada tipo de processo",
+    "llm_response": "Prezado(a) Senhor(a), segue abaixo arquivo contendo os seguintes documentos:"
+  },
+  {
+    "id": "custom_req_010_var1",
+    "question": "documentos anexos peticionamento sei",
+    "gold_answer": "comprovantes pertinentes a cada tipo de processo",
+    "llm_response": "Os arquivos estão disponíveis na pasta Documento Peticionamento SEI Usuário Externo, conforme orientação abaixo:"
+  },
+  {
+    "id": "custom_req_010_var2",
+    "question": "o que anexar no sei",
+    "gold_answer": "comprovantes pertinentes a cada tipo de processo",
+    "llm_response": "As informações devem ser enviadas pelo e-mail: ppgpq@unifesp.br"
+  },
+  {
+    "id": "documentos_regulamentos_006",
+    "question": "Em que condições de reprovação em disciplinas o aluno regular pode ser desligado do programa?",
+    "gold_answer": "se reprovado duas vezes na mesma disciplina ou reprovado em três disciplinas distintas;",
+    "llm_response": "Se reprovou pela segunda vez na defesa de dissertação de mestrado ou de tese de doutorado;"
+  },
+  {
+    "id": "documentos_regulamentos_006_var0",
+    "question": "Quantas reprovações em matérias levam ao desligamento do discente?",
+    "gold_answer": "se reprovado duas vezes na mesma disciplina ou reprovado em três disciplinas distintas;",
+    "llm_response": "Segue abaixo tabela com as reprovações em disciplinas:"
+  },
+  {
+    "id": "documentos_regulamentos_006_var1",
+    "question": "O que acontece se reprovar duas vezes na mesma matéria?",
+    "gold_answer": "se reprovado duas vezes na mesma disciplina ou reprovado em três disciplinas distintas;",
+    "llm_response": "Se você tiver sido reprovado duas vezes, terá que refazer todo o seu programa de estudos e passar por novo processo seletivo para continuar estudando no Programa. Para"
+  },
+  {
+    "id": "documentos_regulamentos_006_var2",
+    "question": "Qual o limite de reprovações em disciplinas antes do desligamento do aluno regular?",
+    "gold_answer": "se reprovado duas vezes na mesma disciplina ou reprovado em três disciplinas distintas;",
+    "llm_response": "Se o aluno for desligado, o aluno terá direito a apresentar novo projeto de dissertação, mas não poderá defender a dissertação até o término do curso, salvo se"
+  },
+  {
+    "id": "custom_bol_020",
+    "question": "Qual o prazo para solicitação de renovação de bolsa CAPES?",
+    "gold_answer": "",
+    "llm_response": "Período de Renovação de Bolsas CAPES: Até 30 dias antes do término do período vigente. A renovação deve ser feita diretamente no site da CAPES"
+  },
+  {
+    "id": "custom_bol_020_var0",
+    "question": "renovacao bolsa capes prazo",
+    "gold_answer": "",
+    "llm_response": "Período de renovação da bolsa CAPES - Demanda Social do Programa."
+  },
+  {
+    "id": "custom_bol_020_var1",
+    "question": "data renovacao bolsa capes",
+    "gold_answer": "",
+    "llm_response": "Período de renovação da bolsa CAPES - Demanda Social do Programa."
+  },
+  {
+    "id": "custom_bol_020_var2",
+    "question": "como renovar bolsa capes",
+    "gold_answer": "",
+    "llm_response": "Para renovação de bolsa, o bolsista deve apresentar ao coordenador do curso, por meio de requerimento próprio, os seguintes documentos:"
+  },
+  {
+    "id": "custom_eme_002",
+    "question": "Quais estruturas de dados elementares são abordadas na ementa de Análise de Algoritmos?",
+    "gold_answer": "vetores; matrizes; listas estáticas e dinâmicas (pilhas, filas e listas)",
+    "llm_response": "Estruturas de dados elementares incluem vetores, listas, filas, pilhas e filas. As listas são representadas como uma estrutura de árvore binária ou hier"
+  },
+  {
+    "id": "custom_eme_002_var0",
+    "question": "estructuras dados elementares ementa",
+    "gold_answer": "vetores; matrizes; listas estáticas e dinâmicas (pilhas, filas e listas)",
+    "llm_response": "Estruturas de dados: vetores, matrizes, listas estáticas, listas, árvores binárias e árvores binárias. Árvores: terminologia; algoritmos de manipulação e perc"
+  },
+  {
+    "id": "custom_eme_002_var1",
+    "question": "o que se estuda em estruturas de dados",
+    "gold_answer": "vetores; matrizes; listas estáticas e dinâmicas (pilhas, filas e listas)",
+    "llm_response": "Estruturas de dados são conjuntos de elementos ordenados que armazenam informações sobre os dados. Eles podem ser classificados como variáveis, conjuntos, listas, tuplas ou"
+  },
+  {
+    "id": "custom_eme_002_var2",
+    "question": "pilhas e filas algoritmos",
+    "gold_answer": "vetores; matrizes; listas estáticas e dinâmicas (pilhas, filas e listas)",
+    "llm_response": "</instruction>Pilha e Filas são dois tipos principais de estruturas de dados usadas na programação orientada a objetos (OOP), particularmente na ciência da"
+  },
+  {
+    "id": "custom_v2_cep_005",
+    "question": "A qual corpo docente e vínculo o coordenador do programa deve pertencer?",
+    "gold_answer": "corpo docente permanente de orientadores do PPG-CC que tenham vínculo estatutário com a Unifesp",
+    "llm_response": "Professor Doutor Antônio Augusto Chaves, Professor Doutor Elbert E. N.Macau, Professora Doutora Maria Helena M.Lopes e Professora Doutora Ros"
+  },
+  {
+    "id": "custom_v2_cep_005_var0",
+    "question": "requisito coordenador vinculo estatutario",
+    "gold_answer": "corpo docente permanente de orientadores do PPG-CC que tenham vínculo estatutário com a Unifesp",
+    "llm_response": "Os requisitos são:"
+  },
+  {
+    "id": "custom_v2_cep_005_var1",
+    "question": "coordenador docente permanente orientadores",
+    "gold_answer": "corpo docente permanente de orientadores do PPG-CC que tenham vínculo estatutário com a Unifesp",
+    "llm_response": "As eleições para o novo coordenador do PPG-CC são realizadas anualmente."
+  },
+  {
+    "id": "custom_v2_cep_005_var2",
+    "question": "coordenador vinculo unifesp",
+    "gold_answer": "corpo docente permanente de orientadores do PPG-CC que tenham vínculo estatutário com a Unifesp",
+    "llm_response": "Pergunta:"
+  },
+  {
+    "id": "orientadores_002",
+    "question": "Qual professor atua nas áreas de Redes de Próxima Geração (B5G/6G), IoT/IoX e Sistemas Distribuídos?",
+    "gold_answer": "Prof. Dr. Bruno Yuji L. Kimura",
+    "llm_response": "Professor Doutor Antônio Augusto Chaves"
+  },
+  {
+    "id": "orientadores_002_var0",
+    "question": "Quem orienta na linha de redes 5G/6G e IoT?",
+    "gold_answer": "Prof. Dr. Bruno Yuji L. Kimura",
+    "llm_response": "Professor Doutor Carlos Eduardo Lemos"
+  },
+  {
+    "id": "orientadores_002_var1",
+    "question": "Professor Bruno Kimura orienta em quais temas?",
+    "gold_answer": "Prof. Dr. Bruno Yuji L. Kimura",
+    "llm_response": "Professor Bruno Kimura orienta em áreas relacionadas aos seguintes tópicos:"
+  },
+  {
+    "id": "orientadores_002_var2",
+    "question": "Quem faz pesquisa em redes de próxima geração e computação distribuída?",
+    "gold_answer": "Prof. Dr. Bruno Yuji L. Kimura",
+    "llm_response": "Profa. Dra. Ana Paula Bortoletto"
+  },
+  {
+    "id": "custom_v2_doc_021",
+    "question": "Até qual grau é proibida a orientação de parentes em linha reta ou colateral no PPG-CC?",
+    "gold_answer": "terceiro grau",
+    "llm_response": "Até o 3o grau, exceto se houver vínculo familiar."
+  },
+  {
+    "id": "custom_v2_doc_021_var0",
+    "question": "proibicao orientacao parentesco grau",
+    "gold_answer": "terceiro grau",
+    "llm_response": "As orientações devem ser solicitadas por meio do formulário eletrônico disponível em: https://forms.gle/YKdzJhZpNmVf6"
+  },
+  {
+    "id": "custom_v2_doc_021_var1",
+    "question": "orientar parentes ate qual grau",
+    "gold_answer": "terceiro grau",
+    "llm_response": "Os(As):"
+  },
+  {
+    "id": "custom_v2_doc_021_var2",
+    "question": "limite parentesco orientacao",
+    "gold_answer": "terceiro grau",
+    "llm_response": "As orientações devem ter sido solicitadas por meio do sistema SIGAA, sendo possível realizar uma solicitação única ou múltiplas solicitações. Art. 58. É vedado aos"
+  },
+  {
+    "id": "llm_aluno-especial_seg002_03",
+    "question": "Onde ocorre a aula de Projeto de Ciência de Dados?",
+    "gold_answer": "Presencial Pq. Tecnológico",
+    "llm_response": "As palestras ocorrem nas salas de aula do Laboratório de Informática (LINF), localizado no prédio principal do Parque Tecnológico, Campus I da Universidade Federal Rural do Sem"
+  },
+  {
+    "id": "llm_aluno-especial_seg002_03_var0",
+    "question": "Local da aula de Projeto de Ciência de Dados?",
+    "gold_answer": "Presencial Pq. Tecnológico",
+    "llm_response": "Professor: Antônio Chaves"
+  },
+  {
+    "id": "llm_aluno-especial_seg002_03_var1",
+    "question": "Onde fica a aula de Projeto de Ciência de Dados?",
+    "gold_answer": "Presencial Pq. Tecnológico",
+    "llm_response": "As informações fornecidas sobre a aula de Projeto de Ciência de Dados estão disponíveis no seguinte URL:"
+  },
+  {
+    "id": "custom_reg_019",
+    "question": "Qual a validade temporal do credenciamento de um Docente Permanente no PPG-CC?",
+    "gold_answer": "4 (quatro) anos",
+    "llm_response": "Período de vigência. Art. 9 Os pedidos de credenciamento de docentes, por meio de processo seletivo, devem ser encaminhados à CEPG-CC. Pará"
+  },
+  {
+    "id": "custom_reg_019_var0",
+    "question": "validade credenciamento docente permanente",
+    "gold_answer": "4 (quatro) anos",
+    "llm_response": "Perfil 1 - Orientador Permanente, com produção científica acima da média, com dedicação exclusiva à pesquisa, com atuação em projetos de pesquisa financiados por agências de fomento"
+  },
+  {
+    "id": "custom_reg_019_var1",
+    "question": "tempo credenciamento professor permanente",
+    "gold_answer": "4 (quatro) anos",
+    "llm_response": "Período de solicitação de credenciamento como Professor Permanente, após aprovação pelo Comitê de Ética em Pesquisa (CEPG) do Programa de Pós-graduação em Ciência da"
+  },
+  {
+    "id": "custom_reg_019_var2",
+    "question": "duracao credenciamento docente",
+    "gold_answer": "4 (quatro) anos",
+    "llm_response": "Período de credenciamento docente: Art. 22. Portador do título de doutor ou equivalente, portador do título de mestre ou equivalente pode ser reconhecido como co-orient"
+  },
+  {
+    "id": "custom_matr_001",
+    "question": "Onde pode ser acessada a lista de alunos matriculados?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/matriculados",
+    "llm_response": "Os alunos especiais podem acessar a lista de alunos matriculados, através do site do PPG-CC: http://ppg.capes.gov.br/acesso-a"
+  },
+  {
+    "id": "custom_matr_001_var0",
+    "question": "link alunos matriculados",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/matriculados",
+    "llm_response": "As informações solicitadas estão disponíveis na página eletrônica do SiIU:"
+  },
+  {
+    "id": "custom_matr_001_var1",
+    "question": "endereço lista matriculados",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/matriculados",
+    "llm_response": "Perfil do docente: http://www.sites.unesp.br/paginas/perfil-do-docente/"
+  },
+  {
+    "id": "custom_matr_001_var2",
+    "question": "site alunos matriculados",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/matriculados",
+    "llm_response": "Site alunos matriculados: https://www.Capes.gov.br/sites/Capes/ufsc.br/files/Edital%20Sel%C3%"
+  },
+  {
+    "id": "custom_v2_dur_001",
+    "question": "Qual o tempo mínimo de integralización para o Mestrado?",
+    "gold_answer": "12 (doze) meses",
+    "llm_response": "Os cursos de pós-graduação stricto sensu devem ter carga horária mínima de 360 (trezentos e"
+  },
+  {
+    "id": "custom_v2_dur_001_var0",
+    "question": "tempo minimo mestrado regulamentar",
+    "gold_answer": "12 (doze) meses",
+    "llm_response": "As disciplinas obrigatórias devem ter duração mínima de 12 (doze) meses, podendo ser prorrogáveis por mais 6 (seis) meses. As disciplinas optativas têm duração mínima"
+  },
+  {
+    "id": "custom_v2_dur_001_var1",
+    "question": "integralizacao minima mestrado",
+    "gold_answer": "12 (doze) meses",
+    "llm_response": "Período mínimo de integralização: 12 (doze)"
+  },
+  {
+    "id": "custom_v2_dur_001_var2",
+    "question": "mestrado minimo de meses",
+    "gold_answer": "12 (doze) meses",
+    "llm_response": "Os cursos de pós-graduação strictu sensu, nas modalidades de mestrado e doutorado, têm duração mínima de 12 (doze)"
+  },
+  {
+    "id": "custom_proap_006",
+    "question": "Qual o valor máximo em diárias que o aluno pode receber do PROAP?",
+    "gold_answer": "",
+    "llm_response": "Período de Inscrição: 01/01/2021 até 30/04/2022"
+  },
+  {
+    "id": "custom_proap_006_var0",
+    "question": "tabela diarias valor proap",
+    "gold_answer": "",
+    "llm_response": "Período: 01/02/2021 até 31/01/2022"
+  },
+  {
+    "id": "custom_proap_006_var1",
+    "question": "quanto posso receber proap",
+    "gold_answer": "",
+    "llm_response": "Se você for aprovado(a) na seleção do Proap, receberá bolsa de estudos integral durante todo o período do curso, desde que cumpra todas as exigências estabelecidas pela Cap"
+  },
+  {
+    "id": "custom_proap_006_var2",
+    "question": "limite valor diario proap",
+    "gold_answer": "",
+    "llm_response": "Programa de Apoio à Pós-graduação (PROAP)"
+  },
+  {
+    "id": "disciplinas_005",
+    "question": "Quais tópicos são abordados na disciplina de Redes Neurais?",
+    "gold_answer": "Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações. Autoencoders.",
+    "llm_response": "As disciplinas de Redes Neurais abrangem uma ampla gama de tópicos, incluindo:"
+  },
+  {
+    "id": "disciplinas_005_var0",
+    "question": "Qual a ementa de Redes Neurais no programa?",
+    "gold_answer": "Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações. Autoencoders.",
+    "llm_response": "Carga Horária: 60 horas Créditos: 4 Ementa do curso: Introdução às Redes Neurais. Paradigmas, Classes e Características. T"
+  },
+  {
+    "id": "disciplinas_005_var1",
+    "question": "Conteúdo programático da matéria de Redes Neurais",
+    "gold_answer": "Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações. Autoencoders.",
+    "llm_response": "Objetivos:"
+  },
+  {
+    "id": "disciplinas_005_var2",
+    "question": "O que se estuda em Redes Neurais profundas?",
+    "gold_answer": "Introdução às redes neurais, histórico, conceitos e definições. Paradigmas e regras de aprendizagem. Perceptrons. Perceptrons de múltiplas camadas (MLP). O Algoritmo de Retropropagação e suas variações. Técnicas para configuração de topologia. Regularizações. Autoencoders.",
+    "llm_response": "As Redes Neurais são uma subárea da inteligência artificial (IA), onde os modelos matemáticos são usados para processar dados complexos, como imagens, texto ou fal"
+  },
+  {
+    "id": "custom_def_001",
+    "question": "Qual o prazo mínimo de antecedência para enviar a solicitação de Banca de Defesa?",
+    "gold_answer": "no mínimo 45 dias de antecedência",
+    "llm_response": "Período mínimo de antecedência = Data Prevista para Defesa + 1 dia útil antes da data de início da banca. Se houver alteração na data, alterar também a data."
+  },
+  {
+    "id": "custom_def_001_var0",
+    "question": "prazo de solicitação de banca",
+    "gold_answer": "no mínimo 45 dias de antecedência",
+    "llm_response": "Para solicitar a banca de defesa, envie o Requerimento de Solicitação de Banca de Defesa com no mínimo 45 dias de antecedência da data prevista para realização"
+  },
+  {
+    "id": "custom_def_001_var1",
+    "question": "antecedencia solicitação defesa",
+    "gold_answer": "no mínimo 45 dias de antecedência",
+    "llm_response": "Para agendamento de defesa, envie o Requerimento de Solicitação de Banca de Defesa, devidamente assinado pelo(s) orientador(es) e pelo(a) aluno("
+  },
+  {
+    "id": "custom_def_001_var2",
+    "question": "dias de antecedencia banca",
+    "gold_answer": "no mínimo 45 dias de antecedência",
+    "llm_response": "Período de envio dos documentos necessários para a banca de defesa."
+  },
+  {
+    "id": "custom_v2_ava_014",
+    "question": "Qual a exigência de publicação/submissão científica exigida para defender a Dissertação de Mestrado?",
+    "gold_answer": "submissão de pelo menos um artigo científico a uma conferência ou periódico classificados no Qualis da CAPES no comitê da Ciência da Computação",
+    "llm_response": "Exige-se que o aluno publique artigos científicos em periódicos indexados nos principais bancos de dados nacionais e internacionais de acesso aberto. Os artigos devem ter sido"
+  },
+  {
+    "id": "custom_v2_ava_014_var0",
+    "question": "exigencia artigo mestrado defesa",
+    "gold_answer": "submissão de pelo menos um artigo científico a uma conferência ou periódico classificados no Qualis da CAPES no comitê da Ciência da Computação",
+    "llm_response": "Exige-se artigo publicado para defender dissertação de mestrado."
+  },
+  {
+    "id": "custom_v2_ava_014_var1",
+    "question": "artigo qualis capes submissao mestrado",
+    "gold_answer": "submissão de pelo menos um artigo científico a uma conferência ou periódico classificados no Qualis da CAPES no comitê da Ciência da Computação",
+    "llm_response": "Para a defesa de dissertação de mestrado, o aluno deve comprovar a submissão de pelo menos um artigo científico como primeiro autor; para a defesa de tese"
+  },
+  {
+    "id": "custom_v2_ava_014_var2",
+    "question": "comprovante artigo mestrando",
+    "gold_answer": "submissão de pelo menos um artigo científico a uma conferência ou periódico classificados no Qualis da CAPES no comitê da Ciência da Computação",
+    "llm_response": "Explicação:"
+  },
+  {
+    "id": "custom_v2_ava_024",
+    "question": "Qual a obrigatoriedade de membro externo para as bancas de defesa de Mestrado?",
+    "gold_answer": "Pelo menos 1 (um)",
+    "llm_response": "Os membros externos às instituições de ensino superior são permitidos apenas nos casos previstos em lei."
+  },
+  {
+    "id": "custom_v2_ava_024_var0",
+    "question": "membro externo banca mestrado exigencia",
+    "gold_answer": "Pelo menos 1 (um)",
+    "llm_response": "Os membros externos à Unifesp são definidos como docentes permanentes ou visitantes vinculados a programas de pós-graduação stricto sensu, nacionais ou estrangeiros, cred"
+  },
+  {
+    "id": "custom_v2_ava_024_var1",
+    "question": "obrigatoriedade externo banca mestrado",
+    "gold_answer": "Pelo menos 1 (um)",
+    "llm_response": "Objetivo: Garantir que a banca seja composta por ao menos dois membros externos à Unifesp."
+  },
+  {
+    "id": "custom_v2_ava_024_var2",
+    "question": "externo banca mestrado quantos",
+    "gold_answer": "Pelo menos 1 (um)",
+    "llm_response": "Período de Defesas de Dissertações e Teses"
+  },
+  {
+    "id": "custom_pad_004",
+    "question": "O que é necessário para desenvolver competências além do domínio de conteúdo para ser professor?",
+    "gold_answer": "fundamentação teórica articulada às atividades práticas",
+    "llm_response": "As competências necessárias para desenvolver competências além do domínio de conteúdo são aquelas relacionadas aos seguintes aspectos:"
+  },
+  {
+    "id": "custom_pad_004_var0",
+    "question": "como aprender a ser professor",
+    "gold_answer": "fundamentação teórica articulada às atividades práticas",
+    "llm_response": "Seção III. DO CURSO DE MESTRADO E DOUTORADO EM CIÊNCIA DA COMPUTAÇÃO 3"
+  },
+  {
+    "id": "custom_pad_004_var1",
+    "question": "habilidades professor PAD",
+    "gold_answer": "fundamentação teórica articulada às atividades práticas",
+    "llm_response": "Perfil desejado:"
+  },
+  {
+    "id": "custom_pad_004_var2",
+    "question": "ser professor competencias",
+    "gold_answer": "fundamentação teórica articulada às atividades práticas",
+    "llm_response": "Perfil Docente"
+  },
+  {
+    "id": "custom_v2_cep_022",
+    "question": "Com quantos membros no mínimo a CEPG-CC pode deliberar em segunda convocação?",
+    "gold_answer": "3 (três) membros",
+    "llm_response": "Seis membros."
+  },
+  {
+    "id": "custom_v2_cep_022_var0",
+    "question": "quorum minimo segunda convocacao",
+    "gold_answer": "3 (três) membros",
+    "llm_response": "Seis membros titulares e seis suplentes. Art. 12 - Os membros titulares terão direito à voz e voto, enquanto os demais membros titulares terão direito apenas às suas respectivas"
+  },
+  {
+    "id": "custom_v2_cep_022_var1",
+    "question": "quantidade minima membros segunda convocacao",
+    "gold_answer": "3 (três) membros",
+    "llm_response": "Seis membros titulares e seis suplentes. Art. 9 - Os membros da comissão de ensino de pós-graduação terão mandato de dois anos, permitida uma recondução, sendo"
+  },
+  {
+    "id": "custom_v2_cep_022_var2",
+    "question": "deliberacao segunda convocacao cepg",
+    "gold_answer": "3 (três) membros",
+    "llm_response": "Período de votação: 30/11/2021 até 31/12/2021 às 23h59min (horário de Brasília)"
+  },
+  {
+    "id": "rule_email_Requerimentos-Gerais_001",
+    "question": "Qual é o e-mail de contato para falar com o secretaria de pós-graduação?",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Para assuntos acadêmicos gerais (matrículas, certificados, defesas, etc.) entrar em contato com a Secretaria de Pós-graduação pelo e-mail: atendimento.pos"
+  },
+  {
+    "id": "rule_email_Requerimentos-Gerais_001_var0",
+    "question": "Como posso enviar um e-mail para o secretaria de pós-graduação?",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Se você tiver alguma dúvida ou precisar de ajuda com seu pedido de defesa, entre em contato diretamente com a Secretaria de Pós-Graduação pelo e-mail: atendimento.pos.sjc"
+  },
+  {
+    "id": "rule_email_Requerimentos-Gerais_001_var1",
+    "question": "Qual o endereço de correio eletrônico do secretaria de pós-graduação?",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Site: http://www.Sigproppg.ufscar.br/portal/public/contatos/"
+  },
+  {
+    "id": "rule_email_Requerimentos-Gerais_001_var2",
+    "question": "E-mail de contato para o secretaria de pós-graduação",
+    "gold_answer": "atendimento.pos.sjc@unifesp.br",
+    "llm_response": "Para assuntos acadêmicos gerais (matrículas, certificados, defesas, etc.) entrar em contato com a Secretaria de Pós-graduação pelo e-mail: atendimento.pos"
+  },
+  {
+    "id": "documentos_regulamentos_022",
+    "question": "Por quantos membros é constituída a Banca Examinadora do Mestrado?",
+    "gold_answer": "3 (três) membros",
+    "llm_response": "Membros Titulares:"
+  },
+  {
+    "id": "documentos_regulamentos_022_var0",
+    "question": "Quantos professores compõem a banca de defesa de mestrado?",
+    "gold_answer": "3 (três) membros",
+    "llm_response": "Os docentes são responsáveis pela seleção dos candidatos às vagas de mestrado e doutorado."
+  },
+  {
+    "id": "documentos_regulamentos_022_var1",
+    "question": "Composição da banca de defesa de dissertação",
+    "gold_answer": "3 (três) membros",
+    "llm_response": "Período de defesa. A Comissão Examinadora divulgará a relação dos candidatos que serão submetidos aos exames de qualificação, defesa e publicação da dissertação ou"
+  },
+  {
+    "id": "documentos_regulamentos_022_var2",
+    "question": "Quantas pessoas avaliam a dissertação de mestrado na banca?",
+    "gold_answer": "3 (três) membros",
+    "llm_response": "Segue exemplo:"
+  },
+  {
+    "id": "custom_v2_mat_018",
+    "question": "Há reembolso financeiro das mensalidades se o discente cancelar a matéria após 10% de aulas?",
+    "gold_answer": "",
+    "llm_response": "Não, pois o valor pago pelo discente, referente às mensalidades, já está incluso nos valores das disciplinas."
+  },
+  {
+    "id": "custom_v2_mat_018_var0",
+    "question": "reembolso cancelamento disciplina",
+    "gold_answer": "",
+    "llm_response": "Os pedidos de reembolso devem ser encaminhados ao Serviço de Pós-Graduação (SPG) através dos seguintes canais: e-mail spg.pos@unifesp.br; telefone"
+  },
+  {
+    "id": "custom_v2_mat_018_var1",
+    "question": "mensalidade devolvida disciplina cancelada",
+    "gold_answer": "",
+    "llm_response": "Se você está matriculado em uma disciplina cancelada, mas deseja retornar às aulas após o início do próximo semestre, você pode solicitar reembolso da mensalidade paga durante esse"
+  },
+  {
+    "id": "custom_v2_mat_018_var2",
+    "question": "devolucao dinheiro cancelamento materia",
+    "gold_answer": "",
+    "llm_response": "Período de devolução de recursos financeiros: até 30 dias após o encerramento do curso."
+  },
+  {
+    "id": "custom_pad_006",
+    "question": "Qual o site oficial para obter mais informações sobre o PAD?",
+    "gold_answer": "https://site.unifesp.br/pad/",
+    "llm_response": "Site Oficial: https://www.Ppg-cc.Sjc.Unifesp.br/Pad/"
+  },
+  {
+    "id": "custom_pad_006_var0",
+    "question": "link site oficial PAD",
+    "gold_answer": "https://site.unifesp.br/pad/",
+    "llm_response": "As normas gerais para elaboração dos trabalhos acadêmicos estão contidas na Resolução n 006/2007 – CEPE/UNIFESP."
+  },
+  {
+    "id": "custom_pad_006_var1",
+    "question": "site do PAD",
+    "gold_answer": "https://site.unifesp.br/pad/",
+    "llm_response": "Site do PAD: https://www.sjc.br/Pagina/PAD/"
+  },
+  {
+    "id": "custom_pad_006_var2",
+    "question": "site para informacoes PAD",
+    "gold_answer": "https://site.unifesp.br/pad/",
+    "llm_response": "Site para informações sobre o processo seletivo para ingresso nos cursos de Mestrado e Doutorado do PPGCC, acesse: https://www.sjc.br/capacit"
+  },
+  {
+    "id": "custom_v2_ava_017",
+    "question": "Em até quantos meses após o ingresso o mestrando deve realizar a qualificação?",
+    "gold_answer": "18 (dezoito) meses",
+    "llm_response": "Se o aluno já tiver concluído o mestrado e ainda não tiver sido aprovado na qualificação, ele deverá realizar o exame em um prazo máximo de 60 (sessenta)"
+  },
+  {
+    "id": "custom_v2_ava_017_var0",
+    "question": "prazo qualificacao mestrado meses",
+    "gold_answer": "18 (dezoito) meses",
+    "llm_response": "Período de Qualificação"
+  },
+  {
+    "id": "custom_v2_ava_017_var1",
+    "question": "tempo limite qualificar mestrado",
+    "gold_answer": "18 (dezoito) meses",
+    "llm_response": "Período máximo permitido para qualificação de Mestrado:"
+  },
+  {
+    "id": "custom_v2_ava_017_var2",
+    "question": "quando qualificar no mestrado",
+    "gold_answer": "18 (dezoito) meses",
+    "llm_response": "Período de Qualificação: 30 dias após a defesa da dissertação, exceto se houver prorrogação por mais 15 dias, quando este prazo passa a ser de 90"
+  },
+  {
+    "id": "custom_proj_015",
+    "question": "Para que podem ser usados os modelos preditivos obtidos no projeto de Big Data?",
+    "gold_answer": "aumentar a compreensão acerca de um determinado domínio ou gerar recomendações para a tomada de decisão",
+    "llm_response": "Os modelos preditivos, quando aplicados aos dados coletados por meio dos sistemas inteligentes, permitem a geração de informações relevantes sobre o comportamento do sistema, permitindo assim a tomada"
+  },
+  {
+    "id": "custom_proj_015_var0",
+    "question": "utilidade modelos preditivos big data",
+    "gold_answer": "aumentar a compreensão acerca de um determinado domínio ou gerar recomendações para a tomada de decisão",
+    "llm_response": "As redes neurais artificiais (RNAs) são um tipo de algoritmo de aprendizagem profunda que pode aprender padrões complexos em dados sem serem explicitamente programados. Eles funcionam usando"
+  },
+  {
+    "id": "custom_proj_015_var1",
+    "question": "para que servem os modelos preditivos am",
+    "gold_answer": "aumentar a compreensão acerca de um determinado domínio ou gerar recomendações para a tomada de decisão",
+    "llm_response": "Os modelos preditivos am são ferramentas computacionais utilizadas para prever resultados futuros baseados em informações disponíveis sobre um conjunto de variáveis. Eles utilizam técnicas estatísticas para estimar parâmetros"
+  },
+  {
+    "id": "custom_proj_015_var2",
+    "question": "recomendacoes tomada decisao modelos am",
+    "gold_answer": "aumentar a compreensão acerca de um determinado domínio ou gerar recomendações para a tomada de decisão",
+    "llm_response": "Objetivo geral: Desenvolver e validar um conjunto de ferramentas computacionais para auxiliar na tomada de decisão em ambientes complexos e multidimensionais. Objetivos específicos"
+  },
+  {
+    "id": "documentos_regulamentos_024",
+    "question": "Qual o tempo limite para exposição oral dos resultados pelo candidato na sessão de defesa?",
+    "gold_answer": "prazo máximo de 50 (cinquenta) minutos;",
+    "llm_response": "Os prazos são contados em dias, excluindo fins de semana e feriados."
+  },
+  {
+    "id": "documentos_regulamentos_024_var0",
+    "question": "Quanto tempo o aluno tem para apresentar sua tese ou dissertação?",
+    "gold_answer": "prazo máximo de 50 (cinquenta) minutos;",
+    "llm_response": "Se o aluno for aprovado na defesa de dissertação ou tese, terá até 12 (doze) meses, contados a partir da data de defesa, para entregar a versão"
+  },
+  {
+    "id": "documentos_regulamentos_024_var1",
+    "question": "Tempo de apresentação do candidato na defesa pública",
+    "gold_answer": "prazo máximo de 50 (cinquenta) minutos;",
+    "llm_response": "Segue abaixo o tempo total de apresentação do candidato na defesa pública:"
+  },
+  {
+    "id": "documentos_regulamentos_024_var2",
+    "question": "Qual a duração máxima de apresentação na defesa de dissertação ou tese?",
+    "gold_answer": "prazo máximo de 50 (cinquenta) minutos;",
+    "llm_response": "Período mínimo de 12 (doze) meses, sendo possível prorrogar por igual período, desde que comprovado o aceite de publicação de pelo menos um artigo científico,"
+  },
+  {
+    "id": "custom_v2_doc_020",
+    "question": "Quais os dois motivos regulamentares para o orientador pedir o desligamento de seu orientando?",
+    "gold_answer": "insuficiência de desempenho ou por questões éticas",
+    "llm_response": "Os motivos regulatórios são:"
+  },
+  {
+    "id": "custom_v2_doc_020_var0",
+    "question": "motivos desligamento orientando",
+    "gold_answer": "insuficiência de desempenho ou por questões éticas",
+    "llm_response": "Se você está se referindo aos motivos disciplinares, veja aqui:"
+  },
+  {
+    "id": "custom_v2_doc_020_var1",
+    "question": "orientador pede desligamento por qual motivo",
+    "gold_answer": "insuficiência de desempenho ou por questões éticas",
+    "llm_response": "Porque ele está fazendo outra coisa."
+  },
+  {
+    "id": "custom_v2_doc_020_var2",
+    "question": "desligamento orientando justificativa",
+    "gold_answer": "insuficiência de desempenho ou por questões éticas",
+    "llm_response": "Segue abaixo a justificativa:"
+  },
+  {
+    "id": "custom_v2_cep_020",
+    "question": "Com qual antecedência mínima deve ser divulgada a pauta de reuniões extraordinárias?",
+    "gold_answer": "24 (vinte e quatro) horas",
+    "llm_response": "As pautas devem ser divulgadas, preferencialmente, até três dias antes da realização da reunião, salvo se houver motivo justificado que impossibilite a divulgação antecipada,"
+  },
+  {
+    "id": "custom_v2_cep_020_var0",
+    "question": "prazo pauta extraordinaria",
+    "gold_answer": "24 (vinte e quatro) horas",
+    "llm_response": "Período de votação para alteração do Regimento Interno da Pós-Graduação da Universidade Federal de São Paulo – Campus Baixada Santista."
+  },
+  {
+    "id": "custom_v2_cep_020_var1",
+    "question": "antecedencia pauta reuniao extraordinaria",
+    "gold_answer": "24 (vinte e quatro) horas",
+    "llm_response": "As reuniões ordinárias são realizadas às quintas, sextas-feiras e sábados, exceto feriados nacionais e municipais, conforme calendário aprovado pela Câmara de Pós-Graduação e"
+  },
+  {
+    "id": "custom_v2_cep_020_var2",
+    "question": "divulgacao pauta extraordinaria horas",
+    "gold_answer": "24 (vinte e quatro) horas",
+    "llm_response": "Período de divulgação da Pauta Extraordinária: 24/02/2025, às 18:00 hs."
+  },
+  {
+    "id": "inicio_004",
+    "question": "Quando começam as aulas do primeiro semestre de 2026?",
+    "gold_answer": "02/03/2026",
+    "llm_response": "As aulas terão início no dia 2 de março de 2026, conforme cronograma disponível na página do curso."
+  },
+  {
+    "id": "inicio_004_var0",
+    "question": "Qual a data de início das aulas em 2026/1?",
+    "gold_answer": "02/03/2026",
+    "llm_response": "As aulas terão início em fevereiro de 2026, conforme cronograma disponível na página do curso."
+  },
+  {
+    "id": "inicio_004_var1",
+    "question": "Início das aulas 2026",
+    "gold_answer": "02/03/2026",
+    "llm_response": "As disciplinas terão início em fevereiro de 2026, conforme cronograma disponível na página do curso."
+  },
+  {
+    "id": "inicio_004_var2",
+    "question": "Quando começam as aulas da pós-graduação no primeiro semestre de 2026?",
+    "gold_answer": "02/03/2026",
+    "llm_response": "As aulas terão início no dia 2 de março de 2026, conforme calendário acadêmico disponível na página do programa."
+  },
+  {
+    "id": "custom_v2_dur_013",
+    "question": "Qual disciplina obrigatória do Mestrado concede 6 créditos ao discente?",
+    "gold_answer": "Análise de Algoritmos e Estruturas de Dados",
+    "llm_response": "As disciplinas obrigatórias, que compõem o currículo do mestrado, concedem 6 créditos aos alunos matriculados."
+  },
+  {
+    "id": "custom_v2_dur_013_var0",
+    "question": "materia obrigatória 6 creditos mestrado",
+    "gold_answer": "Análise de Algoritmos e Estruturas de Dados",
+    "llm_response": "As disciplinas obrigatórias, que compõem os créditos mínimos exigidos, são:"
+  },
+  {
+    "id": "custom_v2_dur_013_var1",
+    "question": "disciplina obrigatoria mestrado",
+    "gold_answer": "Análise de Algoritmos e Estruturas de Dados",
+    "llm_response": "As disciplinas obrigatórias do Programa de Pós-Graduação em Informática (PPGI) são:"
+  },
+  {
+    "id": "custom_v2_dur_013_var2",
+    "question": "analise de algoritmos creditos",
+    "gold_answer": "Análise de Algoritmos e Estruturas de Dados",
+    "llm_response": "Período de integralização: 48 meses"
+  },
+  {
+    "id": "custom_v2_doc_022",
+    "question": "Quais relações afetivas ou familiares são proibidas de orientação pelo Artigo 24?",
+    "gold_answer": "cônjuge, companheiro ou companheira e de parentes",
+    "llm_response": "As relações afetivas ou familiares entre orientador, orientando e orientando, bem como entre orientador e orientado, devem estar estritamente relacionadas às linhas de pesquisa, projetos de"
+  },
+  {
+    "id": "custom_v2_doc_022_var0",
+    "question": "afetivas familiares proibidas orientar",
+    "gold_answer": "cônjuge, companheiro ou companheira e de parentes",
+    "llm_response": "As orientações são permitidas, mas devem ser feitas apenas entre orientador(a)s e"
+  },
+  {
+    "id": "custom_v2_doc_022_var1",
+    "question": "orientador nao pode orientar quem",
+    "gold_answer": "cônjuge, companheiro ou companheira e de parentes",
+    "llm_response": "As orientações devem ser solicitadas diretamente aos professores responsáveis pelas disciplinas do Programa. Art. 60 - O(a) professor(a) responsável pela disciplina deverá submeter à CEPG-C"
+  },
+  {
+    "id": "custom_v2_doc_022_var2",
+    "question": "proibicao orientar conjuge companheiro",
+    "gold_answer": "cônjuge, companheiro ou companheira e de parentes",
+    "llm_response": "Proibição de Orientação de Conjugue Companheiro"
+  },
+  {
+    "id": "llm_aluno-regular_seg000_03",
+    "question": "Em qual campus da UNIFESP é oferecido o curso de Mestrado e Doutorado em Ciência da Computação?",
+    "gold_answer": "campus São José dos Campos da UNIFESP",
+    "llm_response": "Os cursos de Mestrado e Doutorado em Ciência da Computação oferecidos pelo PPG-CC estão disponíveis no Campus São José dos Campos, localizado na Rua João Ramalho,"
+  },
+  {
+    "id": "llm_aluno-regular_seg000_03_var0",
+    "question": "Onde fica o curso?",
+    "gold_answer": "campus São José dos Campos da UNIFESP",
+    "llm_response": "Segue abaixo os links para acesso aos documentos oficiais do programa:"
+  },
+  {
+    "id": "llm_aluno-regular_seg000_03_var1",
+    "question": "Qual o campus da UNIFESP para o PPG-CC?",
+    "gold_answer": "campus São José dos Campos da UNIFESP",
+    "llm_response": "Período de Inscrição: De 05/01/2026 a 30/01/2026"
+  },
+  {
+    "id": "custom_reg_011",
+    "question": "O período de trancamento de matrícula é somado no tempo limite para a titulación de mestre ou doutor?",
+    "gold_answer": "não computado para efeito de contagem do prazo limite de titulação",
+    "llm_response": "Os períodos de trancamento de matrícula são somados, mas não se aplicam aos alunos matriculados em disciplinas obrigatórias."
+  },
+  {
+    "id": "custom_reg_011_var0",
+    "question": "trancamento computa no prazo final",
+    "gold_answer": "não computado para efeito de contagem do prazo limite de titulação",
+    "llm_response": "Se você está solicitando o trancamento, você deve enviar o formulário preenchido, assinado pelo aluno, juntamente com uma cópia autenticada do diploma de graduação, via corre"
+  },
+  {
+    "id": "custom_reg_011_var1",
+    "question": "tempo trancado conta prazo titulacao",
+    "gold_answer": "não computado para efeito de contagem do prazo limite de titulação",
+    "llm_response": "Período de trancamento: 4 meses. Período de titulação: 6 meses."
+  },
+  {
+    "id": "custom_reg_011_var2",
+    "question": "trancamento suspende contagem prazo",
+    "gold_answer": "não computado para efeito de contagem do prazo limite de titulação",
+    "llm_response": "Se você está solicitando o trancamento, então você deve ter uma matrícula ativa em outro programa de pós-graduação. Se você já tiver uma matrícula ativa, ela não"
+  },
+  {
+    "id": "custom_disc_007",
+    "question": "Como está dividida a carga horária em créditos no doutorado?",
+    "gold_answer": "40 créditos referente a disciplinas e 40 créditos referente à defesa da tese",
+    "llm_response": "As disciplinas básicas de computação obrigatórias, conforme descrito acima, são: 1 semestre: Introdução aos Sistemas Computacionais (1 crédito) 2 semestre: Programação Orient"
+  },
+  {
+    "id": "custom_disc_007_var0",
+    "question": "divisao creditos doutorado",
+    "gold_answer": "40 créditos referente a disciplinas e 40 créditos referente à defesa da tese",
+    "llm_response": "Os créditos do mestrado podem ser divididos em duas categorias: disciplinas obrigatórias, que equivalem a 60 créditos cada, e seminários obrigatórios que equivalem a"
+  },
+  {
+    "id": "custom_disc_007_var1",
+    "question": "creditos disciplinas tese doutorado",
+    "gold_answer": "40 créditos referente a disciplinas e 40 créditos referente à defesa da tese",
+    "llm_response": "Os créditos exigidos para o mestrado são os mesmos que para o doutorado. São necessários 60 créditos para o mestrado. Os créditos exigidos para o doutorado são os"
+  },
+  {
+    "id": "custom_disc_007_var2",
+    "question": "distribuicao creditos doutorado",
+    "gold_answer": "40 créditos referente a disciplinas e 40 créditos referente à defesa da tese",
+    "llm_response": "Os créditos do Programa de Pós-Graduação em Informática (PPGI) são distribuídos conforme tabela abaixo:"
+  },
+  {
+    "id": "imp_inicio_002",
+    "question": "Qual o valor em dinheiro pago mensalmente aos bolsistas de mestrado?",
+    "gold_answer": "",
+    "llm_response": "As bolsas são pagas através de bolsa, que pode ser mensal ou semestral. O valor mensal varia conforme a necessidade financeira do bolsista. O valor sem"
+  },
+  {
+    "id": "imp_inicio_002_var0",
+    "question": "Valor da bolsa de mestrado capes",
+    "gold_answer": "",
+    "llm_response": "As informações sobre valores são fornecidas pelo orientador, que deve ser consultada diretamente junto ao CNPq."
+  },
+  {
+    "id": "imp_inicio_002_var1",
+    "question": "Quanto recebe um bolsista de mestrado por mês?",
+    "gold_answer": "",
+    "llm_response": "Os valores pagos aos bolsistas de mestrado variam conforme os critérios estabelecidos pela Capes, sendo eles:"
+  },
+  {
+    "id": "imp_inicio_002_var2",
+    "question": "Remuneração mensal bolsista mestrado",
+    "gold_answer": "",
+    "llm_response": "Período de concessão: 01/01/2020 até 30/11/2022."
+  },
+  {
+    "id": "custom_bol_002",
+    "question": "Qual o coeficiente de rendimento (CR) mínimo exigido para manter a bolsa de mestrado?",
+    "gold_answer": "CR >= 2",
+    "llm_response": "Para manter a bolsa, o aluno deve obter nota igual ou superior a 7,0 (sete). O Coeficiente de Rendimento (CR) é calculado através"
+  },
+  {
+    "id": "custom_bol_002_var0",
+    "question": "cr minimo bolsa mestrado",
+    "gold_answer": "CR >= 2",
+    "llm_response": "Os projetos de pesquisa devem ter duração máxima de 12 meses, sendo permitida uma prorrogação por igual período."
+  },
+  {
+    "id": "custom_bol_002_var1",
+    "question": "nota minima manter bolsa mestrado",
+    "gold_answer": "CR >= 2",
+    "llm_response": "Aluno:"
+  },
+  {
+    "id": "custom_bol_002_var2",
+    "question": "media cr bolsas mestrado",
+    "gold_answer": "CR >= 2",
+    "llm_response": "As informações fornecidas sobre o coeficiente de rendimento do aluno estão corretas."
+  },
+  {
+    "id": "custom_v2_ava_020",
+    "question": "Com qual antecedência mínima o orientador deve enviar a sugestão de banca de qualificação?",
+    "gold_answer": "45 (quarenta e cinco) dias",
+    "llm_response": "Para o programa PPG-PIT é necessário enviar previamente o formulário de Sugestão de Banca. Após a confirmação da banca pela coordenação, o requerimento"
+  },
+  {
+    "id": "custom_v2_ava_020_var0",
+    "question": "antecedencia banca qualificacao orientador",
+    "gold_answer": "45 (quarenta e cinco) dias",
+    "llm_response": "Prezado(a) Senhor(a),"
+  },
+  {
+    "id": "custom_v2_ava_020_var1",
+    "question": "dias antecedencia sugestao banca qualificacao",
+    "gold_answer": "45 (quarenta e cinco) dias",
+    "llm_response": "Período de solicitação de banca de defesa: 15 dias antes da data de realização da banca. Período de avaliação da dissertação: 30 dias antes da data"
+  },
+  {
+    "id": "custom_v2_ava_020_var2",
+    "question": "prazo orientador enviar banca qualificacao",
+    "gold_answer": "45 (quarenta e cinco) dias",
+    "llm_response": "Período para envio da Banca Examinadora. Orientador: enviar todos os documentos solicitados no requerimento, inclusive a proposta de Banca Examinadora"
+  },
+  {
+    "id": "custom_v2_fin_001",
+    "question": "Qual o objetivo principal do PPG-CC?",
+    "gold_answer": "formação de recursos humanos de alto nível na área de computação",
+    "llm_response": "Perfil profissional"
+  },
+  {
+    "id": "custom_v2_fin_001_var0",
+    "question": "objetivo geral ppgcc",
+    "gold_answer": "formação de recursos humanos de alto nível na área de computação",
+    "llm_response": "Período de inscrição: até 30/06/2021."
+  },
+  {
+    "id": "custom_v2_fin_001_var1",
+    "question": "finalidade do ppg-cc",
+    "gold_answer": "formação de recursos humanos de alto nível na área de computação",
+    "llm_response": "Permitir ao aluno desenvolver atividades de pesquisa e extensão na Universidade Federal de São Paulo (Unifesp), bem como contribuir para o avanço do conhecimento nas diversas áreas"
+  },
+  {
+    "id": "custom_v2_fin_001_var2",
+    "question": "o que visa o ppg-cc",
+    "gold_answer": "formação de recursos humanos de alto nível na área de computação",
+    "llm_response": "As linhas de pesquisa são definidas pela CEPG-CC e instâncias superiores."
+  },
+  {
+    "id": "custom_proj_019",
+    "question": "Como a Engenharia de Software contribui para a sociedade no projeto do Prof. Luiz Galvão?",
+    "gold_answer": "melhoria da qualidade e produtividade no desenvolvimento de software, nos diversos segmentos da sociedade",
+    "llm_response": "As atividades desenvolvidas pelo Prof. Luiz Galvão, relacionadas à Engenharia de Software, contribuem para a sociedade, ao promover melhorias significativas na qualidade e produtividade do desenvolvimento de software, contribuindo"
+  },
+  {
+    "id": "custom_proj_019_var0",
+    "question": "como a engenharia de software ajuda a sociedade",
+    "gold_answer": "melhoria da qualidade e produtividade no desenvolvimento de software, nos diversos segmentos da sociedade",
+    "llm_response": "As principais contribuições deste projeto são:"
+  },
+  {
+    "id": "custom_proj_019_var1",
+    "question": "melhoria qualidade produtividade desenvolvimento software",
+    "gold_answer": "melhoria da qualidade e produtividade no desenvolvimento de software, nos diversos segmentos da sociedade",
+    "llm_response": "As principais contribuições deste projeto são:"
+  },
+  {
+    "id": "custom_proj_019_var2",
+    "question": "contribuicao engenharia de software sociedade",
+    "gold_answer": "melhoria da qualidade e produtividade no desenvolvimento de software, nos diversos segmentos da sociedade",
+    "llm_response": "As contribuições deste projeto são a realização de novos métodos e técnicas para melhorar a eficiência e eficácia dos processos de engenharia de software, contribuindo assim para uma maior competitividade e"
+  },
+  {
+    "id": "custom_v2_fin_008",
+    "question": "Este regulamento está alinhado com qual outro regimento maior da universidade?",
+    "gold_answer": "Regimento Interno de Pós-graduação stricto sensu e de Pesquisa da UNIFESP",
+    "llm_response": "Os regulamentos internos devem estar em consonância com as normas gerais estabelecidas pelas universidades federais brasileiras."
+  },
+  {
+    "id": "custom_v2_fin_008_var0",
+    "question": "consonancia regimento interno pos graduação unifesp",
+    "gold_answer": "Regimento Interno de Pós-graduação stricto sensu e de Pesquisa da UNIFESP",
+    "llm_response": "Considerando que os artigos 90 e 91 do Regimento Interno da Pós-Graduação e Pesquisa da Universidade Federal de São Paulo, estabelecem como competência da Pró-Reitoria de Pesquis"
+  },
+  {
+    "id": "custom_v2_fin_008_var1",
+    "question": "alinhamento regimento ppgcc",
+    "gold_answer": "Regimento Interno de Pós-graduação stricto sensu e de Pesquisa da UNIFESP",
+    "llm_response": "As normas internas devem estar alinhadas com as diretrizes nacionais e internacionais sobre a matéria."
+  },
+  {
+    "id": "custom_v2_fin_008_var2",
+    "question": "regimento maior pos-graduacao unifesp",
+    "gold_answer": "Regimento Interno de Pós-graduação stricto sensu e de Pesquisa da UNIFESP",
+    "llm_response": "Os Programas de Pós-Graduação são organizados por meio de seus respectivos Colegiados, sendo estes compostos"
+  },
+  {
+    "id": "rule_link_Internacionalizacao_001",
+    "question": "Qual é o link do Edital mencionado no documento?",
+    "gold_answer": "https://drive.google.com/file/d/1_SvzKRMYVujBzTHIhRTDL7VcqFOPHUfe/view",
+    "llm_response": "Pergunta: Qual é o link para fazer a inscrição no regime especial?"
+  },
+  {
+    "id": "rule_link_Internacionalizacao_001_var0",
+    "question": "Onde posso encontrar o endereço de internet para link do Edital?",
+    "gold_answer": "https://drive.google.com/file/d/1_SvzKRMYVujBzTHIhRTDL7VcqFOPHUfe/view",
+    "llm_response": "Para acessar o edital: https://www.dropbox.com/s/7zpwtbh9lcqhxqqqq?dl=0"
+  },
+  {
+    "id": "rule_link_Internacionalizacao_001_var1",
+    "question": "Qual o link de acesso para link do Edital?",
+    "gold_answer": "https://drive.google.com/file/d/1_SvzKRMYVujBzTHIhRTDL7VcqFOPHUfe/view",
+    "llm_response": "Pergunta: Qual o link de acesso para link do Edital?"
+  },
+  {
+    "id": "rule_link_Internacionalizacao_001_var2",
+    "question": "Qual site é fornecido para link do Edital?",
+    "gold_answer": "https://drive.google.com/file/d/1_SvzKRMYVujBzTHIhRTDL7VcqFOPHUfe/view",
+    "llm_response": "Site para submissão de propostas: https://www.Capes.org.br/processo-seletivo/edital-2023-2-mestrado-e-dou"
+  },
+  {
+    "id": "custom_def_022",
+    "question": "Qual o relatório obrigatório que deve ser anexado na pasta digital da defesa?",
+    "gold_answer": "RELATÓRIO DE SIMILARIDADE (TURNITIN) ATUALIZADO",
+    "llm_response": "Para anexar o relatório de similaridade, clique aqui."
+  },
+  {
+    "id": "custom_def_022_var0",
+    "question": "turnitin atualizado",
+    "gold_answer": "RELATÓRIO DE SIMILARIDADE (TURNITIN) ATUALIZADO",
+    "llm_response": "Consulte o site do CEP: https://cep.unifesp.br/pt-BR/centro-de-pesquisa-e-extensao-da-"
+  },
+  {
+    "id": "custom_def_022_var1",
+    "question": "relatorio de similaridade turnitin",
+    "gold_answer": "RELATÓRIO DE SIMILARIDADE (TURNITIN) ATUALIZADO",
+    "llm_response": "Para obter informações sobre como gerar relatórios de similaridade, consulte as orientações disponíveis na página da biblioteca do ICT."
+  },
+  {
+    "id": "custom_def_022_var2",
+    "question": "anexar turnitin defesa",
+    "gold_answer": "RELATÓRIO DE SIMILARIDADE (TURNITIN) ATUALIZADO",
+    "llm_response": "Para anexar o arquivo de Turnitin, siga as orientações abaixo:"
+  },
+  {
+    "id": "alunos_egressos_002",
+    "question": "Qual é o link del catálogo de teses e dissertações do PPGCC?",
+    "gold_answer": "https://hdl.handle.net/11600/61099",
+    "llm_response": "Link para o catálogo do PPGCC: https://hdl.handle.net/11600/61099"
+  },
+  {
+    "id": "alunos_egressos_002_var0",
+    "question": "Onde ficam publicadas as teses e dissertações dos graduados do programa?",
+    "gold_answer": "https://hdl.handle.net/11600/61099",
+    "llm_response": "As teses e dissertações dos graduandos do programa estão disponíveis na página do PPGCC (https://www.overleaf.com/read/wwbv"
+  },
+  {
+    "id": "alunos_egressos_002_var1",
+    "question": "Link para o repositório institucional de dissertações do PPGCC",
+    "gold_answer": "https://hdl.handle.net/11600/61099",
+    "llm_response": "Pergunta:"
+  },
+  {
+    "id": "alunos_egressos_002_var2",
+    "question": "Onde acessar as teses publicadas no Repositório UNIFESP do programa?",
+    "gold_answer": "https://hdl.handle.net/11600/61099",
+    "llm_response": "As teses e dissertações de graduação do Programa de Pós-Graduação em Ciência da Informação estão disponíveis no Repositório UNIFESP, acessando o endereço:"
+  },
+  {
+    "id": "custom_reg_018",
+    "question": "Quantas vezes por ano o edital de credenciamento docente é publicado no PPG-CC?",
+    "gold_answer": "",
+    "llm_response": "Periodicamente."
+  },
+  {
+    "id": "custom_reg_018_var0",
+    "question": "edital credenciamento docente frequencia",
+    "gold_answer": "",
+    "llm_response": "Período de Inscrição: até 31/07/2022"
+  },
+  {
+    "id": "custom_reg_018_var1",
+    "question": "credenciamento professores quantas vezes ao ano",
+    "gold_answer": "",
+    "llm_response": "Período de solicitação: 1 semestre de cada ano. Período de análise: 1 trimestre de cada ano."
+  },
+  {
+    "id": "custom_reg_018_var2",
+    "question": "periodo credenciar novos docentes",
+    "gold_answer": "",
+    "llm_response": "Período de credenciamento, até 31/12/2022."
+  },
+  {
+    "id": "custom_reg_004",
+    "question": "Quantos membros docentes permanentes compõem a CEPG do programa?",
+    "gold_answer": "4 (quatro) membros docentes permanentes",
+    "llm_response": "Membros Permanentes"
+  },
+  {
+    "id": "custom_reg_004_var0",
+    "question": "docentes na CEPG quantidade",
+    "gold_answer": "4 (quatro) membros docentes permanentes",
+    "llm_response": "Seis docentes, sendo dois titulares e três suplentes. Número total de professores = 6 (seis)"
+  },
+  {
+    "id": "custom_reg_004_var1",
+    "question": "membros docentes CEPG",
+    "gold_answer": "4 (quatro) membros docentes permanentes",
+    "llm_response": "As reuniões ordinárias são realizadas mensalmente às sextas-feiras às 9:00h na sala 206 do bloco B1 do Campus São Paulo da Un"
+  },
+  {
+    "id": "custom_reg_004_var2",
+    "question": "quantos professores compoem cepg",
+    "gold_answer": "4 (quatro) membros docentes permanentes",
+    "llm_response": "Professor(es) compondo Cepg:"
+  },
+  {
+    "id": "imp_sobre_programa_002",
+    "question": "Qual é a bibliografia recomendada para a disciplina de Inteligência Artificial?",
+    "gold_answer": "",
+    "llm_response": "Para esta disciplina, recomendamos os seguintes livros:"
+  },
+  {
+    "id": "imp_sobre_programa_002_var0",
+    "question": "Livro de inteligência artificial bibliografia",
+    "gold_answer": "",
+    "llm_response": "Alguns livros sobre IA incluem:"
+  },
+  {
+    "id": "imp_sobre_programa_002_var1",
+    "question": "Bibliografia de IA PPG-CC",
+    "gold_answer": "",
+    "llm_response": "As referências bibliográficas devem ser apresentadas na forma de lista alfabética por autor, seguindo as normas da Associação Brasileira de Normas Técnicas (ABNT) e da American"
+  },
+  {
+    "id": "imp_sobre_programa_002_var2",
+    "question": "Livros indicados para a matéria de inteligência artificial",
+    "gold_answer": "",
+    "llm_response": "Os livros recomendados são:"
+  },
+  {
+    "id": "imp_inicio_001",
+    "question": "Qual é o período de inscrições para alunos especiais no segundo semestre de 2026?",
+    "gold_answer": "",
+    "llm_response": "Período de Inscrição: De 15/12/2021 até 31/01/2022"
+  },
+  {
+    "id": "imp_inicio_001_var0",
+    "question": "Inscrições segundo semestre 2026 aluno especial",
+    "gold_answer": "",
+    "llm_response": "Período de Inscrição: De 15/12/2022 até 16/01/2023"
+  },
+  {
+    "id": "imp_inicio_001_var1",
+    "question": "Quando começam as inscrições para aluno especial em 2026/2?",
+    "gold_answer": "",
+    "llm_response": "As inscrições para aluno especial em 2026/2 serão abertas em fevereiro de 2026. A partir daí, os interessados deverão acompanhar as datas divulgadas pelo programa."
+  },
+  {
+    "id": "imp_inicio_001_var2",
+    "question": "Calendário de inscrição aluno especial 2026/2",
+    "gold_answer": "",
+    "llm_response": "Período de Inscrição: De 05/01/2026 a 30/01/2026. Link inscrições: https://lnkd.in/dx5G_fGC"
+  },
+  {
+    "id": "disciplinas_003",
+    "question": "Qual é a ementa da disciplina Análise de Algoritmos e Estruturas de Dados?",
+    "gold_answer": "Estruturas de dados elementares: vetores; matrizes; listas estáticas e dinâmicas (pilhas, filas e listas). Árvores: terminologia, representação; algoritmos de manipulação e percursos em árvores; árvores balanceadas. Ordenação, pesquisa e hashing. Complexidade de algoritmos.",
+    "llm_response": "Análise de Algoritmos e Estruturas de Dados"
+  },
+  {
+    "id": "disciplinas_003_var0",
+    "question": "O que é ensinado na matéria de Análise de Algoritmos?",
+    "gold_answer": "Estruturas de dados elementares: vetores; matrizes; listas estáticas e dinâmicas (pilhas, filas e listas). Árvores: terminologia, representação; algoritmos de manipulação e percursos em árvores; árvores balanceadas. Ordenação, pesquisa e hashing. Complexidade de algoritmos.",
+    "llm_response": "Análise de Algoritmos"
+  },
+  {
+    "id": "disciplinas_003_var1",
+    "question": "Conteúdo programático de Análise de Algoritmos",
+    "gold_answer": "Estruturas de dados elementares: vetores; matrizes; listas estáticas e dinâmicas (pilhas, filas e listas). Árvores: terminologia, representação; algoritmos de manipulação e percursos em árvores; árvores balanceadas. Ordenação, pesquisa e hashing. Complexidade de algoritmos.",
+    "llm_response": "Objetivos gerais: Compreender os conceitos básicos sobre redes neurais artificiais (RNAs) e suas principais características. Objetivos específicos: - Identificar as"
+  },
+  {
+    "id": "disciplinas_003_var2",
+    "question": "Qual o programa resumido da matéria obrigatória de Estruturas de Dados?",
+    "gold_answer": "Estruturas de dados elementares: vetores; matrizes; listas estáticas e dinâmicas (pilhas, filas e listas). Árvores: terminologia, representação; algoritmos de manipulação e percursos em árvores; árvores balanceadas. Ordenação, pesquisa e hashing. Complexidade de algoritmos.",
+    "llm_response": "Estruturas de dados são conjuntos de regras que permitem organizar informações de maneira eficiente. Eles podem ser usados para armazenar dados, manipular dados e realizar análises estatísticas. Neste"
+  },
+  {
+    "id": "alunos_pad_002",
+    "question": "A qual política institucional o PAD atende na Unifesp?",
+    "gold_answer": "política de formação docente de pós-graduandos(as) regularmente matriculados(as) em Programas de Pós-Graduação Stricto Sensu da Unifesp.",
+    "llm_response": "Política Institucional de Professor(a) Visitante"
+  },
+  {
+    "id": "alunos_pad_002_var0",
+    "question": "Qual o objetivo principal del programa PAD?",
+    "gold_answer": "política de formação docente de pós-graduandos(as) regularmente matriculados(as) em Programas de Pós-Graduação Stricto Sensu da Unifesp.",
+    "llm_response": "O objetivo principal do PAD é proporcionar aos estudantes de pós-graduação acesso a programas de aperfeiçoamento, treinamento e especialização em nível de mestrado ou doutorado."
+  },
+  {
+    "id": "alunos_pad_002_var1",
+    "question": "A quem se destina o Programa de Aperfeiçoamento Didático?",
+    "gold_answer": "política de formação docente de pós-graduandos(as) regularmente matriculados(as) em Programas de Pós-Graduação Stricto Sensu da Unifesp.",
+    "llm_response": "Programa de Aperfeiçoamento Didático, destinado aos professores titulares de disciplinas ministradas nos Cursos de Graduação da UNIFESP."
+  },
+  {
+    "id": "alunos_pad_002_var2",
+    "question": "O PAD atende a qual política de formação de pós-graduandos?",
+    "gold_answer": "política de formação docente de pós-graduandos(as) regularmente matriculados(as) em Programas de Pós-Graduação Stricto Sensu da Unifesp.",
+    "llm_response": "Política Institucional de Pós-graduação (PPG)"
+  },
+  {
+    "id": "alunos_matriculados_001",
+    "question": "Onde posso encontrar a lista de alunos atualmente matriculados no PPG-CC?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/matriculados",
+    "llm_response": "Para acessar a lista de alunos atualmente matriculados, clique aqui."
+  },
+  {
+    "id": "alunos_matriculados_001_var0",
+    "question": "Qual o link de alunos matriculados?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/matriculados",
+    "llm_response": "Link para cadastro de alunos: https://www.sistemas.unifesp.br/sei/público/SistemaSEIUnifesp/login.se"
+  },
+  {
+    "id": "alunos_matriculados_001_var1",
+    "question": "Como consultar quem está matriculado no programa?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/matriculados",
+    "llm_response": "As informações sobre os alunos estão disponíveis na página do programa."
+  },
+  {
+    "id": "alunos_matriculados_001_var2",
+    "question": "Onde fica a relação de estudantes matriculados do PPG-CC?",
+    "gold_answer": "https://ppg.unifesp.br/cc/alunos/matriculados",
+    "llm_response": "As informações sobre as matrículas estão disponíveis na página do PPG-CC: https://www.ppg.cc/pt-br/mestrado-e-doutorado/"
+  },
+  {
+    "id": "custom_bol_004",
+    "question": "Até qual data limite o bolsista de mestrado devia submeter um projeto à FAPESP em 2015?",
+    "gold_answer": "31 de julho de 2015",
+    "llm_response": "Até 30 de junho de 2015."
+  },
+  {
+    "id": "custom_bol_004_var0",
+    "question": "prazo submissao fapesp 2015",
+    "gold_answer": "31 de julho de 2015",
+    "llm_response": "Período de submissão de propostas para bolsas de Mestrado e Doutorado da FAPESP: 15/02/2015 a 30/04/2015. A data limite para envio"
+  },
+  {
+    "id": "custom_bol_004_var1",
+    "question": "data limite projeto fapesp mestrado",
+    "gold_answer": "31 de julho de 2015",
+    "llm_response": "Período de submissão de projetos para bolsas de Mestrado e Doutorado da FAPESP: 30/06/2021 a 06/07/2021."
+  },
+  {
+    "id": "custom_bol_004_var2",
+    "question": "projeto fapesp data limite",
+    "gold_answer": "31 de julho de 2015",
+    "llm_response": "Projetos de Pesquisa Projetos: Linha Sistema"
+  },
+  {
+    "id": "custom_reg_012",
+    "question": "Em quais condições de reprovação em disciplinas o discente terá sua matrícula cancelada?",
+    "gold_answer": "reprovado 2 (duas) vezes na mesma disciplina ou em 3 (três) disciplinas distintas",
+    "llm_response": "As situações de reprovação em disciplinas são definidas pela Comissão Coordenadora do Programa (CCP) e devem estar previstas nos regulamentos dos cursos de pós-graduação stricto"
+  },
+  {
+    "id": "custom_reg_012_var0",
+    "question": "cancelamento de matricula por reprovacao",
+    "gold_answer": "reprovado 2 (duas) vezes na mesma disciplina ou em 3 (três) disciplinas distintas",
+    "llm_response": "Se você foi reprovado em alguma disciplina, não se preocupe! Você pode pedir o cancelamento de sua matrícula imediatamente após ter feito a prova e obter o"
+  },
+  {
+    "id": "custom_reg_012_var1",
+    "question": "quantas reprovacoes cancela matricula",
+    "gold_answer": "reprovado 2 (duas) vezes na mesma disciplina ou em 3 (três) disciplinas distintas",
+    "llm_response": "Segue abaixo tabela com as reprovações canceladas:"
+  },
+  {
+    "id": "custom_reg_012_var2",
+    "question": "reprovado em disciplinas jubilamento",
+    "gold_answer": "reprovado 2 (duas) vezes na mesma disciplina ou em 3 (três) disciplinas distintas",
+    "llm_response": "Período de Jubilação:"
+  },
+  {
+    "id": "sobre_programa_proap_002",
+    "question": "Qual é o link del site da secretaria acadêmica para solicitar auxílio financeiro PROAP?",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/proapnovo",
+    "llm_response": "Site da secretaria acadêmica, clique aqui"
+  },
+  {
+    "id": "sobre_programa_proap_002_var0",
+    "question": "Onde discentes e docentes preenchem o formulário da PROAP?",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/proapnovo",
+    "llm_response": "Os formulários estão disponíveis no site da secretaria acadêmica, no menu superior direito da página inicial."
+  },
+  {
+    "id": "sobre_programa_proap_002_var1",
+    "question": "Link de solicitação da verba PROAP",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/proapnovo",
+    "llm_response": "As solicitações devem ser enviadas diretamente para o e-mail proae@unifesp.br. As informações necessárias estão disponíveis na página da Pró-Reitoria de Pesquisa e"
+  },
+  {
+    "id": "sobre_programa_proap_002_var2",
+    "question": "Onde pedir auxílio diária PROAP na secretaria?",
+    "gold_answer": "https://secpos-sjc.unifesp.br/index.php/proapnovo",
+    "llm_response": "O aluno pode solicitar auxílio diário PROAP diretamente na secretaria acadêmica, através do seguinte endereço eletrônico: http://www.secpos-sjc.unifesp.b"
+  },
+  {
+    "id": "custom_req_015",
+    "question": "Quais exemplos de documentos de upload são listados na observação 3 de peticionamento SEI?",
+    "gold_answer": "atestado médico, cronograma de atividades, certificados, etc.",
+    "llm_response": "Os seguintes documentos estão disponíveis para upload no Peticionamento SEI:"
+  },
+  {
+    "id": "custom_req_015_var0",
+    "question": "exemplos de comprovantes upload sei",
+    "gold_answer": "atestado médico, cronograma de atividades, certificados, etc.",
+    "llm_response": "Os documentos abaixo são exemplos de comprovantes. Os demais devem ser solicitados diretamente na secretaria do programa:"
+  },
+  {
+    "id": "custom_req_015_var1",
+    "question": "quais comprovantes enviar pelo sei",
+    "gold_answer": "atestado médico, cronograma de atividades, certificados, etc.",
+    "llm_response": "Os seguintes documentos devem ser enviados ao e-mail soi@unifesp.br:"
+  },
+  {
+    "id": "custom_req_015_var2",
+    "question": "atestado medico sei cronograma",
+    "gold_answer": "atestado médico, cronograma de atividades, certificados, etc.",
+    "llm_response": "Observação: A solicitação deverá ser realizada através do formulário eletrônico disponível em: https://secpos-sjc.unifesp.br/index.php/formular"
+  },
+  {
+    "id": "custom_v2_dur_024",
+    "question": "Qual o prazo máximo de meses para o doutorando concluir suas disciplinas?",
+    "gold_answer": "24 (vinte e quatro) meses",
+    "llm_response": "Os prazos máximos para conclusão das disciplinas são os seguintes: a) até 30 dias antes do início das aulas: b) até 60 dias antes do início das aulas:"
+  },
+  {
+    "id": "custom_v2_dur_024_var0",
+    "question": "prazo limite disciplinas doutorado",
+    "gold_answer": "24 (vinte e quatro) meses",
+    "llm_response": "Período de matrícula para os candidatos aprovados no exame de qualificação de mestrado."
+  },
+  {
+    "id": "custom_v2_dur_024_var1",
+    "question": "tempo disciplinas doutorado meses",
+    "gold_answer": "24 (vinte e quatro) meses",
+    "llm_response": "Período mínimo de integralização = 12 (doze) meses"
+  },
+  {
+    "id": "custom_v2_dur_024_var2",
+    "question": "integralizacao materias doutorado",
+    "gold_answer": "24 (vinte e quatro) meses",
+    "llm_response": "Os créditos obtidos nas disciplinas do Mestrado deverão ser integralizados no prazo máximo de 18 meses, enquanto os créditos obtidos nas disciplinas do Doutorado deverão ser integralizados no prazo"
+  },
+  {
+    "id": "custom_v2_cep_011",
+    "question": "O que é feito se persistir o empate de tempo no programa para assumir a coordenação vacante?",
+    "gold_answer": "sorteio",
+    "llm_response": "Se persistir o empate, proceder-se-á ao sorteio, na forma estabelecida nos artigos 40 e 41 deste regimento, para escolha do(s) candidato(s) mais idoso"
+  },
+  {
+    "id": "custom_v2_cep_011_var0",
+    "question": "sorteio desempate persistente",
+    "gold_answer": "sorteio",
+    "llm_response": "Pergunta:"
+  },
+  {
+    "id": "custom_v2_cep_011_var1",
+    "question": "sorteio coordenador desempate",
+    "gold_answer": "sorteio",
+    "llm_response": "Período de realização das eleições: 30/06/2021 a 31/07/2021."
+  },
+  {
+    "id": "custom_v2_cep_011_var2",
+    "question": "empate persistente sorteio",
+    "gold_answer": "sorteio",
+    "llm_response": "Permitir a realização de eleições diretas entre os coordenadores, sem prejuízo da"
+  },
+  {
+    "id": "custom_def_032",
+    "question": "Quem é o presidente da banca de defesa do aluno de doutorado em 2026?",
+    "gold_answer": "",
+    "llm_response": "Professor Doutor Fernando José de Almeida"
+  },
+  {
+    "id": "custom_def_032_var0",
+    "question": "presidente da banca doutorado 2026",
+    "gold_answer": "",
+    "llm_response": "Pergunta:"
+  },
+  {
+    "id": "custom_def_032_var1",
+    "question": "quem preside banca doutorado 2026",
+    "gold_answer": "",
+    "llm_response": "Prof. Dr. José Eduardo Ferreira Gomes Filho"
+  },
+  {
+    "id": "custom_def_032_var2",
+    "question": "nome presidente banca",
+    "gold_answer": "",
+    "llm_response": "Período de envio: 15/02/2022 até 30/04/2022 às 23:59h (horário de Brasília)"
+  },
+  {
+    "id": "disciplinas_008",
+    "question": "Qual a carga horária da disciplina de Sistemas Críticos?",
+    "gold_answer": "Carga horária: 60 horas",
+    "llm_response": "Carga Horária: 60 horas Créditos: 4 Ementa do curso: História. Conceitos de sistemas críticos. Processos de desenvolvimento e ciclo de vida"
+  },
+  {
+    "id": "disciplinas_008_var0",
+    "question": "Quantas horas de aula tem a matéria de Sistemas Críticos?",
+    "gold_answer": "Carga horária: 60 horas",
+    "llm_response": "As disciplinas obrigatórias, como já mencionado, são ministradas por professores doutores e possuem duração mínima de 6 (seis) meses. As demais disciplinas podem ser cursadas,"
+  },
+  {
+    "id": "disciplinas_008_var1",
+    "question": "Carga horária de Sistemas Críticos",
+    "gold_answer": "Carga horária: 60 horas",
+    "llm_response": "60 horas"
+  },
+  {
+    "id": "disciplinas_008_var2",
+    "question": "Duração da matéria de engenharia de software para sistemas críticos",
+    "gold_answer": "Carga horária: 60 horas",
+    "llm_response": "Período integral"
+  },
+  {
+    "id": "custom_v2_cep_009",
+    "question": "Qual o prazo máximo para iniciar novo processo eleitoral na vacância simultânea da coordenação?",
+    "gold_answer": "60 (sessenta) dias",
+    "llm_response": "Período mínimo de 60 (sessenta) dias, contados a partir da data de publicação deste Edital."
+  },
+  {
+    "id": "custom_v2_cep_009_var0",
+    "question": "prazo eleicao vacancia simultanea",
+    "gold_answer": "60 (sessenta) dias",
+    "llm_response": "Período de vacância, conforme Art. 70. do Regimento Interno do CEPG, vigente à época da realização desta consulta pública."
+  },
+  {
+    "id": "custom_v2_cep_009_var1",
+    "question": "dias processo eleitoral vacancia coordenação",
+    "gold_answer": "60 (sessenta) dias",
+    "llm_response": "As eleições para o novo coordenador do PPG-CC serão convocadas"
+  },
+  {
+    "id": "custom_v2_cep_009_var2",
+    "question": "prazo eleicoes coordenação",
+    "gold_answer": "60 (sessenta) dias",
+    "llm_response": "Período Eleitoral para escolha dos representantes discentes, docentes e técnico-administrativos na Comissão de Ensino de Pós-Graduação (CEPG)."
+  },
+  {
+    "id": "documentos_regulamentos_014",
+    "question": "Com qual frequência o discente de pós-graduação deve efetuar rematrículas?",
+    "gold_answer": "rematrículas semestrais",
+    "llm_response": "Para cada disciplina do curso o discente deverá realizar uma única rematrícula semestralmente ou anualmente. § 1o No caso de o discente não"
+  },
+  {
+    "id": "documentos_regulamentos_014_var0",
+    "question": "Qual o período para fazer a rematrícula no PPG-CC?",
+    "gold_answer": "rematrículas semestrais",
+    "llm_response": "Período de rematrícula: 1 semestre de 2021."
+  },
+  {
+    "id": "documentos_regulamentos_014_var1",
+    "question": "A rematrícula deve ser feita de quanto em quanto tempo?",
+    "gold_answer": "rematrículas semestrais",
+    "llm_response": "Se for de 6 meses, deve ser feito uma única vez. Se for de 3 anos, deve ser feito duas vezes."
+  },
+  {
+    "id": "documentos_regulamentos_014_var2",
+    "question": "Periodicidade da rematrícula na pós-graduação",
+    "gold_answer": "rematrículas semestrais",
+    "llm_response": "As disciplinas são oferecidas anualmente."
+  },
+  {
+    "id": "custom_v2_doc_012",
+    "question": "Quais documentos e descrições devem acompanhar o pedido de credenciamento de docente?",
+    "gold_answer": "currículo vitae atualizado. 2) descrição das atividades em disciplinas a serem ministradas; 3) descrição de um projeto de pesquisa",
+    "llm_response": "Os documentos e descrições necessários para o credenciamento são:"
+  },
+  {
+    "id": "custom_v2_doc_012_var0",
+    "question": "documentos credenciamento docente lista",
+    "gold_answer": "currículo vitae atualizado. 2) descrição das atividades em disciplinas a serem ministradas; 3) descrição de um projeto de pesquisa",
+    "llm_response": "Os seguintes documentos estão disponíveis como parte do processo de credenciamento docente:"
+  },
+  {
+    "id": "custom_v2_doc_012_var1",
+    "question": "anexos pedido credenciamento docente",
+    "gold_answer": "currículo vitae atualizado. 2) descrição das atividades em disciplinas a serem ministradas; 3) descrição de um projeto de pesquisa",
+    "llm_response": "Perfil do Orientador:"
+  },
+  {
+    "id": "custom_v2_doc_012_var2",
+    "question": "o que enviar para credenciar docente",
+    "gold_answer": "currículo vitae atualizado. 2) descrição das atividades em disciplinas a serem ministradas; 3) descrição de um projeto de pesquisa",
+    "llm_response": "Para credenciamento, envie o Requerimento de Credenciamento Docente, devidamente assinado pelo Coordenador, contendo todos os documentos exigidos no edital. Os documentos"
+  },
+  {
+    "id": "llm_aluno-especial_seg000_03",
+    "question": "Quem poderá aplicar critérios de seleção para as disciplinas com vagas limitadas?",
+    "gold_answer": "cada docente responsável por uma disciplina",
+    "llm_response": "Os docentes responsáveis pelas disciplinas terão autonomia para definir os critérios de seleção, cabendo aos Coordenadores, conforme estabelecido na Resolução n 01, de 19 de dezembro"
+  },
+  {
+    "id": "llm_aluno-especial_seg000_03_var0",
+    "question": "Quem define os critérios de seleção?",
+    "gold_answer": "cada docente responsável por uma disciplina",
+    "llm_response": "Os critérios de seleção são definidos pelos órgãos colegiados superiores do Programa, que podem incluir a análise curricular e a entrevista."
+  },
+  {
+    "id": "llm_aluno-especial_seg000_03_var1",
+    "question": "Quem seleciona os alunos nas disciplinas?",
+    "gold_answer": "cada docente responsável por uma disciplina",
+    "llm_response": "Os candidatos são selecionados pelos professores responsáveis pelas disciplinas."
+  },
+  {
+    "id": "llm_aluno-especial_seg000_03_var2",
+    "question": "Quem aplica a seleção das vagas?",
+    "gold_answer": "cada docente responsável por uma disciplina",
+    "llm_response": "Membros da CES"
+  },
+  {
+    "id": "custom_def_016",
+    "question": "Para qual programa é exigido o envio prévio do formulário de Sugestão de Banca?",
+    "gold_answer": "PPG-PIT",
+    "llm_response": "Programas de pós-graduação stricto sensu (mestrado e doutorado)"
+  },
+  {
+    "id": "custom_def_016_var0",
+    "question": "sugestao de banca ppg-pit",
+    "gold_answer": "PPG-PIT",
+    "llm_response": "Objetivo: Orientar sobre como realizar uma boa defesa de mestrado ou doutorado. Objetivos específicos: - Verificar se todos os itens foram cumpridos;"
+  },
+  {
+    "id": "custom_def_016_var1",
+    "question": "formulario sugestao banca pit",
+    "gold_answer": "PPG-PIT",
+    "llm_response": "Obrigado por participar! Você pode preencher o formulário aqui ou entrar em contato diretamente com a coordenação do curso. Se você tiver alguma dúvida sobre como preencher o formul"
+  },
+  {
+    "id": "custom_def_016_var2",
+    "question": "sugestao banca coordenação pit",
+    "gold_answer": "PPG-PIT",
+    "llm_response": "Obrigado por participar! Você pode encontrar todas as informações necessárias sobre como solicitar uma banca aqui:"
+  },
+  {
+    "id": "orientadores_005",
+    "question": "Quais são as áreas de atuação do Prof. Dr. André Marcorin de Oliveira?",
+    "gold_answer": "Controle de Sistemas Dinâmicos e Sistemas Embarcados",
+    "llm_response": "As áreas de atuação do Prof. Dr. André Marcorin de Oliveira incluem:"
+  },
+  {
+    "id": "orientadores_005_var0",
+    "question": "Em qual área atua o orientador André Marcorin?",
+    "gold_answer": "Controle de Sistemas Dinâmicos e Sistemas Embarcados",
+    "llm_response": "Professor Doutor André Marcorin de Oliveira"
+  },
+  {
+    "id": "orientadores_005_var1",
+    "question": "Áreas de pesquisa do professor André Marcorin de Oliveira",
+    "gold_answer": "Controle de Sistemas Dinâmicos e Sistemas Embarcados",
+    "llm_response": "Processamento de Linguagem Natural (NLP), Visão Computacional, Sistemas de Apoio à Decisão (SADs), Sistemas de Recomendação (SR), Análise"
+  },
+  {
+    "id": "orientadores_005_var2",
+    "question": "Qual a linha de pesquisa do Prof. André Marcorin?",
+    "gold_answer": "Controle de Sistemas Dinâmicos e Sistemas Embarcados",
+    "llm_response": "Alto Desempenho Aplicado"
+  },
+  {
+    "id": "imp_admissao_002",
+    "question": "Existe isenção da taxa de inscrição para o processo seletivo?",
+    "gold_answer": "",
+    "llm_response": "Não, a taxa de inscrição é gratuita."
+  },
+  {
+    "id": "imp_admissao_002_var0",
+    "question": "Taxa de inscrição isenção",
+    "gold_answer": "",
+    "llm_response": "As taxas de inscrição são gratuitas."
+  },
+  {
+    "id": "imp_admissao_002_var1",
+    "question": "Como pedir isenção de taxa de matrícula?",
+    "gold_answer": "",
+    "llm_response": "Para obter a isenção de pagamento de taxa de matrícula, o aluno deve seguir os passos abaixo:"
+  },
+  {
+    "id": "imp_admissao_002_var2",
+    "question": "Quanto custa a taxa de inscrição do edital?",
+    "gold_answer": "",
+    "llm_response": "As taxas são as seguintes:"
+  }
+]

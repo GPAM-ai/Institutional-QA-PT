@@ -1,0 +1,18 @@
+# Current cluster environment observed 2026-10-30. Not a historical training lockfile.
+torch==2.10.0+computecanada
+transformers==4.48.3+computecanada
+datasets==2.20.0+computecanada
+peft==0.15.2+computecanada
+accelerate==0.33.0
+bitsandbytes==0.49.2+computecanada
+numpy==1.26.4+computecanada
+pandas==3.0.0+computecanada
+matplotlib==3.11.1+computecanada
+sentence-transformers==2.7.0+computecanada
+networkx==3.6.1+computecanada
+scikit-learn==1.8.0+computecanada
+scipy==1.13.1+computecanada
+seaborn==0.13.2+computecanada
+bert-score==0.3.13
+tqdm==4.67.3+computecanada
+protobuf==7.35.0+computecanada

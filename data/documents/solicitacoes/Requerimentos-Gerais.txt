@@ -1,0 +1,90 @@
+
+Requerimentos Gerais
+
+Os requerimentos gerais dentro do PPGCC como:
+
+    Requerimento de trancamento de matrícula;
+    Requerimento de cancelamento de matrícula;
+    Requerimento de prorrogação de prazo;
+    Requerimento de prorrogação de prazo do exame de qualificação;
+    Requerimento de aproveitamento de estudos e atividades complementares;
+    Requerimento de mudança de orientador;
+
+dentre outros, são realizados através do sistema SEI, com fluxo definido pela Secretaria de Pós-Graduação. 
+
+Fluxo detalhado: https://secpos-sjc.unifesp.br/index.php/formularios/gerais#demais-requerimentos-2 (clicar em Mestrado/Doutorado Acadêmico).
+
+Atendimento remoto (Secretaria de Pós-Graduação da UNIFESP/SJC): atendimento.pos.sjc@unifesp.br
+
+
+Publicado: 23 Novembro 2022 
+Última Atualização: 04 Abril 2025 
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Requerimentos referentes aos PPGs: CC, Biotec, ECM, Mat, EB  (https://secpos-sjc.unifesp.br/index.php/formularios/gerais#mestrado-doutorado-profissional)
+
+
+Requerimento de atestado de matrícula - aluno especial: https://atendimento.unifesp.br/plugins/formcreator/front/formdisplay.php?id=90
+
+Requerimento de certificado de disciplinas - aluno especial: https://atendimento.unifesp.br/plugins/formcreator/front/formdisplay.php?id=90
+
+Requerimento de cancelamento de matrícula em disciplina - aluno especial: https://secpos-sjc.unifesp.br/index.php/formularios/gerais#requerimento-de-cancelamento-de-matricula-em-disciplina-aluno-especial-2
+
+Requerimento de histórico acadêmico
+
+O histórico acadêmico deve ser obtido no: siiu colorido unifesp : https://siiu.unifesp.br/login
+
+Tutorial sobre o Sistema SIIU : https://drive.google.com/file/d/1nsrOvA2qR80EsKxOqeVSxF5BrmDNgUYg/view
+
+
+Demais requerimentos
+
+    INÍCIO
+
+    Discente realiza o requerimento via peticionamento SEI
+
+    Secretaria recebe o processo e encaminha via email o número do processo para a CEPG com as devidas informações do requerimento
+
+    CEPG analisa e delibera o requerimento de acordo com os documentos anexados no SEI
+
+    CEPG encaminha a ata da reunião ou informa por email à Secretaria a homologação do requerimento
+
+    Requerimento aprovado?
+
+    Sim
+
+    Não, Secretaria comunica o discente para tomar as devidas providências
+
+    Secretaria realiza os trâmites necessários e comunica o discente
+
+    FIM
+
+
+Deverão ser solicitados via peticionamento pelo sistema SEI usuário externo: https://portalsei.unifesp.br/usuario-externo
+- Requerimento de trancamento de matrícula
+- Requerimento de cancelamento de matrícula
+- Requerimento de prorrogação de prazo
+- Requerimento de prorrogação de prazo do exame de qualificação
+- Requerimento de aproveitamento de estudos e atividades complementares
+- Requerimento de mudança de orientador
+- Requerimento de mudança de nível
+- Declaração de Responsabilidade CEP (https://secpos-sjc.unifesp.br/images/2025_Tutorial-SEI-CEP-Declaracao.Responsabilidade-Comite.de.Etica.em.Pesquisa-at01092025.pdf)
+
+Tutorial:https://secpos-sjc.unifesp.br/images/2025_Tutorial-SEI-Requerimentos_diversos-at01092025.pdf
+
+Observação 1: Para acesso aos formulários do Google Forms será necessário utilizar o seu email institucional Unifesp.
+
+Observação 2: Somente alunos regularmente matriculados (na modalidade Aluno Regular) podem solicitar aproveitamento de estudos.
+
+Observação 3: Ao realizar o peticionamento via SEI não esqueça de fazer o upload dos comprovantes pertinentes a cada tipo de processo como: atestado médico, cronograma de atividades, certificados, etc.
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+{
+  "model_type": "xlmr",
+  "tuning_type": "lora",
+  "train_epochs": 15.0,
+  "learning_rate": 5e-05,
+  "batch_size": 32,
+  "train_time_seconds": 122.35079765319824,
+  "train_time_minutes": 2.039179960886637,
+  "peak_vram_mb": 5305.54443359375,
+  "disk_size_mb": 18.278156280517578,
+  "validation_exact_match": 19.852941176470587,
+  "validation_f1": 36.89371389050956
+}

@@ -1,0 +1,13 @@
+{
+  "model_type": "bertugues",
+  "tuning_type": "qlora",
+  "train_epochs": 15.0,
+  "learning_rate": 5e-05,
+  "batch_size": 64,
+  "train_time_seconds": 197.7127606868744,
+  "train_time_minutes": 3.295212678114573,
+  "peak_vram_mb": 3341.37890625,
+  "disk_size_mb": 2.948330879211426,
+  "validation_exact_match": 27.450980392156865,
+  "validation_f1": 39.22797689471453
+}

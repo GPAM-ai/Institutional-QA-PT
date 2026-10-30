@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+models/
+embeddings_cache/
+results_new/
+*.log
+*.aux
+*.blg
+*.out
+*.err
+.env
+.env.*

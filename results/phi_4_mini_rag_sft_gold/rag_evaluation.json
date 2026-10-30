@@ -1,0 +1,16 @@
+{
+  "retriever_hit_at_1": 32.59803921568628,
+  "retriever_hit_at_3": 46.32352941176471,
+  "reader_exact_match": null,
+  "reader_f1": null,
+  "rag_exact_match": 60.5392156862745,
+  "rag_f1": 78.03068566209086,
+  "rag_rouge1": 78.03068566209086,
+  "rag_rouge2": 55.207279662445416,
+  "rag_rougeL": 78.01487288536727,
+  "rag_containment": 67.15686274509804,
+  "rag_token_recall": 78.55226761936316,
+  "rag_k_precision": 95.80624236874239,
+  "peak_vram_mb": 8012.3212890625,
+  "average_latency_ms": 447.1008900333853
+}

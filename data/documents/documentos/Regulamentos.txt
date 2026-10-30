@@ -1,0 +1,2331 @@
+
+Regulamentos
+
+A seguir, são apresentados os documentos que regem o funcionamento do programa.
+
+    Regimento do PPG-CC (Programa de Pós-Graduação em Ciência da Computação)(https://drive.google.com/file/d/1Uw0K4SeGd8EQVyDYmicVPo7eZgDL4Riy/view) 
+    Regimento da CaPGPq-SJC (Câmara de Pós-Graduação e Pesquisa de São José dos Campos)(https://drive.google.com/file/d/1UmQi6xLhPZ8oDqJlvSjnRNHP42Fnxwkv/view)
+    Regimento da PROPGPq (Pró-Reitoria de Pós-Graduação e Pesquisa)(https://drive.google.com/file/d/1UsNHlGTAbF_6_B7tabHnoNPxJcmfTTKW/view) 
+    Critérios de credenciamento e recredenciamento de Orientadores Permanentes(https://drive.google.com/file/d/1JCItSqZFueX0hXuboNaENsvbynbytRto/)
+    Critérios de credenciamento de Orientadores Colaboradores(https://drive.google.com/file/d/1JBN9Voi1tG95c5Sq0Z3x2gRQ15jlg06O/)
+    Critérios para pós-doutorandos(https://drive.google.com/file/d/1OuJVCTwivKBAHOdHnfEdndXW341NO0Ig/view?usp=drive_link)
+    Regulamento para Exame de Proficiência em Língua Estrangeira(https://drive.google.com/file/d/1-7DMGPbsIzHXC2SoxQ1R_AeB8JeVqw3c/view?usp=sharing)
+
+Além disso, são listados a seguir instruções normativas do programa.
+
+    Instrução Normativa para o Exame de Qualificação(https://docs.google.com/document/d/1kr-p-FWh6jL_brieFZMP5E6NJ61SJBpg/edit?tab=t.0)
+    Instrução Normativa para Publicação de Artigos Científicos(https://docs.google.com/document/d/1Dici4hhythjOx9xpJQ8rTa61A9cVW3ZW/edit?tab=t.0)
+    Instrução Normativa para Mudança de Nível no Programa (mestrado para doutorado)(https://docs.google.com/document/d/1otgluaQg873B34jqq4ZB6zu871upTmKx/edit?tab=t.0)
+
+ Publicado: 23 Novembro 2022 
+ Última Atualização: 24 Abril 2025 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UNIVERSIDADE FEDERAL DE SÃO PAULO
+
+Regulamento Interno do Programa
+de Pós-graduação em Ciência da
+
+Computação
+
+São José dos Campos
+
+SUMÁRIO
+Capítulo I. DISPOSIÇÕES INICIAIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Capítulo II. DISPOSIÇÕES INICIAIS . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Capítulo III. DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO . . . . . . . . . . . . 1
+Seção I. DA COMPOSIÇÃO DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO 1
+Seção II. DAS COMPETÊNCIAS DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO 2
+Seção III. DO FUNCIONAMENTO DA COMISSÃO DE ENSINO DE
+PÓS-GRADUAÇÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Seção IV. DAS COMPETÊNCIAS DA COORDENAÇÃO DA COMISSÃO DE ENSINO
+DE PÓS-GRADUAÇÃO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Seção V. DA SECRETARIA DO PPG-CC . . . . . . . . . . . . . . . . . . . . . . 5
+Seção VI. DAS ELEIÇÕES E MANDATOS DA CEPG-CC . . . . . . . . . . . . . . 5
+Capítulo IV. DO CORPO DOCENTE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Capítulo V. DA INSCRIÇÃO E SELEÇÃO DISCENTE . . . . . . . . . . . . . . . . . . . 8
+Capítulo VI. DA ESTRUTURA E DURAÇÃO DO CURSO . . . . . . . . . . . . . . . . . 8
+Capítulo VII. DO REGIME DE CRÉDITOS . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Capítulo VIII. DA MATRÍCULA E DA INSCRIÇÃO EM DISCIPLINAS . . . . . . . . . . . 10
+Capítulo IX. DA VERIFICAÇÃO E AVALIAÇÃO DO RENDIMENTO ACADÊMICO . . . . . 10
+Capítulo X. DA DISSERTAÇÃO E DA TESE . . . . . . . . . . . . . . . . . . . . . . . . 11
+Capítulo XI. DO GRAU ACADÊMICO DE MESTRE E DE DOUTOR . . . . . . . . . . . . 14
+Capítulo XII. DISPOSIÇÃO FINAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+CAPÍTULO I
+DISPOSIÇÕES INICIAIS
+
+CAPÍTULO II
+DISPOSIÇÕES INICIAIS
+
+Art. 1o Este Regimento estabelece as normas reguladoras e disciplinadoras
+das atividades acadêmicas e administrativas do Programa de Pós-Graduação
+
+stricto sensu em Ciência da Computação (PPG-CC) da Universidade Fede-
+ral de São Paulo (UNIFESP), em consonância com o Regimento Interno de
+
+Pós-graduação stricto sensu e de Pesquisa da UNIFESP e demais dispositivos
+legais.
+
+DAS FINALIDADES
+
+Art. 2o O PPG-CC tem por objetivo a formação de recursos humanos
+de alto nível na área de computação visando contribuir para o progresso
+científico-tecnológico nessa área do conhecimento.
+Art. 3o O Programa de Pós-Graduação em Ciência da Computação (PPG-CC)
+tem como objetivos específicos:
+I — a formação científica e didática de profissionais para o desempenho
+
+de atividades de ensino e pesquisa em alto nível, em instituições de en-
+sino, empresas e indústrias na área de computação;
+
+II — a preparação de profissionais com maturidade acadêmica suficiente
+que permita a elaboração de projetos de pesquisa originais;
+
+III — gerar produção científica e inovação tecnológica de alto nível, a par-
+tir dos projetos científicos e de inovação tecnológica desenvolvidos por
+
+seu corpo docente e discente.
+DA ORGANIZAÇÃO, COMPOSIÇÃO E
+
+COMPETÊNCIAS
+CAPÍTULO III
+
+DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO
+
+Seção I
+
+DA COMPOSIÇÃO DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO
+Art. 4o Integram a Comissão de Ensino de Pós-Graduação do PPG-CC
+(CEPG-CC):
+
+I — O Coordenador Geral do Programa, seu membro nato e que a presi-
+1
+
+2 Capítulo III. DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO
+dirá;
+II — 2 (dois) representantes titulares (dentre eles o vice-coordenador) e
+1 (um) suplente do corpo docente para cada linha de pesquisa;
+III — 1 (um) representante titular e (1) um suplente do corpo discente do
+programa.
+Art. 5o O coordenador deverá pertencer ao corpo docente permanente de
+orientadores do PPG-CC que tenham vínculo estatutário com a Unifesp.
+§ 1o O coordenador designará um vice-coordenador, dentre os membros
+
+da CEPG-CC, que o substituirá em suas faltas e impedimentos e o suce-
+derá, em caso de vacância, até novo provimento;
+
+§ 2o Em caso de vacância simultânea do coordenador e do
+vice-coordenador, assumirá a coordenação da CEPG-CC o seu membro
+mais antigo no cargo, a quem caberá iniciar novo processo eleitoral em
+até 60 (sessenta) dias;
+
+§ 3o Se houver mais de um membro com a mesma antiguidade, será es-
+colhido aquele que contar com maior tempo no programa. Persistindo o
+
+empate, proceder-se-á a um sorteio.
+
+Art. 6o Os membros docentes da CEPG-CC devem pertencer ao corpo perma-
+nente de orientadores do PPG-CC e terem vínculo estatutário com a Unifesp.
+
+Art. 7o Em caso de ausência não justificada de um membro em mais de 3 (três)
+reuniões para as quais foi convocado, a CEPG-CC poderá destituir o membro
+faltoso.
+Art. 8o Em caso de qualquer outro tipo de impedimento de um membro
+docente ou discente da CEPG-CC terminar o seu mandato, assumirá o seu
+
+suplente até o final do mandato. Caso haja também o impedimento do su-
+plente, a CEPG-CC indicará novos membros para terminarem os mandatos dos
+
+membros impedidos, respeitando o Art. 4.
+Seção II
+
+DAS COMPETÊNCIAS DA COMISSÃO DE ENSINO DE
+
+PÓS-GRADUAÇÃO
+
+Art. 9o Compete à CEPG-CC:
+I — elaborar o planejamento global do programa, bem como aprovar os
+planos das atividades e disciplinas;
+
+II — coordenar e avaliar a execução das atividades programáticas e dis-
+ciplinas;
+
+III — analisar e credenciar novas disciplinas observando seu mérito e
+
+importância junto à área de concentração, bem como a competência es-
+pecífica do corpo docente responsável;
+
+IV — coordenar e avaliar permanentemente a composição do corpo de
+
+orientadores do programa, de modo a assegurar elevado padrão acadê-
+mico;
+
+V — elaborar os editais dos processos seletivos;
+
+VI — designar a Comissão de Seleção de candidatos discentes a ingres-
+sarem no programa e acompanhar as diferentes etapas da seleção;
+
+III. DO FUNCIONAMENTO DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO 3
+VII — determinar os critérios para distribuição de bolsas do programa;
+VIII — deliberar sobre pedidos de trancamento de matrícula, isenção ou
+adiamento no cumprimento de disciplinas ou atividades obrigatórias;
+
+IX — aprovar os nomes dos membros das comissões julgadoras dos exa-
+mes de qualificação, dissertações e teses e encaminhar à CaPGPq para
+
+homologação;
+X — encaminhar os resultados das defesas de dissertações e teses para
+homologação pela CaPGPq;
+XI — selecionar e/ou indicar discentes para participação em editais de
+premiações ou representações do programa em eventos acadêmicos;
+
+XII — acompanhar a gestão dos recursos financeiros alocados para a ma-
+nutenção do programa, respeitadas as regulamentações legais e admi-
+nistrativas sobre a matéria;
+
+XIII — zelar pelo fiel cumprimento dos critérios estabelecidos pela legis-
+lação vigente no que tange à pós-graduação stricto sensu;
+
+XIV — submeter, para aprovação da CaPGPq, alterações no regimento do
+programa;
+
+XV — convocar, por decisão da maioria dos seus membros, reuniões ex-
+traordinárias do colegiado;
+
+XVI — supervisionar a secretaria do programa, que será responsável por:
+inserção e atualização de todas as informações relativas aos discentes e
+docentes do programa nos bancos de dados institucionais; conferência
+
+do cumprimento de todos os procedimentos necessários para o enca-
+minhamento de solicitação de bancas examinadoras para as defesas de
+
+dissertação ou tese; encaminhamento de documentações e memorandos
+para a CaPGPq assinados pelo coordenador do programa;
+XVII — estabelecer os prazos para exames de proficiência, assim como de
+entrega de relatórios dos estudantes de pós-graduação;
+
+XVIII — manter atualizadas as informações do programa, em meios ele-
+trônicos;
+
+XIX — emitir parecer circunstanciado sobre a equivalência de títulos de
+
+Mestre e Doutor, em sua área de atuação, obtidos no exterior, por soli-
+citação das instâncias superiores;
+
+XX — elaborar as regras internas de funcionamento do Pós-Doutorado;
+XXI — decidir, em primeira instância, sobre quaisquer questões omissas
+relativas ao programa;
+XXII — decidir, em primeira instância, sobre os recursos interpostos por
+estudantes, orientadores ou pesquisadores dos programa; e
+XXIII — praticar os demais atos de sua competência delegados pelo
+CPGPq.
+
+Seção III
+
+DO FUNCIONAMENTO DA COMISSÃO DE ENSINO DE
+
+PÓS-GRADUAÇÃO
+
+Art. 10o A CEPG-CC terá reuniões ordinárias uma vez por mês, ou extraor-
+
+4 Capítulo III. DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO
+dinárias, por convocação da coordenação ou solicitação expressa da maioria
+dos seus membros efetivos.
+§ 1o pautas das reuniões ordinárias, preparadas pelo coordenação em
+consulta com os docentes do programa, deverão ser divulgadas aos
+
+membros da CEPG-CC com pelo menos 48 (quarenta e oito) horas de ante-
+cedência, podendo, no entanto, ser modificada pela vontade da maioria
+
+simples dos membros da CEPG-CC;
+§ 2o A CEPG-CC poderá realizar reuniões extraordinárias, convocadas pela
+coordenação em consulta aos docentes do curso, cuja pauta deverá ser
+divulgada com pelo menos 24 (vinte e quatro) horas de antecedência;
+
+§ 3o O quórum mínimo exigido para as reuniões ordinárias e extraor-
+dinárias será de metade dos seus membros. Se esse número não for
+
+atingido em primeira convocação, a CEPG-CC poderá deliberar com pelo
+menos 3 (três) membros, em segunda convocação, 10 (dez) minutos após
+a primeira;
+
+§ 4o As decisões da CEPG-CC serão expressas por maioria simples de vo-
+tos dos membros presentes, devendo constar as decisões em ata;
+
+§ 5o Em todas as votações, a coordenação do programa terá direito ao
+voto de minerva em caso de empate;
+§ 6o Poderão ser convidados para as reuniões da CEPG-CC, com direito a
+
+voz mas não a voto, orientadores ou discentes, regularmente matricula-
+dos, para prestar esclarecimentos sobre assuntos especiais;
+
+§ 7o Mediante solicitação da CEPG-CC ou da coordenação do programa,
+poderão ser realizadas reuniões restritas ao colegiado;
+§ 8o As atas das reuniões da CEPG-CC serão publicadas pela Secretaria
+do Programa em prazo máximo de 30 (trinta) dias após a reunião de sua
+homologação;
+§ 9o Por ocasião de pauta referente a mudanças no texto do Regimento
+do Programa, exigir-se-á quórum qualificado, ou seja, a presença de pelo
+menos dois terços dos membros do CEPG-CC com direito a voto;
+§ 10o As decisões da CEPG-CC poderão ser objeto de recurso submetido,
+
+conforme estabelecido no Regimento Geral da Pós-graduação da UNI-
+FESP.
+
+Seção IV
+
+DAS COMPETÊNCIAS DA COORDENAÇÃO DA COMISSÃO DE
+
+ENSINO DE PÓS-GRADUAÇÃO
+Art. 11o Compete à coordenação do programa:
+I — Convocar e presidir as reuniões da CEPG-CC;
+II — Ser a interlocutora das questões da CEPG-CC no seu relacionamento
+com a CaPGPq e o CPGPq;
+III — Promover e harmonizar o funcionamento da CEPG-CC e do programa;
+IV — Gerir e encaminhar as questões técnicas e administrativas da
+CEPG-CC;
+
+V. DA SECRETARIA DO PPG-CC 5
+V — Gerir os recursos financeiros do programa em consonância com as
+diretrizes da CEPG-CC e do CaPGPq; e
+VI — Representar o programa nas instâncias em que se fizer necessário.
+
+Seção V
+DA SECRETARIA DO PPG-CC
+Art. 12o São atribuições da Secretaria do programa:
+I — Manutenção e atualização dos registros acadêmicos do curso;
+II — Redação das atas das reuniões da Comissão;
+
+III — Divulgação de editais de inscrição nos processos de seleção e rece-
+bimento das inscrições dos candidatos;
+
+IV — Divulgação interna e externa das atividades do PPG-CC e de docu-
+mentos relacionados ao mesmo;
+
+V — Recebimento das inscrições dos candidatos ao programa;
+VI — Organização e manutenção do cadastro dos alunos do programa;
+VII — Encaminhamento dos processos para exame da CEPG-CC;
+VIII — Secretariar as reuniões do CEPG-CC;
+IX — Manter os corpos docente e discente informados sobre as resoluções
+da CEPG-CC, da CaPGPq e do CPGPq;
+X — Providenciar a expedição de atestados e declarações;
+XI — Manter documentação contábil referente às finanças do programa;
+
+XII — Auxiliar a coordenação da CEPG-CC na elaboração de relatórios exi-
+gidos pelos órgãos oficiais de acompanhamento;
+
+XIII — Tomar as providências necessárias para viabilizar as defesas de
+dissertação e teses; e
+
+XIV — Outras atividades que se fizerem necessárias para o bom funcio-
+namento do programa.
+
+Seção VI
+
+DAS ELEIÇÕES E MANDATOS DA CEPG-CC
+
+Art. 13o As eleições para o novo coordenador do PPG-CC serão convoca-
+das pela coordenação, com pelo menos 30 (trinta) dias de antecedência ao
+
+término do seu mandato, devendo a mesma prever prazos para inscrição e
+homologação de candidatos dentro desse período.
+Parágrafo único. O Coordenador do programa será escolhido por meio
+de eleição direta pelo corpo permanente de orientadores do programa e
+pelo representante discente, e terá um mandato de 2 (dois) anos, sendo
+permitida 1 (uma) recondução consecutiva.
+Art. 14o As eleições para os membros da CEPG-CC serão convocadas pelo
+
+Coordenador, em edital próprio, com pelo menos 30 (trinta) dias de antece-
+dência, devendo o mesmo prever prazos para inscrição e homologação de
+
+candidatos dentro desse período.
+§ 1o Os membros da CEPG-CC serão escolhidos por meio de eleição direta
+entre os docentes componentes de cada linha de pesquisa, e terão um
+mandato de 2 (dois) anos.
+§ 2o O docente que estiver vinculado a mais de uma linha de pesquisa
+deverá optar por uma delas, tanto para votar como para concorrer.
+Art. 15o O representante discente e seu suplente serão escolhidos por meio
+de eleição direta entre os alunos devidamente matriculados no PPG-CC, e
+terão mandatos de 1 (um) ano, permitida uma recondução, enquanto perdurar
+o prazo regulamentar de matrícula.
+DA ORGANIZAÇÃO ACADÊMICA
+Art. 16o O PPG-CC compreende áreas de concentração com suas respectivas
+linhas de pesquisa, definidas pela CEPG-CC e instâncias superiores, visando
+
+promover o desenvolvimento científico e tecnológico da ciência da computa-
+ção e áreas afins.
+
+CAPÍTULO IV
+DO CORPO DOCENTE
+
+Art. 17o O corpo docente do PPG-CC é composto por orientadores perma-
+nentes, colaboradores e visitantes.
+
+Art. 18o Integram a categoria de Orientadores Permanentes os pesquisado-
+res assim enquadrados pelo Programa e que atendam a todos os seguintes
+
+requisitos:
+I — Desenvolvam atividades de ensino regularmente no PPG-CC;
+
+II — Participem de atividades de pesquisa junto ao Programa, com pro-
+dução científica-tecnológica regular e qualificada;
+
+III — Orientem regularmente alunos do Programa;
+IV — Tenham vínculo funcional com a UNIFESP ou tenham firmado, com
+
+esta Universidade, termo de compromisso de participação como orien-
+tador do Programa, segundo a legislação vigente.
+
+Art. 19o Integram a categoria de Orientadores Visitantes os pesquisadores
+com vínculo funcional-administrativo com outras instituições, brasileiras ou
+
+não, que sejam liberados, mediante acordo formal, das atividades correspon-
+dentes a tal vínculo para colaborarem, por um período contínuo de tempo e
+
+em regime de dedicação integral, em projeto de pesquisa, orientação e ativi-
+dades de ensino do programa.
+
+Parágrafo único. Enquadram-se como visitantes os docentes que aten-
+dam ao estabelecido no caput deste artigo e tenham sua atuação no
+
+programa viabilizada por contrato de trabalho por tempo determinado
+com a instituição ou por bolsa concedida, para esse fim, pela própria
+instituição ou por agência de fomento.
+Art. 20o Integram a categoria de Orientadores Colaboradores os demais
+
+membros do corpo docente do programa que não atendam a todos os requi-
+sitos para serem enquadrados como Permanentes ou Visitantes, mas que par-
+6
+
+7
+ticipem de forma sistemática do desenvolvimento de projetos de pesquisa,
+
+das atividades de ensino ou extensão, e da orientação de estudantes, inde-
+pendentemente do fato de possuírem ou não vínculo com a UNIFESP.
+
+Art. 21o O credenciamento de docentes no PPG-CC é atribuição do CPGPq,
+por solicitação da CEPG-CC e aprovada pela CaPGPq.
+§ 1o O pedido do credenciamento do docente deve ser acompanhado de:
+1) currículo vitae atualizado. 2) descrição das atividades em disciplinas a
+
+serem ministradas; 3) descrição de um projeto de pesquisa que demons-
+tre aderência ao programa, com capacidade de captação de recursos.
+
+§ 2o O pedido de credenciamento do docente deverá ser aprovado pela
+CEPG-CC.
+Art. 22o Portador do título de doutor ou equivalente pode, por solicitação
+do orientador, ser reconhecido como co-orientador de uma dissertação ou
+tese.
+
+I — O reconhecimento será analisado pela CEPG-CC após o recebi-
+mento de uma carta formal de solicitação de credenciamento como
+
+co-orientador, com justificativas de sua participação na dissertação ou
+tese, encaminhada pelo orientador à CEPG-CC.
+II — O reconhecimento feito pela CEPG-CC como co-orientador de uma
+dissertação ou tese não implica em credenciamento como docente do
+programa.
+III — O co-orientador tem a mesma responsabilidade do orientador e só
+poderá participar da Comissão Julgadora de dissertação ou tese em caso
+de ausência do orientador, sem direito a voto.
+Art. 23o São atribuições dos orientadores do PPG-CC:
+I — ministrar aulas e seminários no Programa;
+II — desenvolver projetos de pesquisa que possibilitem a participação de
+alunos dos cursos;
+III — orientar discentes dos cursos;
+IV — integrar comissões julgadoras de qualificação, dissertações e teses
+do Programa;
+
+V — elaborar, de comum acordo com seu orientando, o plano de ativida-
+des deste e manifestar-se sobre alterações supervenientes;
+
+VI — acompanhar e manifestar-se perante à CEPG-CC sobre o desempe-
+nho do discente;
+
+VII — solicitar à CEPG-CC, de acordo com o regimento do programa, as
+providências para realização de Exame de Qualificação e para a defesa
+da dissertação ou tese do discente;
+
+VIII — sugerir à CEPG-CC os nomes para composição das Comissões Jul-
+gadoras da dissertação ou tese do discente;
+
+IX — solicitar, mediante justificativa, o desligamento do orientando por
+insuficiência de desempenho ou por questões éticas; e
+
+X — desempenhar todas as demais atividades acadêmicas e administra-
+tivas pertinentes ao Programa.
+
+Art. 24o É vedada a orientação de cônjuge, companheiro ou companheira e
+de parentes, em linha reta ou colateral até o terceiro grau.
+
+CAPÍTULO V
+
+DA INSCRIÇÃO E SELEÇÃO DISCENTE
+
+Art. 25o O PPG-CC destina-se aos portadores de diplomas de graduação
+outorgados por Instituição oficial de Ensino Superior ou por ela reconhecida.
+§ 1o No caso da Instituição de Ensino Superior (IES) não ter expedido o
+diploma de graduação a que faz jus o candidato, por ocasião da matrícula
+inicial aceitar-se-á a declaração da IES indicando a data da conclusão do
+curso e da colação de grau já realizada pelo candidato.
+§ 2o Para a outorga e homologação dos títulos de Mestre ou de Doutor, é
+necessária a apresentação do diploma de graduação à CaPGPq.
+
+§ 3o A Unifesp aceitará discentes em cotutela de acordo com a regula-
+mentação específica.
+
+Art. 26o São alunos regulares aqueles que, preenchendo os requisitos es-
+tabelecidos neste regimento, busquem explicitamente a titulação formal de
+
+Mestre ou Doutor.
+Art. 27o São considerados alunos especiais os alunos sem vínculo formal
+com o PPG-CC, porém matriculados em disciplinas do programa.
+Parágrafo único. Mediante disponibilidade de vagas e com a anuência
+do docente responsável pela disciplina, o aceite de alunos especiais será
+realizado por meio de análise curricular e seguindo calendário específico
+previamente divulgado.
+Art. 28o O processo de seleção dos alunos regulares será conduzido por uma
+Comissão Especial de Seleção (CES), indicada pela CEPG-CC.
+Art. 29o A documentação necessária para inscrições e os critérios de seleção
+serão divulgados em edital específico de seleção.
+
+DO REGIME ACADÊMICO
+
+CAPÍTULO VI
+
+DA ESTRUTURA E DURAÇÃO DO CURSO
+
+Art. 30o O período de integralização do curso terá a duração mínima de 12
+
+(doze) meses para o Mestrado e de 24 (vinte e quatro) meses para o Douto-
+rado, e máxima de 36 (trinta e seis) meses para o Mestrado e 60 (sessenta)
+
+meses para o Doutorado.
+§ 1o A integralização do período mencionado será computada a partir da
+data de ingresso como aluno regular no curso até a data de defesa da
+Dissertação ou Tese.
+§ 2o Em casos excepcionais, devidamente justificados e documentados,
+aluno e orientador poderão solicitar prorrogação do curso à CEPG-CC.
+Cada solicitação de prorrogação deve ser de, no máximo 6 (seis) meses.
+
+8
+
+9
+
+CAPÍTULO VII
+DO REGIME DE CRÉDITOS
+
+Art. 31o A unidade básica para a avaliação do trabalho acadêmico será o
+crédito, em conformidade com as normas em vigor na UNIFESP. Cada unidade
+de crédito corresponde a 15 (quinze) horas de atividades planejadas.
+Art. 32o Para integralização do curso de Mestrado, o aluno deverá completar
+52 (cinquenta e dois) créditos, dos quais:
+I — 26 (vinte e seis) são referentes a disciplinas;
+II — 26 (vinte e seis) são referentes à homologação da dissertação.
+Art. 33o Os créditos obtidos nas disciplinas do Mestrado devem ser obtidos
+da seguinte forma:
+I — 6 (seis) créditos na disciplina obrigatória de Análise de Algoritmos e
+Estruturas de Dados;
+II — 6 (seis) créditos correspondentes às disciplinas de Estudos Dirigidos
+I e Estudos Dirigidos II, cada uma com 3 (três) créditos;
+III — 2 (dois) créditos referentes à disciplina de Seminários;
+IV — 12 (doze) créditos em disciplinas eletivas, as quais serão escolhidas
+em comum acordo entre aluno e orientador.
+Art. 34o A integralização dos créditos em disciplinas do Curso de Mestrado
+far-se-á no prazo máximo de 18 meses.
+Art. 35o Para integralização do curso de Doutorado, o aluno deverá completar
+80 (oitenta) créditos, dos quais:
+I — 40 (quarenta) são referentes a disciplinas;
+II — 40 (quarenta) são referentes à homologação da tese.
+Art. 36o Os créditos obtidos nas disciplinas do Doutorado devem ser obtidos
+da seguinte forma:
+
+I — 12 (doze) créditos nas disciplinas obrigatórias de “Análise de Algorit-
+mos e Estruturas de Dados” e “Teoria da Computação”;
+
+II — 6 (seis) créditos correspondentes às disciplinas de Estudos Dirigidos
+I e Estudos Dirigidos II, cada uma com 3 (três) créditos;
+
+III — 6 (seis) créditos correspondentes às disciplinas de Seminários I, Se-
+minários II e Seminários III, cada uma com 2 (dois) créditos;
+
+IV — 16 (dezesseis) créditos para disciplinas eletivas, as quais serão es-
+colhidas em comum acordo entre aluno e orientador.
+
+Art. 37o A integralização dos créditos em disciplinas do curso de Doutorado
+far-se-á no prazo máximo de 24 (vinte e quatro) meses.
+Art. 38o Os alunos regulares do PPG-CC que tenham cursado disciplinas
+
+em nível de pós-graduação em outras instituições ou na própria UNIFESP po-
+derão solicitar o aproveitamento dos créditos correspondentes para fins de
+
+cumprimento dos créditos em disciplinas exigidos pelo programa, solicitação
+esta que será analisada pela CEPG-CC.
+
+10 Capítulo IX. DA VERIFICAÇÃO E AVALIAÇÃO DO RENDIMENTO ACADÊMICO
+
+CAPÍTULO VIII
+
+DA MATRÍCULA E DA INSCRIÇÃO EM DISCIPLINAS
+
+Art. 39o Os candidatos selecionados serão convocados à matrícula pela Se-
+cretaria de Pós-Graduação, que determinará o prazo para sua realização e os
+
+documentos necessários para sua efetivação.
+§ 1o Os candidatos que não efetivarem sua matrícula no prazo perderão
+o direito à vaga.
+§ 2o É de responsabilidade do aluno a obtenção do aceite formal de um
+orientador do PPG-CC.
+Art. 40o O discente deverá efetuar rematrículas semestrais, com a anuência
+
+do orientador, até a obtenção do título, de acordo com o calendário estabe-
+lecido pela Secretaria de Pós-Graduação.
+
+§ 1o No caso do discente não efetuar sua rematrícula na época determi-
+nada, terá 2 (dois) meses de prazo para efetuar o trancamento da matrí-
+cula, caso contrário será automaticamente desligado.
+
+§ 2o O aluno poderá solicitar cancelamento de inscrição em determinada
+
+disciplina, obrigatória ou eletiva, desde que ainda não tenha sido minis-
+trada mais de 20% da respectiva carga horária.
+
+Art. 41o O aluno poderá solicitar à CEPG-CC, por meio de processo devida-
+mente justificado, o trancamento de sua matrícula por um período máximo
+
+de 12 (doze) meses, intercalados ou não.
+§ 1o Não será permitido o trancamento de matrícula no primeiro semestre
+letivo subsequente à seleção.
+
+§ 2o Exceto em casos previstos por lei, o trancamento de matrícula im-
+plicará no imediato corte da bolsa institucional que o aluno porventura
+
+detenha, sem garantia de seu restabelecimento quando de seu retorno
+ao curso.
+§ 3o O período de trancamento não será computado para a integralização
+do curso.
+
+§ 4o Serão respeitados os afastamentos decorrentes de licença materni-
+dade ou paternidade, de acordo com a legislação vigente.
+
+Art. 42o Nenhum projeto de pesquisa poderá ser iniciado sem aprovação
+de seu respectivo comitê de ética ou de liberação para realização, de acordo
+com a normativa vigente.
+
+CAPÍTULO IX
+
+DA VERIFICAÇÃO E AVALIAÇÃO DO RENDIMENTO
+
+ACADÊMICO
+
+Art. 43o A avaliação do rendimento acadêmico será individual, sendo reali-
+zada em cada disciplina, pelo professor responsável.
+
+§ 1o O rendimento acadêmico nas disciplinas será expresso por conceitos
+A, B, C ou D.
+§ 2o Fará jus aos créditos o aluno que obtiver, em cada disciplina, os con-
+
+11
+ceitos A, B ou C e frequência mínima de 75% (setenta e cinco por cento)
+da carga horária.
+§ 3o O aluno poderá solicitar revisão de conceito à CEPG-CC.
+Art. 44o Para cada aluno do PPG-CC, será estabelecido um Coeficiente de
+
+Rendimento (CR), determinado pela média dos conceitos obtidos nas disci-
+plinas do curso, ponderados por suas respectivas unidades de crédito. Para
+
+o efeito cálculo do CR, os conceitos são convertidos em números da seguinte
+forma: A = 3, B = 2, C = 1, e D = 0.
+Parágrafo único. O CR do aluno será calculado ao final de cada semestre
+e levará em consideração o período completo de curso desde a matrícula
+do aluno.
+
+Art. 45o O aluno poderá ser desligado do PPG de Pós-graduação nas seguin-
+tes situações:
+
+I — a pedido do interessado;
+II — se não efetivar a matrícula inicial;
+III — se não efetuar as rematrículas semestrais, conforme Art. 40;
+IV — se reprovado duas vezes na mesma disciplina ou reprovado em três
+disciplinas distintas;
+V — O aluno que obtiver um CR < 1.4 considerando todas as disciplinas
+por ele cursadas;
+
+VI — se reprovado pela segunda vez no exame de qualificação de Mes-
+trado ou de Doutorado;
+
+VII — se reprovado pela segunda vez na defesa de dissertação de Mes-
+trado ou de tese de Doutorado;
+
+VIII — O aluno regular que permanecer mais de 6 (seis) meses sem o
+aceite formal de um orientador do PPG-CC;
+IX — se não cumprir os prazos máximos para a finalização da dissertação
+ou tese, ou ultrapassando os limites fixados pelo Art. 30;
+X — O aluno que tiver seu registro acadêmico trancado por um período
+superior ao previsto no Artigo 41;
+XI — por solicitação do orientador ou coordenador do PPG-CC, devido
+
+a desempenho acadêmico insatisfatório fundamentado em relatório cir-
+cunstanciado, após aprovação pela CaPGPq e homologação pelo CPGPq;
+
+XII — por motivos disciplinares ou éticos, incluindo-se plágio, falsificação
+de resultados ou fabricação de dados falsos, a pedido da CEPG-CC ou de
+outra instância superior da Universidade, após aprovação da CaPGPq e
+homologação do CPGPq.
+
+CAPÍTULO X
+
+DA DISSERTAÇÃO E DA TESE
+
+Art. 46o Poderá defender a Dissertação de Mestrado o aluno que tiver pre-
+enchido os seguintes requisitos:
+
+I — estar regularmente matriculado no curso;
+
+12 Capítulo X. DA DISSERTAÇÃO E DA TESE
+II — ter aprovação do projeto de pesquisa no comitê de ética;
+III — ter acumulado um total de, pelo menos, 26 (vinte e seis) créditos em
+disciplinas;
+IV — ser aprovado no exame de proficiência em língua inglesa;
+V — ser aprovado no exame de qualificação;
+VI — comprovar a submissão de pelo menos um artigo científico a uma
+conferência ou periódico classificados no Qualis da CAPES no comitê da
+Ciência da Computação, salvo em casos, devidamente justificados pelo
+orientador, de trabalhos que envolvam sigilo industrial ou depósito de
+patente.
+Art. 47o Poderá defender a Tese de Doutorado o aluno que tiver preenchido
+os seguintes requisitos:
+I — estar regularmente matriculado no curso;
+II — ter aprovação do projeto de pesquisa no comitê de ética;
+III — ter acumulado um total de, pelo menos, 40 (quarenta) créditos em
+disciplinas;
+IV — ser aprovado no exame de proficiência em língua inglesa;
+V — ser aprovado no exame de qualificação;
+VI — comprovar o aceite de publicação de pelo menos um artigo científico
+
+em uma conferência ou periódico classificados como Qualis A pela CA-
+PES no comitê da Ciência da Computação, salvo em casos, devidamente
+
+justificados pelo orientador, de trabalhos que envolvam sigilo industrial
+ou depósito de patente.
+
+Art. 48o A proficiência em língua inglesa poderá ser obtida por exame apli-
+cado pela Unifesp ou por equivalência de outros exames apresentados pelo
+
+aluno, a ser avaliada pela CEPG-CC.
+Art. 49o O aluno regular que completar um mínimo de 75% (setenta e cinco
+por cento) dos créditos exigidos poderá solicitar agendamento do Exame de
+Qualificação, que deverá ser realizado no prazo máximo de 18 (dezoito) meses
+para o Mestrado e 24 (vinte e quatro) meses para o Doutorado, contados a
+partir da data de ingresso.
+§ 1o O Exame de Qualificação consiste na defesa oral pelo aluno de uma
+
+monografia ou coletânea de artigos sobre o tema de seu projeto de pes-
+quisa a uma banca examinadora.
+
+§ 2o Caso o aluno seja reprovado neste exame, deverá realizar um novo
+
+exame em um prazo máximo de 60 (sessenta) dias. Caso seja nova-
+mente reprovado, o aluno será desligado do PPG-CC, conforme disposto
+
+no Art. 45.
+§ 3o O pedido de Exame de Qualificação só poderá ser encaminhado para
+
+apreciação da CEPG-CC com a anuência formal do orientador, em formu-
+lário disponível para este fim pela Secretaria de Pós-Graduação.
+
+Art. 50o O orientador deverá sugerir à CEPG-CC a data para o Exame de Qua-
+lificação e uma lista de sugestões para a composição da Banca Examinadora
+
+com pelo menos 45 (quarenta e cinco) dias de antecedência.
+Art. 51o A banca examinadora do exame de qualificação será composta
+pelo Orientador e por pelo menos outros 2 (dois) membros escolhidos pela
+CEPG-CC, que poderá ou não basear-se nas indicações feitas pelo Orientador,
+
+13
+
+sendo-lhes exigido o título de Doutor ou equivalente.
+Art. 52o O Orientador deverá sugerir à CEPG-CC a data para a defesa pública
+da Dissertação de Mestrado ou Tese de Doutorado na UNIFESP e uma lista
+de sugestões para a composição da Banca Examinadora com pelo menos 60
+(sessenta) dias de antecedência.
+
+Art. 53o A Banca Examinadora do Mestrado será constituída por 3 (três) mem-
+bros, escolhidos pela CEPG-CC, que poderá ou não basear-se nas indicações
+
+feitas pelo Orientador, sendo-lhes exigido o título de Doutor ou equivalente.
+O orientador presidirá os trabalhos, mas não emitirá parecer.
+Parágrafo único. Pelo menos 1 (um) dos integrantes titulares da Banca
+
+Examinadora deverá, obrigatoriamente, ser externo à UNIFESP e não cre-
+denciados no PPG-CC.
+
+Art. 54o A Banca Examinadora do Doutorado será constituída por 5 (cinco)
+membros, sendo um deles, salvo impedimento, o Orientador. Os membros
+são escolhidos pela CEPG-CC, que poderá ou não basear-se nas indicações
+feitas pelo Orientador, sendo-lhes exigido o título de Doutor ou equivalente.
+
+Parágrafo único. Além do Orientador, somente 1 (um) dos membros ti-
+tulares poderá pertencer ao PPG-CC e pelo menos 2 (dois) dos membros
+
+deverão ser externos à UNIFESP e não credenciados no PPG-CC.
+
+Art. 55o Para a composição das Bancas Examinadoras de Mestrado e Dou-
+torado, serão igualmente indicados 2 (dois) membros suplentes, sendo que 1
+
+(um) deles deverá ser externo à UNIFESP e não credenciado no PPG-CC.
+Parágrafo único. No impedimento simultâneo de mais de um membro de
+banca, o coordenador poderá indicar o substituto, no sentido de garantir
+a realização do exame na data agendada.
+Art. 56o A defesa da Dissertação ou Tese compreenderá as seguintes etapas:
+I — A presidência dos trabalhos da sessão de defesa caberá ao orientador
+da Dissertação ou Tese. Na falta ou impedimento do orientador à sessão,
+a CEPG-CC designará um substituto;
+II — Instalação da Banca Examinadora;
+III — Exposição, pelo candidato, dos principais resultados obtidos em sua
+Dissertação ou Tese, em prazo máximo de 50 (cinquenta) minutos;
+IV — Arguição do candidato pelos membros da Banca Examinadora;
+V — Julgamento final da Banca Examinadora em sessão secreta, cuja ata
+incluirá o resultado final a ser anunciado publicamente;
+VI — A Dissertação ou Tese será considerada Aprovada ou Reprovada pela
+maioria simples dos votos da Banca Examinadora;
+VII — Em situações excepcionais, por solicitação do orientador e após
+homologação da CEPG-CC, a exposição do trabalho pelo candidato e a
+fase de arguição poderão ser realizadas em sessão fechada.
+Art. 57o Após a defesa o candidato deverá realizar modificações em sua
+
+Dissertação ou Tese, quando for o caso, com as correções e sugestões pro-
+postas pela Banca Examinadora, tendo o prazo máximo de 60 (sessenta) dias
+
+para entregar a versão definitiva, com visto do orientador, à Secretaria de
+Pós-Graduação.
+Parágrafo único. O Orientador será responsável pelo fiel cumprimento
+
+14 Capítulo XII. DISPOSIÇÃO FINAL
+das exigências da Banca Examinadora, observado o prazo estipulado no
+parágrafo anterior.
+
+CAPÍTULO XI
+
+DO GRAU ACADÊMICO DE MESTRE E DE DOUTOR
+Art. 58o O aluno aprovado na apresentação e defesa de sua Dissertação,
+de acordo com os critérios estabelecidos neste Regulamento e no Regimento
+Geral da Pós-graduação da UNIFESP, receberá o Grau de Mestre em Ciências.
+Art. 59o O aluno aprovado na apresentação e defesa de sua Tese, de acordo
+com os critérios estabelecidos neste Regulamento e no Regimento Geral da
+Pós-graduação da UNIFESP, receberá o Grau de Doutor em Ciências.
+
+CAPÍTULO XII
+DISPOSIÇÃO FINAL
+
+Art. 60o Os casos omissos neste regimento serão deliberados pela CEPG-CC.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Regimento Interno da Câmara de Pós-graduação
+e Pesquisa do Instituto de Ciência e Tecnologia da
+
+Universidade Federal de São Paulo
+
+I. DISPOSIÇÕES INICIAIS
+Art. 1o - Este Regimento estabelece as normas reguladoras e disciplinadoras das atividades
+da Câmara de Pós-graduação e Pesquisa (CaPGPq) do Instituto de Ciência e Tecnologia da
+Universidade Federal de São Paulo (ICT-UNIFESP), em consonância com o Regimento
+Interno da Pós-Graduação e Pesquisa da UNIFESP e demais dispositivos legais.
+Art. 2o - A Câmara de Pós-Graduação e Pesquisa do ICT-UNIFESP é um colegiado
+deliberativo, coordenador, regulamentador e avaliador das atividades de pós-graduação e
+pesquisa no âmbito do ICT-UNIFESP, respeitados os preceitos estabelecidos no Estatuto e
+Regimento Geral da Unifesp e no Regimento Interno da Pós-Graduação e Pesquisa da
+UNIFESP.
+
+II. DA COMPOSIÇÃO DA CÂMARA DE PÓS-GRADUAÇÃO E PESQUISA
+Art. 3o - A Câmara de Pós-Graduação e Pesquisa do ICT-UNIFESP será formada:
+I. por seu(ua) Coordenador(a), indicado(a) segundo o estabelecido no Art.4o deste
+Regimento.
+II. pelo(a) Vice-Coordenador(a), escolhido(a) pelo(a) Coordenador(a) da CaPGPq,
+segundo o estabelecido no Art.5o deste Regimento.
+III. pelos(as) coordenadores(as) dos Programas de Pós-Graduação (PPGs) vinculados
+ao ICT-UNIFESP, os(as) quais, em eventuais impedimentos, serão substituídos(as)
+pelos(as) respectivos(as) Vice-coordenadores(as).
+IV. por um(a) representante de pesquisadores do quadro de servidores permanentes do
+ICT-UNIFESP, com experiência em pesquisa e pós-graduação e eleito(a) entre seus
+pares.
+V. por um(a) agente local de apoio à pesquisa, inovação e internacionalização,
+indicado(a) pelo(a) Coordenador(a) da CaPGPq e homologado pela CaPGPq.
+VI. por um(a) representante discente regularmente matriculado(a) em um PPG do
+ICT-UNIFESP e eleito(a) entre seus pares.
+§ 1o - Os suplentes dos membros previstos nos incisos IV e VI deste artigo serão
+escolhidos da mesma forma que os respectivos titulares e os substituirão em caso
+de vacância, impedimentos ou afastamentos.
+Art. 4° - O(A) Coordenador(a) da Câmara de Pós-Graduação e Pesquisa do ICT-UNIFESP
+será eleito(a) de forma direta pelos membros da própria CaPGPq e homologado(a) pela
+Congregação do ICT-UNIFESP.
+
+§ 1° - O(A) candidato(a) a Coordenador deve ser docente do quadro de servidores
+permanentes do ICT-UNIFESP, com reconhecida experiência em pesquisa e
+pós-graduação.
+§ 2° - O(A) Coordenador(a) da CaPGPq publicará em edital específico, em um prazo
+mínimo de até 30 dias antes da eleição, a abertura para inscrição para o cargo de
+Coordenador.
+§ 3° - Poderão votar na eleição para a escolha do(a) Coordenador(a) da CaPGPq do
+ICT-UNIFESP apenas os membros da CaPGPq previstos nos itens III, IV e VI do
+artigo 3o.
+§ 4° - Caso o(a) Coordenador(a) e o (a) Vice-Coordenador(a) da CaPGPq sejam também
+membros da Câmara, estes(as) deverão acumular as duas funções.
+Art. 5° - O(A) Vice-Coordenador(a) da Câmara de Pós-Graduação e Pesquisa será
+indicado(a) pelo(a) Coordenador(a) da CaPGPq e homologado(a) pela CaPGPq, devendo
+este(a) ser docente do quadro de servidores permanentes do ICT-UNIFESP, com
+reconhecida experiência em pesquisa e pós-graduação.
+Art. 6o - Na eleição do(a) representante de pesquisadores, as inscrições serão feitas em
+chapas formadas por um membro titular e um suplente, sendo que os membros de uma
+chapa não poderão pertencer a um mesmo PPG.
+III. DOS MANDATOS
+Art. 7° - Os mandatos dos membros da CaPGPq obedecerão às seguintes regras:
+I. O(A) Coordenador(a) e Vice-Coordenador(a) da CaPGPq terão mandato de quatro
+anos, sendo permitida uma recondução sucessiva.
+II. Os mandatos do(a) representante de pesquisadores e de seu(ua) suplente serão de
+dois anos, permitindo-se uma recondução sucessiva.
+III. O(A) representante discente e seu(ua) suplente terão mandatos de um ano,
+permitida recondução enquanto perdurar o prazo regulamentar de matrícula. O
+mandato será suspenso e/ou extinto, devendo então assumir o(a) seu(ua)
+sucessor(a) nos casos:
+a) de solicitação pessoal;
+b) de trancamento da matrícula, abandono ou conclusão do curso;
+c) de aplicação de pena disciplinar.
+
+IV. DAS COMPETÊNCIAS DA CÂMARA DE PÓS-GRADUAÇÃO E PESQUISA
+Art. 8o - Conforme o Art. 38 do Regimento Interno da Pós-Graduação e Pesquisa da
+UNIFESP, cabe à Câmara de Pós-Graduação e Pesquisa no âmbito das atividades
+realizadas no ICT-UNIFESP:
+I. assessorar a Pró-reitoria de Pós-graduação e Pesquisa (ProPGPq) e o Conselho de
+Pós-graduação e Pesquisa (CPGPq) em suas atribuições e atividades;
+II. definir critérios adicionais para obtenção dos títulos de Mestre e Doutor nos PPGs do
+ICT-UNIFESP, respeitados os critérios mínimos estabelecidos pelo Regimento
+Interno da Pós-Graduação e Pesquisa da UNIFESP;
+
+III. analisar e homologar as indicações de nomes para comissões julgadoras de
+dissertação ou trabalho de conclusão de Mestrado e de tese de Doutorado,
+encaminhadas pelas respectivas Comissões de Ensino de Pós-graduação (CEPGs);
+IV. conferir e aprovar a documentação encaminhada pelos PPGs, por meio do sistema
+acadêmico, em meios físico ou eletrônicos oficiais, necessária à concessão de
+títulos de Mestre e Doutor;
+V. definir os critérios para credenciamento e recredenciamento de orientadores(as) dos
+PPGs do ICT-UNIFESP, em acordo com as respectivas CEPGs;
+VI. aprovar alterações nos Regimentos dos PPGs e encaminhá-los para aprovação no
+CPGPq;
+VII. encaminhar para o CPGPq, mensalmente, a lista de títulos para homologação;
+VIII. encaminhar para o CPGPq, mensalmente, a lista de credenciamentos e
+descredenciamentos de orientadores(as) para aprovação;
+IX. avaliar as propostas de criação de novos cursos de pós-graduação stricto sensu e
+encaminhar, juntamente com a aprovação da Congregação do ICT-UNIFESP, para
+análise pelo CPGPq;
+X. encaminhar as inscrições de candidatos(as) homologados(as) para concurso de
+livre-docência à Comissão de Livre-docência da ProPGPq, respeitadas as regras
+sugeridas por essa mesma comissão;
+XI. assessorar a ProPGPq no que diz respeito à criação e manutenção dos grupos de
+pesquisa no Diretório do CNPq, os quais tenham sede no ICT-UNIFESP;
+XII. promover e coordenar atividades para o desenvolvimento da pós-graduação e
+pesquisa no ICT-UNIFESP;
+XIII. definir prioridades do ICT-UNIFESP em projetos institucionais de pesquisa, com
+ciência do(a) diretor(a) do ICT-UNIFESP;
+XIV. gerenciar a distribuição e a aplicação de recursos institucionais destinados às
+atividades de pesquisa que sejam de sua responsabilidade;
+XV. acompanhar o desempenho dos PPGs do ICT-UNIFESP, definir metas para
+desenvolvimento dos PPGs, acompanhar os resultados e apresentá-los anualmente
+à Congregação do ICT-UNIFESP;
+XVI. decidir, em segunda instância, sobre os recursos interpostos por estudantes e/ou
+orientadores(as) dos PPGs e demais pesquisadores(as) do ICT-UNIFESP;
+XVII. homologar programas de aceleração de formação no âmbito da pós-graduação
+propostos pelos PPGs;
+XVIII. constituir comissões ad hoc para avaliar matérias de sua competência;
+XIX. indicar representantes da CaPGPq para atuar junto a comissões e grupos de
+trabalho demandados por outras instâncias da UNIFESP;
+XX. promover a cultura da Inovação e da pesquisa inter/multidiscipliar;
+XXI. propor ações direcionadas à internacionalização da pós-graduação e das atividades
+de pesquisa;
+XXII. fomentar a realização de seminários e workshops no contexto inter/multidisciplinar e
+acerca de tópicos de interesse geral dos PPGs;
+XXIII. atuar e influenciar estrategicamente no desenvolvimento de projetos científicos e
+acadêmicos em redes, internas ou externas, e no âmbito da internacionalização;
+XXIV. atuar, coordenar e fomentar a divulgação das atividades de pesquisa da instituição
+para a sociedade;
+XXV. fomentar e estimular iniciativas de pesquisa e inovação voltadas para o
+desenvolvimento econômico e social nos níveis local, regional e nacional;
+
+XXVI. praticar outros atos de sua competência, conforme definido no Regimento Interno do
+ICT-UNIFESP, ou por solicitação da Congregação ou do CPGPq.
+
+V. DO FUNCIONAMENTO DA CÂMARA DE PÓS-GRADUAÇÃO E PESQUISA
+Art. 9° - O(A) Coordenador(a) da CaPGPq presidirá as reuniões da CaPGPq.
+§ 1° - O(A) Coordenador(a) será substituído, em suas faltas e impedimentos, pelo(a)
+seu(ua) vice.
+§ 2° - No impedimento simultâneo do(a) Coordenador(a) e de seu(ua) vice, as reuniões da
+CaPGPq serão presididas pelo(a) Coordenador(a) de PPG há mais tempo no cargo
+de coordenação.
+Art. 10 - A CaPGPq reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente,
+quando convocada pelo(a) Coordenador(a) ou por maioria simples dos seus membros.
+§ 1° - As datas das sessões ordinárias serão divulgadas semestralmente por ofício circular.
+§ 2° - A convocação e a pauta das reuniões ordinárias serão distribuídas aos membros da
+CaPGPq com pelo menos cinco dias de antecedência da data da sessão.
+§ 3° - A convocação e a pauta das sessões extraordinárias serão distribuídas aos
+membros da CaPGPq com pelo menos vinte e quatro horas de antecedência.
+§ 4° - Em casos especiais, sem observância do prazo previsto, poderá ser incluída na
+ordem do dia matéria constante em outro item da pauta, sendo necessária para tal
+modificação a aprovação da maioria simples dos membros da Câmara, presentes na
+reunião.
+Art. 11 - As reuniões da CaPGPq serão iniciadas no horário estabelecido na convocação e
+com presença da maioria absoluta dos seus membros. Caso não estejam presentes a
+maioria absoluta dos membros, a reunião será iniciada após decorridos quinze minutos do
+horário estabelecido.
+§ 1° - Mudanças no Regimento Interno da CaPGPq somente poderão ocorrer em reunião
+com convocação específica para este fim.
+§ 2° - Por ocasião de pauta referente a mudanças no texto do Regimento Interno da
+CaPGPq, exigir-se-á a presença de no mínimo 2/3 dos membros da Câmara.
+Art. 12 - As reuniões da CaPGPq serão abertas, mas os presentes que não têm assento no
+Conselho não terão direito a voz, salvo se autorizados pelo Colegiado.
+§ 1° - Poderão ser convidados, a juízo do(a) Coordenador(a) da CaPGPq, assessores ad
+hoc para prestar assessoramento ou esclarecimentos sobre assuntos especiais, sem
+direito a voto;
+§ 2° - Em todas as votações, têm direito a voto apenas os membros da Câmara elencados
+nos itens III, IV e VI do artigo 3o deste regimento;
+§ 3° - O(A) Coordenador(a) da CaPGPq terá direito apenas ao voto de qualidade em caso
+de empate;
+§ 4o - O(A) Vice-coordenador(a) da CaPGPq não tem direito a voto, exceto quando estiver
+substituindo o(a) Coordenador(a) na hipótese do §3o deste artigo;
+§ 5° - Nas atas deverão constar os nomes dos membros presentes na reunião;
+§ 6° - As atas deverão ser aprovadas em reunião subsequente da CaPGPq.
+
+Art. 13 - A Secretaria de Pós-Graduação é órgão administrativo assessor da Câmara de
+Pós-Graduação e Pesquisa, vinculado hierárquica e administrativamente ao Coordenador
+da CaPGPq e responsável pela organização e gestão administrativa dos processos
+acadêmicos relativos aos programas de pós-graduação stricto-sensu, bem como pela
+gestão e tramitação de dados dos programas de pós-graduação.
+Art. 14 - Compete à Secretaria de Pós-graduação:
+I. inserir e atualizar todas as informações relativas aos(às) discentes e docentes dos
+PPGs nos bancos de dados institucionais;
+II. conferir o cumprimento de todos os procedimentos necessários para o
+encaminhamento de solicitação de bancas examinadoras para as defesas de
+dissertação ou tese;
+III. encaminhar documentações e memorandos para a CaPGPq assinadas(os) pelos
+coordenadores dos PPGs;
+IV. secretariar as reuniões da CaPGPq;
+V. assessorar as matrículas dos alunos selecionados nos processos seletivos dos
+PPGs;
+VI. gerir as atualizações dos sítios de internet da CaPGPq.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 1/21
+
+CONSELHO UNIVERSITÁRIO
+
+RUA SENA MADUREIRA, 1500 - BAIRRO VILA CLEMENTINO - SÃO PAULO - SP CEP 04021-001 - HTTP://WWW.UNIFESP.BR
+
+RESOLUÇÃO No 204/2021/CONSELHO UNIVERSITÁRIO
+
+Dispõe sobre o regimento interno da pós-graduação e
+pesquisa da Universidade Federal de São Paulo (Unifesp).
+O CONSELHO UNIVERSITÁRIO (CONSU) DA UNIVERSIDADE FEDERAL DE SÃO PAULO (UNIFESP), no uso das atribuições que lhe foram conferidas
+pelo art. 9o, inciso I do Estatuto da Unifesp,
+CONSIDERANDO o art. 99 do Regimento Geral da Unifesp;
+CONSIDERANDO a aprovação do Conselho de Pós-Graduação e Pesquisa (CPGPq) em 25 de março de 2021, e a homologação pelo Conselho
+Universitário (Consu) em 9 de junho de 2021, constantes do Processo SEI no
+
+23089.006117/2021-11,
+
+RESOLVE:
+
+TÍTULO I
+DISPOSIÇÕES GERAIS
+
+Art. 1o A pós-graduação stricto sensu tem por objetivo a formação qualificada para o exercício profissional, magistério superior e atividades de
+pesquisa, nas diversas áreas do conhecimento.
+Art. 2o A pós-graduação compreende um conjunto de atividades acadêmicas programadas, avançadas e individualizadas, acompanhadas por
+orientador(a), observadas as normas fixadas pelo Conselho de Pós-graduação e Pesquisa (CPGPq), em conformidade com o Regimento Interno
+de Pós-Graduação e Pesquisa da Unifesp.
+Art. 3o A pesquisa é uma atividade-fim da Unifesp e será realizada, no âmbito da universidade, pelos(as) membros(as) da comunidade
+universitária.
+Art. 4o Este Regimento estabelece as normas reguladoras e disciplinadoras das atividades de pós-graduação stricto sensu e de pesquisa da
+Unifesp em consonância com o Estatuto, o Regimento Geral e demais dispositivos legais da Unifesp.
+
+TÍTULO II
+
+ORGANIZAÇÃO, COMPOSIÇÃO E COMPETÊNCIA
+
+Art. 5o São órgãos administrativos e normativos do ensino da pós-graduação stricto sensu e das atividades de pesquisa da Unifesp:
+I - Conselho de Pós-graduação e Pesquisa (CPGPq);
+II - Pró-reitoria de Pós-graduação e Pesquisa (ProPGPq);
+III - Câmara de Pós-graduação e Pesquisa (CaPGPq), sendo uma para cada Unidade Universitária (UU);
+IV - Comissão de Ensino de Pós-graduação (CEPG), sendo uma para cada Programa de Pós-graduação stricto sensu (PPG).
+Boletim de Serviço Eletrônico em 30/06/2021
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 2/21
+
+CAPÍTULO I
+
+DO CONSELHO DE PÓS-GRADUAÇÃO E PESQUISA
+
+Art. 6o O CPGPq é o colegiado responsável por coordenar as atividades de pós-graduação e pesquisa e zelar por meio de avaliações
+permanentes, pela qualidade da pós-graduação stricto sensu e das atividades de pesquisa na Unifesp.
+DA COMPOSIÇÃO DO CONSELHO DE PÓS-GRADUAÇÃO E PESQUISA
+
+Art. 7o O CPGPq é composto:
+I - pelo(a) pró-reitor(a) de pós-graduação e pesquisa;
+II - pelo(a) pró-reitor(a) adjunto(a) de pós-graduação e pesquisa;
+III - pelos(as) coordenadores(as) das CaPGPqs;
+IV - pelos(as) coordenadores(as) dos PPGs;
+V - pelo(a) diretor(a) acadêmico(a) de cada UU ou seu(sua) representante;
+VI - pelos(as) coordenadores(as) das Coordenadorias da ProPGPq, sem direito a voto;
+VII - por representantes da categoria docente, sendo dois de professores(as) titulares, dois de professores(as) associados(as) e dois de
+professores(as) adjuntos(as), todos(as) eleitos(as) pelos(as) seus(suas) pares, independente da classe e campus de origem;
+VIII - por representantes eleitos(as) da categoria discente, ficando garantida a representação de um(a) discente por UU e a distribuição das
+vagas remanescentes entre os(as) mais votados(as), por ordem de classificação;
+IX - por representantes eleitos(as) da categoria de servidores(as) técnico-administrativos(as)em educação (TAE).
+Parágrafo único. A representação que trata dos itens VIII e IX será composta por um terço de TAEs e dois terços de discentes, considerando que
+os assentos ocupados por docentes deverão somar pelo menos setenta por cento do total de assentos do Conselho.
+DAS COMPETÊNCIAS DO CONSELHO DE PÓS-GRADUAÇÃO E PESQUISA
+
+Art. 8o Compete ao CPGPq:
+I - aprovar os Regimentos dos PPGs, ouvidas as CaPGPqs das respectivas UUs;
+II - credenciar e descredenciar os(as) professores(as) orientadores(as) dos PPGs por solicitação das CaPGPqs de suas respectivas UUs;
+III - deliberar sobre propostas de criação de novos PPGs, encaminhadas pelas Congregações das UUs, por solicitação das CaPGPqs;
+IV - deliberar sobre o funcionamento e continuidade dos PPGs, ouvidas as CaPGPqs das UUs;
+V - homologar os títulos de Mestre e de Doutor encaminhados pelas CaPGPqs, após o cumprimento das exigências gerais deste Regimento e
+dos requisitos específicos do PPG;
+VI - julgar, em última instância, os recursos interpostos por discentes matriculados(as) nos PPGs;
+VII - definir as normas dos concursos de livre-docência, aprovar os programas dos concursos, aprovar as inscrições de candidatos(as)
+indicados(as) pelas CaPGPqs das UUs e homologar os resultados desses concursos;
+VIII - propor parcerias da Unifesp com outras instituições, no âmbito da ProPGPq, mediante acordos, ajustes, convênios ou instrumentos
+congêneres;
+IX - deliberar sobre a equivalência de títulos de pós-graduação e de livre- docência conferidos por outras instituições de ensino ou entidades
+congêneres, para efeito legal interno à Unifesp;
+X - deliberar sobre o reconhecimento dos títulos de Mestre ou de Doutor conferidos por instituições estrangeiras, após análise pelas CaPGPqs
+das UUs;
+XI - promover e coordenar atividades de planejamento para o desenvolvimento do sistema de pós-graduação e pesquisa;
+XII - promover e coordenar, com periodicidade regular, processos de avaliação do sistema de pós-graduação e pesquisa;
+XIII - promover e mediar a integração de pesquisadores por meio da organização de espaços e temáticas comuns de pesquisa e da resposta
+institucional a editais de pesquisa;
+XIV - coordenar a aplicação de recursos institucionais destinados ao aprimoramento do sistema de pós-graduação e pesquisa;
+XV - constituir comissões ad hoc para avaliar matérias de sua competência;
+XVI - homologar os nomes indicados para as coordenações das CaPGPqs das UUs.
+
+DO FUNCIONAMENTO DO CONSELHO DE PÓS-GRADUAÇÃO E PESQUISA
+
+Art. 9o O(A) pró-reitor(a) de pós-graduação e pesquisa presidirá as reuniões do CPGPq.
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 3/21
+
+§ 1o O(a) pró-reitor(a) de pós-graduação e pesquisa será substituído(a), em suas faltas e impedimentos, pelo(a) pró-reitor(a) adjunto(a) de pós-
+graduação e pesquisa.
+
+§ 2o No impedimento simultâneo do(a) pró-reitor(a) e pró-reitor(a) adjunto(a) de pós-graduação e pesquisa, as reuniões do CPGPq serão
+presididas por um(a) dos(as) coordenadores(as) da ProPGPq, a partir de comum acordo firmado no início dos trabalhos da respectiva sessão.
+
+Art. 10. O CPGPq reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, quando convocado pelo(a) pró-reitor(a) de pós-
+graduação e pesquisa ou por um terço dos seus membros.
+
+§ 1o A convocação para as sessões, ordinárias ou extraordinárias, será feita por ofício circular, expedido com antecedência mínima de cinco
+dias.
+§ 2o A pauta da reunião será distribuída aos membros do CPGPq juntamente com a convocação.
+§ 3o Em casos especiais, sem observância do prazo previsto, poderá ser incluída na ordem do dia, a critério do CPGPq, matéria distribuída em
+pauta complementar.
+Art. 11. As reuniões do CPGPq serão instaladas no horário definido, com a presença de mais da metade de seus membros com direito a voto.
+§ 1o Não havendo quorum suficiente à primeira chamada, a reunião será iniciada quinze minutos após o horário definido inicialmente, com o
+número de presentes à sessão e com poder deliberativo.
+§ 2o Por ocasião de pauta referente a mudanças no texto do Regimento Interno da Pós-graduação e Pesquisa da Unifesp, exigir-se-á a presença
+da maioria absoluta dos membros do CPGPq com direito a voto.
+Art. 12. Às reuniões do CPGPq serão convocados seus membros legalmente constituídos.
+Parágrafo único. Poderão ser convidados(as), a juízo do(a) presidente(a) do CPGPq, indivíduos ad hoc para prestar esclarecimentos sobre
+assuntos especiais, sem direito a voto.
+Art. 13. Em todas as votações, serão registrados os votos favoráveis, contrários e abstenções.
+Art. 14. Em todas as votações, a Presidência do CPGPq terá direito apenas ao voto de qualidade em caso de empate.
+Art. 15. Nas atas deverão constar os nomes dos(as) membros(as) presentes à reunião.
+Art. 16. As atas deverão ser apreciadas e submetidas para aprovação em reunião subsequente do CPGPq.
+DAS COMISSÕES ASSESSORAS DO CONSELHO DE PÓS-GRADUAÇÃO E PESQUISA
+
+Art. 17. São comissões permanentes assessoras do CPGPq:
+I - Comissão de Avaliação de Propostas de Cursos Novos;
+II - Comissão de Livre-docência;
+III - Comissão de Professor(a) Visitante.
+Art. 18. Compete à Comissão de Avaliação de Propostas de Cursos Novos avaliar as propostas de novos cursos de pós-graduação stricto sensu.
+Parágrafo único. A Comissão de Avaliação de Propostas de Cursos Novos poderá contar com pesquisadores(a) externos(as) nomeados(as) na
+forma ad hoc pela ProPGPq após homologação pelo CPGPq.
+Art. 19. Compete à Comissão de Livre-docência:
+I - propor ao CPGPq as regras de participação, inscrição e organização dos concursos de livre-docência na Unifesp, ouvidas as CaPGPqs das UUs;
+II - avaliar as propostas de livre-docência encaminhadas pelos(as) docentes, por meio dos seus respectivos departamentos ou UUs, para
+participação nos concursos de livre-docência.
+
+Parágrafo único. Caberá à Comissão de Livre-docência, em parceria com a ProPGPq, avaliar as áreas para abertura de concurso de livre-
+docência e encaminhar anualmente os editais com seus regramentos.
+
+Art. 20. Compete à Comissão de Professor(a) Visitante assessorar a ProPGPq no estabelecimento da política institucional de professor(a)
+visitante.
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 4/21
+
+DOS ÓRGÃOS COMPLEMENTARES E ASSESSORES DA REITORIA VINCULADOS À PROPGPQ
+
+Art. 21. À ProPGPq estão vinculados órgãos complementares e assessores da Unifesp que auxiliem no desenvolvimento de suas atividades fins,
+instituídos após sua criação pelo Consu e a aprovação de seus respectivos regimentos no CPGPq.
+Parágrafo único. Atualmente estão nesta classe de órgãos complementares a Cátedra Edward Said, o Instituto de Estudos Avançados e
+Convergentes (IEAC), o Biobanco, o NuBio e o Cochrane; e de órgãos assessores, a Agência de Inovação Tecnológica e Social (AGITS) e a
+Secretaria de Relações Internacionais (SRI). Outros podem ser criados à medida que se avalie sua necessidade.
+
+CAPÍTULO II
+
+DA PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA
+DA COMPOSIÇÃO DA PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA
+
+Art. 22. A Pró-reitoria de Pós-graduação e Pesquisa (ProPGPq) é composta por:
+I - Pró-reitor(a) de pós-graduação e pesquisa;
+II - Pró-reitor(a) adjunto(a) de pós-graduação e pesquisa;
+III - Coordenador(a) de pós-graduação;
+IV - Coordenador(a) de pesquisa;
+V - Coordenador(a) de cientometria e gestão da informação;
+VI - Coordenador(a) de internacionalização;
+VII - Coordenador(a) de integração.
+§ 1o O(A) pró-reitor(a) de pós-graduação e pesquisa é indicado pelo(a) reitor(a) e homologado(a) pelo Conselho Universitário (Consu).
+§ 2o O(A) pró-reitor(a) adjunto(a) de pós-graduação e pesquisa é indicado(a) pelo(a) pró-reitor(a) de pós-graduação e pesquisa e
+homologado(a) pelo CPGPq.
+§ 3o Os(As) coordenadores(as) da ProPGPq citados(as) nos incisos III a VII são indicados(as) pelo(a) pró-reitor(a) de pós-graduação e pesquisa e
+homologados(as) pelo CPGPq.
+
+DAS COMPETÊNCIAS DA PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA
+Art. 23. A ProPGPq é o órgão da reitoria da Unifesp responsável pela gestão da pós-graduação stricto sensu e da pesquisa.
+Art. 24. Compete à ProPGPq:
+
+I - desenvolver o planejamento institucional de pós-graduação stricto sensu, em consonância com as diretrizes do Plano Nacional de Pós-
+graduação (PNE), do Sistema Nacional de Pós-graduação (SNPG) e do Plano Nacional de Educação (PNE), dentro das normativas da Fundação
+
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes);
+II - desenvolver o planejamento institucional de pesquisa científica e inovação tecnológica e social, em consonância com a Agência de Inovação
+Tecnológica e Social (Agits);
+III - desenvolver o planejamento institucional de internacionalização, em consonância com a Secretaria de Relações Internacionais (SRI);
+IV - promover e apoiar atividades de pós-graduação stricto sensu, no que tange ao seu impacto social e tecnológico, sua interligação com a
+sociedade, sua integração com outros programas de pós-graduação e com outros níveis de ensino da educação básica e superior e suas
+atividades de internacionalização;
+V - promover e apoiar atividades de pesquisa, no que tange à estruturação de grupos de pesquisa e suas ações de integração com outros
+pesquisadores ou grupos de pesquisa internos ou externos à Unifesp;
+VI - estabelecer instrumentos e fluxos de gestão junto às CaPGPqs, para a implementação e acompanhamento da política de pós-graduação e
+pesquisa, inovação e internacionalização;
+VII - desenvolver e aplicar mecanismos institucionais de acompanhamento e avaliação de programas de pós-graduação stricto sensu, bem como
+de apresentação de novos cursos de pós-graduação stricto sensu;
+VIII - promover e apoiar as atividades de pós-graduação stricto sensu e conferir títulos e diplomas aos(às) aprovados(as) em seus cursos;
+IX - organizar o fluxo de projetos de pesquisa, de forma a institucionalizar as atividades de pesquisa de toda a Unifesp;
+X - organizar a distribuição de verba institucional de pesquisa, em conformidade com diretrizes de agências de fomento e apresentar proposta
+para apreciação do Conselho de Pós-graduação e Pesquisa (CPGPq);
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 5/21
+XI - zelar pelo cumprimento dos regramentos relativos às verbas de ensino em pós-graduação stricto sensu ou em pesquisa de agências de
+fomento e inovação;
+XII - representar a Unifesp em eventos de pós-graduação stricto sensu, de pesquisa, de inovação e de internacionalização, em âmbito nacional
+ou internacional;
+XIII - executar as deliberações do Conselho de Pós-graduação e Pesquisa (CPGPq);
+XIV - propor disciplinas, a seu critério;
+XV - realizar outras atribuições que possam vir a ser delegadas, por força de atos específicos da Reitoria ou do Consu.
+Art. 25. Cabe ao(à) pró-reitor(a) de pós-graduação e pesquisa:
+I - ser o(a) interlocutor(a) das questões da ProPGPq junto aos órgãos centrais da universidade;
+II - promover o funcionamento do CPGPq e seus órgãos assessores;
+III - gerir e encaminhar as questões técnicas e administrativas da ProPGPq.
+Parágrafo único. O(A) pró-Reitor(a) de pós-graduação e pesquisa é substituído(a), em suas faltas e impedimentos, pelo(a) pró-Reitor(a)
+adjunto(a) de pós-graduação e pesquisa, que também o(a) sucede em caso de vacância até novo provimento.
+Art. 26. Os(As) coordenadores(as) são assessores(as) do(a) pró-reitor(a) de pós-graduação e pesquisa no que concerne a temas estratégicos da
+pró-reitoria nos campos da pós-graduação, pesquisa, internacionalização, inovação tecnológica e gestão de dados e de sistemas institucionais.
+Art. 27. Compete ao(à) coordenador(a) de pós-graduação:
+I - coordenar as chamadas e os resultados dos editais de bolsas no país e no exterior, cuja gestão se dê no âmbito da ProPGPq;
+II - supervisionar a distribuição e a dinâmica das bolsas de Mestrado, Doutorado e Pós-doutorado, cuja gestão se dê no âmbito da ProPGPq e
+com eventual coparticipação da Coordenação de Pesquisa;
+III - acompanhar a implementação de novos cursos e programas de pós-graduação e os processos de avaliação dos PPGs no âmbito da ProPGPq;
+IV - acompanhar o desempenho dos PPGs e definir metas para desenvolvimento dos programas em acordo com as CaPGPqs;
+V - acompanhar os processos de certificação e diplomação relacionados à ProPGPq;
+VI - promover e coordenar atividades para o desenvolvimento da pós-graduação no âmbito da ProPGPq;
+VII - praticar os demais atos de sua competência conforme solicitação do(a) pró-reitor(a) de pós-graduação e pesquisa.
+Art. 28. Compete ao(à) coordenador(a) de pesquisa:
+I - promover a colaboração entre os pesquisadores nas diversas áreas do conhecimento, além da integração e facilitação de pesquisas em áreas
+estratégicas;
+II - promover atividades de divulgação científica;
+III - promover e coordenar projetos de pesquisa institucionais;
+IV - supervisionar as atividades dos Comitês Gestores de equipamentos multiusuários, centrais analíticas e centros de prestação de serviços;
+V - coordenar as atividades do Escritório Institucional de Apoio ao Pesquisador (EIAP);
+VI - propor estratégias para a otimização do uso da infraestrutura institucional de pesquisa;
+VII - estabelecer estudos prospectivos nas áreas de ciência, tecnologia e informação;
+VIII - praticar os demais atos de sua competência conforme solicitação do(a) pró-reitor(a) de pós-graduação e pesquisa.
+Art. 29. Compete ao(à) coordenador(a) de cientometria e gestão da informação:
+I - promover levantamentos das atividades e indicadores de qualidade da pós-graduação e pesquisa na instituição;
+II - propor o desenvolvimento de ferramentas para melhoria da gestão do sistema de pós-graduação e pesquisa no âmbito institucional;
+III - fornecer subsídios para as atividades de avaliação do sistema de pós-graduação e pesquisa;
+IV - fornecer subsídios para as atividades de fomento no âmbito do sistema de pós-graduação e pesquisa;
+V - praticar os demais atos de sua competência conforme solicitação do(a) pró- reitor(a) de pós-graduação e pesquisa.
+Art. 30. Compete ao(à) coordenador(a) de internacionalização:
+I - avaliar e promover a inserção internacional da comunidade científica da Unifesp, incentivando a colaboração com institutos de pesquisa e
+ensino no exterior;
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 6/21
+II - promover o contato de discentes ou pesquisadores(as) de instituições estrangeiras com pesquisadores(as) da Unifesp;
+III - realizar diagnósticos de áreas a serem fortalecidas por meio de ações promotoras de intercâmbio internacional;
+IV - ser interlocutor(a) da ProPGPq junto à Secretaria de Relações Internacionais da Unifesp para promover projetos de pesquisa e atividades de
+pós-graduação em colaboração com institutos de pesquisa e ensino no exterior;
+V - praticar os demais atos de sua competência conforme solicitação do(a) pró-reitor(a) de pós-graduação e pesquisa.
+Art. 31. Compete ao(à) coordenador(a) de integração:
+I - trabalhar em parceria com as outras coordenadorias para promover a integração e colaboração de pesquisa em áreas estratégicas e
+emergentes;
+II - realizar diagnósticos de áreas de pesquisa e de pós-graduação com possibilidades de interlocução e integração;
+III - perscrutar áreas de pesquisa isoladas e estabelecer diálogos de integração;
+IV - trabalhar em parceria com as Cátedras e Centros de pesquisa para o desenvolvimento da integração de projetos de pesquisa;
+V - apoiar as atividades do Escritório de Integridade Acadêmica (EIA);
+VI - praticar os demais atos de sua competência conforme solicitação do(a) pró-reitor(a) de pós-graduação e pesquisa.
+
+CAPÍTULO III
+
+DAS CÂMARAS DE PÓS-GRADUAÇÃO E PESQUISA DAS UNIDADES UNIVERSITÁRIAS
+
+Art. 32. As CaPGPqs são colegiados deliberativos, coordenadores, regulamentadores e avaliadores das atividades de pós-graduação e pesquisa
+no âmbito das UUs, respeitados os preceitos estabelecidos no Estatuto e Regimento Geral da Unifesp, e no presente Regimento Interno.
+Art. 33. A regulamentação do funcionamento das CaPGPqs deverá ser estabelecida no Regimento das UUs.
+Parágrafo único. As CaPGPqs deverão ter Regimento próprio, aprovado pela Congregação da respectiva UU e homologado pelo CPGPq, em
+consonância com este Regimento.
+
+DA COMPOSIÇÃO DA CÂMARA DE PÓS-GRADUAÇÃO E PESQUISA DAS UNIDADES UNIVERSITÁRIAS
+
+Art. 34. As CaPGPqs das UUs serão formadas:
+I - por seu(ua) coordenador(a) indicado(a) segundo o estabelecido no art. 35 deste Regimento;
+II - pelo(a) vice-coordenador(a), escolhido(a) pelo(a) coordenador(a) dentre o quadro de servidores(as) permanentes da Unifesp lotados(as) na
+UU;
+III - pelos(as) coordenadores(as) dos PPGs vinculados à UU;
+IV - no caso de programa interunidades terá assento na CaPGPq da UU um membro da CEPG deste PPG, desde que pertencente ao quadro de
+servidores(as) da Unifesp e que seja orientador(a) permanente deste PPG;
+V - por representantes de pesquisadores(as) do quadro funcional da UU, escolhidos(as) segundo critérios definidos pelo Regimento de cada
+CaPGPq;
+VI - um(a) representante discente e um(a) suplente dos PPG [mestrando(a) ou doutorando(a)], eleitos(as) entre seus pares, desde que esteja em
+período regulamentar de matrícula.
+Art. 35. O processo para indicação de coordenador(a) de CaPGPq de UU dar-se-á por eleição direta entre os membros da CaPGPq da UU,
+homologada pela Congregação.
+Parágrafo único. O(A) coordenador(a) de CaPGPq deve ser do quadro de servidores(as) permanentes da Unifesp na UU, com atividade docente
+e reconhecida experiência em pesquisa ou pós-graduação.
+Art. 36. O(A) vice-coordenador(a) da CaPGPq será indicado(a) pelo(a) coordenador(a) e homologado(a) pela câmara.
+Art. 37. O mandato do(a) coordenador(a) e vice-coordenador(a) da CaPGPq da UU será de até quatro anos, sendo facultada uma recondução
+sucessiva.
+
+DAS COMPETÊNCIAS DAS CÂMARAS DE PÓS-GRADUAÇÃO E PESQUISA DAS UNIDADES UNIVERSITÁRIAS
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 7/21
+Art. 38. Cabe às CaPGPqs no âmbito das atividades realizadas em suas respectivas UUs:
+I - assessorar a ProPGPq e o CPGPq em suas atribuições e atividades;
+II - definir critérios adicionais para obtenção dos títulos de Mestre e Doutor nos PPGs da respectiva UU, respeitados os critérios mínimos
+estabelecidos por este Regimento Interno ou pelo CPGPq;
+III - analisar e homologar as indicações de nomes para comissões julgadoras de dissertação ou trabalho de conclusão de Mestrado e de tese de
+Doutorado, encaminhadas pelas respectivas CEPGs;
+IV - conferir e aprovar a documentação encaminhada pelos PPGs, por meio do sistema acadêmico, em meios físico ou eletrônicos oficiais,
+necessária à concessão de títulos de Mestre e Doutor;
+V - definir os critérios para credenciamento e recredenciamento de orientadores(as) dos PPG da respectiva UU, em acordo com as CEPGs;
+VI - aprovar alterações nos Regimentos dos PPGs e encaminhá-los para aprovação no CPGPq;
+VII - encaminhar para o CPGPq, mensalmente, a lista de títulos para homologação;
+VIII - encaminhar para o CPGPq, mensalmente, a lista de credenciamentos e descredenciamentos de orientadores(as) para aprovação;
+IX - avaliar as propostas de criação de novos cursos de pós-graduação stricto sensu e encaminhar, juntamente com a aprovação da Congregação
+da respectiva UU, para análise pelo CPGPq;
+X - encaminhar as inscrições de candidatos(as) homologados(as) para concurso de livre-docência à Comissão de Livre-docência da ProPGPq,
+respeitadas as regras sugeridas por essa mesma comissão;
+XI - assessorar a ProPGPq no que diz respeito à criação e manutenção dos grupos de pesquisa no Diretório do CNPq, os quais tenham sede na
+respectiva UU;
+XII - promover e coordenar atividades para o desenvolvimento da pós-graduação e pesquisa no âmbito da UU;
+XIII - definir prioridades da UU em projetos institucionais de pesquisa, com ciência do(a) diretor(a) da UU;
+XIV - gerenciar a distribuição e a aplicação de recursos institucionais destinados às atividades de pesquisa que sejam de sua responsabilidade;
+XV - acompanhar o desempenho dos PPGs da UU, definir metas para desenvolvimento dos PPGs, acompanhar os resultados e apresentá-los
+anualmente à Congregação;
+XVI - decidir, em segunda instância, sobre os recursos interpostos por estudantes e/ou orientadores(as) dos PPGs e demais pesquisadores(as) da
+UU;
+XVII - praticar outros atos de sua competência, conforme definido no Regimento Interno das UU, ou por solicitação da Congregação ou do
+CPGPq.
+
+CAPÍTULO IV
+
+DAS COMISSÕES DE ENSINO DE PÓS-GRADUAÇÃO
+DA COMPOSIÇÃO DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO
+
+Art. 39. A CEPG é o colegiado coordenador do ensino em cada PPG da Unifesp.
+Art. 40. A CEPG é constituída por:
+I - membros do corpo permanente de orientadores(as) credenciados(as) no PPG que tenham vínculo estatutário com a Unifesp, eleitos(as) por
+seus pares, em número definido pelo regulamento de cada PPG, sendo no mínimo quatro e assegurada, quando houver, a representação das
+distintas áreas de concentração do PPG;
+II - no mínimo um(a) representante do corpo discente e seu(sua) respectivo(a) suplente, eleitos(as) por seus pares entre os(as) alunos(as)
+regularmente matriculados(as) no PPG;
+§ 1o O mandato dos membros docentes da CEPG será de até quatro anos, sendo admitidas reconduções.
+§ 2o O mandato do(a) representante discente da CEPG será de um ano, permitida recondução enquanto perdurar o prazo regulamentar de
+matrícula.
+§ 3o No caso de PPGs Interunidades é obrigatória a representação dos(as) orientadores(as) permanentes lotados(as) nas diferentes UUs.
+§ 4o Para programas em rede, a composição da CEPG poderá abranger a participação de membros docentes e discentes externos à Unifesp, de
+acordo com regulamentação própria.
+Art. 41. Cada CEPG terá um(a) coordenador(a) e um(a) vice-coordenador(a) eleitos(as) entre os membros do corpo de orientadores(as)
+permanentes.
+§ 1o A eleição do(a) coordenador(a) seguirá os Regimentos Internos de cada PPG.
+§ 2o O mandato do(a) coordenador(a) será de até quatro anos, admitida uma recondução sucessiva.
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 8/21
+§ 3o A CEPG definirá a forma de indicação do seu(sua) vice-coordenador(a), a qual poderá ser por meio da eleição em chapa única ou mediante
+escolha do(a) coordenador(a), quem poderá receber a atribuição de escolher o seu(ua) vice.
+§ 4o Em caso de vacância simultânea das funções de coordenador(a) e vice-coordenador(a), assumirá a coordenação da CEPG
+o seu membro mais antigo, a quem caberá iniciar novo processo eleitoral em até sessenta dias.
+§ 5o Se houver mais de um membro com a mesma antiguidade, será escolhido(a) aquele(a) que contar com maior tempo no respectivo PPG.
+Persistindo o empate, proceder-se-á ao sorteio.
+
+DAS COMPETÊNCIAS DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO
+
+Art. 42. Compete à CEPG:
+I - elaborar o planejamento global do PPG, bem como aprovar os planos das atividades e disciplinas;
+II - determinar os prazos máximos para a obtenção dos títulos de Mestre e de Doutor, respeitadas as diretrizes gerais estabelecidas neste
+Regimento e pelo CPGPq;
+III - coordenar e avaliar a execução das atividades programáticas e disciplinas;
+IV - analisar e credenciar novas disciplinas observando seu mérito e importância junto à área de concentração, bem como a competência
+específica do corpo docente responsável;
+V - coordenar e avaliar permanentemente a composição do corpo de orientadores(as) do PPG, de modo a assegurar elevado padrão acadêmico;
+VI - elaborar os editais dos processos seletivos, nos quais devem constar o número de vagas disponíveis, os critérios de avaliação e as
+referências bibliográficas a serem consultadas, assim como deve ser assegurada a transparência do processo, com ampla divulgação dos
+resultados e a previsão da possibilidade de recursos, além de constar os critérios e número de vagas destinadas a ações afirmativas visando
+inclusão de negros(as), indígenas, pessoas com deficiência, de baixa renda ou provenientes de ensino público, ou ainda grupos de alta
+vulnerabilidade social;
+VII - designar a Comissão de Seleção de candidatos(as) discentes ao ingresso no programa e acompanhar as diferentes etapas da seleção;
+VIII - determinar os critérios para distribuição de bolsas do PPG;
+IX - decidir sobre pedidos de trancamento de matrícula, isenção ou adiamento no cumprimento de disciplinas ou atividades obrigatórias,
+observando-se o disposto no presente Regimento;
+X - aprovar os nomes dos(as) componentes das comissões julgadoras dos exames de qualificação;
+XI - aprovar os nomes dos membros das comissões julgadoras das dissertações ou outros trabalhos de conclusão e teses e respectivos(as)
+suplentes e encaminhar para homologação pela CaPGPq da UU;
+XII - encaminhar os resultados das defesas de dissertações e teses para homologação pela CaPGPq;
+XIII - selecionar e/ou indicar discentes para participação em editais de premiações ou representações do PPG em eventos acadêmicos;
+XIV - acompanhar a gestão dos recursos financeiros alocados para a manutenção do PPG, respeitadas as regulamentações legais e
+administrativas sobre a matéria;
+XV - zelar pelo fiel cumprimento dos critérios estabelecidos pela legislação vigente no que tange à pós-graduação stricto sensu;
+XVI - submeter, para aprovação da CaPGPq da respectiva UU, alterações no Regimento do PPG, incluindo-se alterações no nome do PPG;
+XVII - convocar, por decisão da maioria dos seus membros, reuniões extraordinárias do colegiado;
+XVIII - supervisionar a secretaria de PPG, que será responsável por: inserção e atualização de todas as informações relativas aos(às) discentes e
+docentes do PPG nos bancos de dados institucionais; conferência do cumprimento de todos os procedimentos necessários para o
+encaminhamento de solicitação de bancas examinadoras para as defesas de dissertação ou tese; encaminhamento de documentações e
+memorandos para a CaPGPq da UU assinadas(os) pelo coordenador do PPG;
+
+XIX - estabelecer os prazos para exames de proficiência e qualificação, assim como de entrega de relatórios dos(as) estudantes de pós-
+graduação;
+
+XX - manter atualizadas as informações do PPG, em meios eletrônicos;
+XXI - emitir parecer circunstanciado sobre a equivalência de títulos de Mestre e Doutor, em sua área de atuação, obtidos no exterior, por
+solicitação das instâncias superiores;
+XXII - elaborar as regras internas de funcionamento do pós-doutorado, em acordo com as regras deste Regimento;
+XXIII - decidir, em primeira instância, sobre quaisquer questões omissas relativas ao PPG;
+XXIV - decidir, em primeira instância, sobre os recursos interpostos por estudantes, orientadores(as) ou pesquisadores(as) dos seus respectivos
+PPGs;
+XXV - praticar os demais atos de sua competência delegados pelo CPGPq.
+
+DO FUNCIONAMENTO DA COMISSÃO DE ENSINO DE PÓS- GRADUAÇÃO
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=1... 9/21
+Art. 43. A CEPG reunir-se-á mensalmente, podendo ser formada pelo pleno dos(as) seus(uas) orientadores(as) credenciados(as) ou por um
+conselho eleito conforme decisão do PPG, devidamente regimentada.
+§ 1o As decisões da CEPG serão expressas por maioria simples de votos, devendo ser registradas as decisões em ata na qual constem o nome
+dos(as) presentes, devendo ser apreciada e submetida a aprovação em reunião subsequente.
+§ 2o Poderão ser convidados(as) para as reuniões da CEPG, com direito a voz e não a voto, orientadores(as) ou discentes, regularmente
+matriculados(as), para prestar esclarecimentos sobre assuntos especiais.
+§ 3o As decisões da CEPG poderão ser objeto de recurso submetido em segunda instância à CaPGPq da UU e, em última instância, ao CPGPq.
+§ 4o As atas das reuniões da CEPG serão publicadas pela Secretaria do PPG em prazo máximo de trinta dias após sua aprovação.
+DAS COMPETÊNCIAS DO(A) COORDENADOR(A) DA COMISSÃO DE ENSINO DE PÓS-GRADUAÇÃO
+
+Art. 44. Compete ao(à) coordenador(a) da CEPG:
+I - ser o(a) interlocutor(a) das questões da CEPG no seu relacionamento com a CaPGPq da UU e com o CPGPq;
+II - promover e harmonizar o funcionamento da CEPG e do respectivo PPG;
+III - gerir e encaminhar as questões técnicas e administrativas da CEPG;
+IV - gerir os recursos financeiros do PPG em consonância com o planejamento da CEPG e diretrizes da CPGPq da UU;
+V - representar o PPG nas instâncias em que se fizer necessário;
+VI - convocar, por decisão da maioria dos membros de sua CEPG, reuniões extraordinárias do colegiado.
+
+TÍTULO III PÓS-GRADUAÇÃO
+CAPÍTULO I
+DA CONCEITUAÇÃO E OBJETIVOS
+
+Art. 45. A pós-graduação stricto sensu tem por objetivos a formação de pessoal qualificado para o exercício de atividades de ensino e pesquisa,
+para o exercício profissional de elevada qualidade e a produção de conhecimento nas diferentes áreas do saber.
+Art. 46. Os títulos de Mestre e de Doutor são outorgados após o cumprimento das exigências definidas pelos PPGs e por este Regimento.
+Art. 47. O título de Mestre não é pré-requisito para a obtenção do título de Doutor, ficando a critério do PPG a sua exigência.
+Art. 48. O mestrado e o doutorado poderão ter caráter acadêmico ou profissional.
+§ 1o O mestrado e/ou doutorado acadêmico é definido como modalidade de formação pós-graduada stricto sensu que possibilita:
+I - a formação de docentes para atender a demanda de professorado competente, em todos os níveis de formação, garantindo a constante
+melhoria da qualidade de suas ações;
+II - a promoção do desenvolvimento da pesquisa científica por meio da formação qualificada de pesquisadores(as).
+§ 2o O mestrado e/ou doutorado profissional é definido como modalidade de formação pós-graduada stricto sensu que possibilita:
+I - a capacitação de pessoal para a prática profissional avançada e transformadora de procedimentos e processos aplicados por meio da
+incorporação do método científico, habilitando o(a) profissional para atuar em atividades técnico-científicas e de inovação;
+II - a formação de profissionais qualificados(as) pela apropriação e aplicação do conhecimento embasado no rigor metodológico e nos
+fundamentos científicos;
+III - a incorporação e atualização permanentes dos avanços da ciência e das tecnologias, bem como a capacitação para aplicá-los, tendo como
+foco a gestão, a produção técnico-científica na pesquisa aplicada e a proposição de inovações e aperfeiçoamentos tecnológicos para a solução
+de problemas específicos.
+Art. 49. A nomenclatura do título acadêmico de Mestre ou de Doutor ficará a critério do PPG, devendo ser especificada em seu Regimento,
+aprovada na sua respectiva CaPGPq e homologada no CPGPq.
+
+CAPÍTULO II
+
+DOS PROGRAMAS DE PÓS-GRADUAÇÃO – MESTRADO E DOUTORADO
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 10/21
+Art. 50. A pós-graduação está organizada em programas, que correspondem às áreas específicas do conhecimento, credenciados junto ao
+CPGPq.
+Art. 51. Cada um dos PPGs conta com uma Comissão de Ensino de Pós-graduação (CEPG).
+Art. 52. Cada programa de pós-graduação terá um(a) coordenador(a) eleito(a) e um(a) vice-coordenador(a) eleito(a) ou indicado(a), de acordo
+com seu regimento interno.
+§ 1o O(A) coordenador(a) e o(a) vice-coordenador(a) deverão ser orientadores(a) permanentes do PPG e servidores(a) do quadro permanente
+da Unifesp.
+§ 2o Em caso de programas em associação, o(a) coordenador(a) ou vice-coordenador(a) poderão ser de instituição associada.
+Art. 53. Para garantir a qualidade do PPG, cabe à CEPG estabelecer regimento e tomar decisões para o seu funcionamento, em consonância
+com o Projeto Pedagógico Institucional (PPI) e Plano de Desenvolvimento Institucional (PDI) da Unifesp, o Plano Nacional de Pós-graduação
+(PNPG) e a Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).
+Art. 54. O Regimento Interno de cada programa de pós-graduação será aprovado pelo CPGPq, ouvida a CaPGPq da UU à qual o programa se
+vincula.
+Art. 55. Os PPGs poderão ser vinculados a uma UU ou ser interunidades.
+CAPÍTULO III
+DOS(AS) ORIENTADORES(AS)
+DISPOSIÇÕES GERAIS
+
+Art. 56. As atividades de docência, pesquisa e orientação são exercidas pelo corpo de orientadores(as) do PPG.
+Parágrafo único. A definição dos(as) orientadores(as) estará de acordo com a normatização vigente, segundo os órgãos nacionais voltados à
+pós-graduação.
+Art. 57. São atribuições do(a) orientador(a):
+I - elaborar, de comum acordo com o(a) seu(sua) orientando(a), o plano de atividades deste(a) e manifestar-se sobre alterações supervenientes;
+II - acompanhar e manifestar-se perante a CEPG sobre o desempenho do(a) discente;
+III - solicitar à CEPG, de acordo com o regimento do programa, as providências para realização de exame de qualificação e para a defesa da
+dissertação, trabalho de conclusão equivalente, ou tese do(a) discente;
+IV - sugerir à CEPG os nomes para composição das Comissões Julgadoras da dissertação, trabalho de conclusão equivalente ou tese do(a)
+discente;
+V - solicitar, mediante justificativa, o desligamento do(a) orientando(a) por insuficiência de desempenho ou por questões éticas.
+Art. 58. É vedada a orientação de cônjuge, companheiro(a) e parentes, em linha reta ou colateral até o terceiro grau.
+DO CREDENCIAMENTO, RECREDENCIAMENTO E DESCREDENCIAMENTO DE ORIENTADORES(AS)
+
+Art. 59. Os(As) orientadores(as) dos PPGs deverão ser portadores(as) do título de Doutor.
+Parágrafo único. A produção científica, artística ou tecnológica do(a) orientador(a) é critério obrigatório na avaliação de seu credenciamento e
+recredenciamento.
+Art. 60. A aprovação do credenciamento e descredenciamento será feita pelo CPGPq, por solicitação da CEPG à CaPGPq da respectiva UU, que
+fará apreciação para seu encaminhamento.
+§ 1o A análise das solicitações de credenciamento e recredenciamento será realizada pelas CaPGPqs das UU.
+§ 2o O recredenciamento será realizado em fluxo contínuo, de acordo com as regras estabelecidas pelas CaPGPqs.
+§ 3o Na hipótese do(a) orientador(a) não ter seu recredenciamento aprovado, poderá, a critério da CEPG, concluir as orientações em
+andamento, mas não poderá aceitar novos(as) orientandos(as).
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 11/21
+Art. 61. Os critérios mínimos para credenciamento e recredenciamento de orientadores(as) serão definidos e reavaliados pelas CaPGPs,
+periodicamente, por solicitação das CEPGs.
+Art. 62. A CEPG possui a prerrogativa de, a qualquer tempo e em cumprimento do seu regimento, solicitar o descredenciamento de
+orientadores(as) junto às CaPGPqs das UUs.
+
+DO(A) COORIENTADOR(A)
+Art. 63. Será considerada a figura do(a) coorientador(a), obedecidos os seguintes critérios:
+I - o(a) coorientador será indicado(a) pelo(a) orientador(a), quem deverá justificar sua participação perante à CEPG;
+II - o(a) coorientador(a) deverá ser portador(a) do título de Doutor e, na falta deste, excepcionalmente, ter sua indicação aprovada pela CEPG;
+III - poderão ser indicados até dois(duas) coorientadores(as) por discente;
+IV - o(a) coorientador(a) poderá ou não ter vínculo formal com a Unifesp.
+CAPÍTULO IV
+DOS(DAS) PÓS-GRADUANDOS(AS)
+DISPOSIÇÕES GERAIS
+
+Art. 64. A pós-graduação stricto sensu destina-se aos(às) portadores(as) de diplomas de graduação outorgados por Instituição oficial de Ensino
+Superior ou por ela reconhecida.
+§ 1o No caso da Instituição de Ensino Superior (IES) não ter expedido o diploma de graduação a que faz jus o(a) candidato(a), por ocasião da
+matrícula inicial aceitar-se-á a declaração da IES indicando a data da conclusão do curso e da colação de grau já realizada pelo(a) candidato(a).
+§ 2o Para a outorga e homologação dos títulos de Mestre ou de Doutor, é necessária a apresentação do diploma de graduação à CaPGPq.
+§ 3o A Unifesp aceitará discentes em cotutela de acordo com a regulamentação específica.
+§ 4o As UUs da Unifesp terão liberdade para propor e organizar programas de aceleração de formação no âmbito da pós-graduação em acordo
+com suas respectivas CaPGPqs.
+Art. 65. A seleção para ingresso nos PPGs será realizada de acordo com a periodicidade e normas estabelecidas pela sua respectiva CEPG,
+constantes em seu regimento, divulgadas pelos PPGs em meios físicos e/ou eletrônicos, e respeitadas as normas gerais do Regimento Interno
+de Pós-graduação e Pesquisa da Unifesp.
+Parágrafo único. Deverão ser explicitadas no edital as normas específicas do processo e suas fases, incluindo bibliografia na qual a prova será
+baseada; formato das provas; caráter eliminatório; critérios objetivos de avaliação; critérios para cotas; prazos para recursos e seu formato.
+
+DA MATRÍCULA INICIAL E REMATRÍCULAS
+
+Art. 66. Por ocasião da matrícula inicial, o(a) discente deverá apresentar o aceite formal de um(a) orientador(a) do respectivo PPG.
+§ 1o Os PPGs terão autonomia para indicar regramentos específicos de matrícula inicial e ética em pesquisa de acordo com este Regimento e
+mediante aprovação da respectiva CaPGPq.
+§ 2o Os programas em rede seguirão os regramentos de ética em pesquisa de acordo com as orientações da instituição central, desde que
+respeitadas as regras de ética em pesquisa da Unifesp.
+§ 3o Nenhum projeto de pesquisa poderá ser iniciado sem aprovação de seu respectivo comitê de ética ou de liberação para realização, de
+acordo com a normativa vigente.
+Art. 67. Para a efetivação da matrícula inicial, o(a) discente deverá providenciar a documentação exigida e divulgada pela CEPG e pela CaPGPq
+da UU, em acordo com este Regimento.
+Art. 68. O(a) discente deverá efetuar rematrículas semestrais ou anuais de acordo com as regras do PPG e da CaPGPq da UU, e com a anuência
+do(a) orientador(a), até a obtenção do título de Mestre ou de Doutor.
+§ 1o No caso de o(a) discente não efetuar sua rematrícula na época determinada, terá dois meses de prazo para efetuar o trancamento da
+matrícula.
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 12/21
+§ 2o No caso de o(a) discente não efetuar sua rematrícula, será automaticamente desligado(a).
+Art. 69. É vedada a cobrança de taxas de matrícula inicial e rematrícula a qualquer título.
+Art. 70. É vedada a matrícula simultânea em mais de um PPG stricto sensu da Unifesp.
+Art. 71. A normatização do processo de matrícula é definida pela secretaria da CaPGPq da UU, em acordo com este Regimento.
+
+DOS PRAZOS
+
+Art. 72. Os prazos para a obtenção dos títulos de Mestre ou de Doutor são fixados nos regimentos dos PPGs, observados os limites a seguir:
+I - o mestrado deverá ser concluído em, no mínimo, um ano e, no máximo, quatro anos;
+II - o doutorado deverá ser concluído em, no mínimo, dois anos e, no máximo, sete anos.
+§ 1o As CaPGPqs das respectivas UUs poderão definir outros prazos desde que não ultrapassem os limites acima.
+§ 2o O período de trancamento de matrícula, caso ocorra, será computado nos prazos estabelecidos acima.
+§ 3o Nos casos de programas de aceleração de formação a partir da graduação, os prazos serão definidos pela UU, em acordo com a sua
+respectiva CaPGPq.
+Art. 73. Os prazos a que se refere o caput do artigo 72 iniciam-se com a data da matrícula inicial e expiram-se por ocasião da aprovação da
+homologação do título pelo CPGPq.
+
+DO TRANCAMENTO DE MATRÍCULA
+
+Art. 74. Em caráter excepcional, será permitido ao(à) discente regularmente matriculado(a) em PPG o trancamento de matrícula com
+interrupção plena das atividades escolares por período global não superior a doze meses.
+Parágrafo único. Serão respeitados os afastamentos decorrentes de licença maternidade e/ou paternidade, de acordo com a legislação vigente.
+Art. 75. Para a concessão do trancamento de matrícula deverão ser observados os seguintes quesitos:
+I - o requerimento para trancamento de matrícula deverá conter os motivos do pedido documentalmente comprovados, bem como o prazo
+pretendido;
+II - o requerimento, firmado pelo(a) discente e com manifestação favorável circunstanciada do(a) orientador(a), será encaminhado à respectiva
+CEPG e, em seguida, para aprovação pela CaPGPq.
+
+DO DESLIGAMENTO
+Art. 76. O(A) aluno(a) poderá ser desligado(a) do PPG nas seguintes situações:
+I - a pedido do(a) interessado(a);
+II - se não efetivar a matrícula inicial;
+III - se não efetuar as rematrículas semestrais ou anuais de acordo comas regras do PPG e da CaPGPq da UU;
+IV - se reprovado(a) duas vezes na mesma disciplina ou reprovado(a) em três disciplinas distintas;
+V - se reprovado(a) pela segunda vez no exame de qualificação para o mestrado;
+VI - se reprovado(a) pela segunda vez no exame de qualificação para o doutorado;
+VII - se reprovado(a) pela segunda vez na defesa de dissertação de mestrado ou de tese de doutorado;
+VIII - se não cumprir os prazos máximos definidos pela CEPG para a finalização da dissertação ou tese, ou ultrapassando os limites fixados pelo
+artigo 72;
+IX - por solicitação do(a) orientador(a) ou coordenador(a) do PPG à CEPG, devido a desempenho acadêmico insatisfatório fundamentado em
+relatório circunstanciado, após aprovação pela CaPGPq da UU e homologação pelo CPGPq;
+X - por motivos disciplinares ou éticos, incluindo-se plágio, falsificação de resultados ou fabricação de dados falsos, a pedido da CEPG ou de
+outra instância superior da universidade, após aprovação pela CaPGPq da UU e homologação pelo CPGPq.
+Parágrafo único. Em todos os casos o(a) discente receberá ciência das decisões tomadas.
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 13/21
+
+DA NOVA MATRÍCULA
+
+Art. 77. Considera-se nova matrícula a situação na qual o(a) discente for desligado(a) sem concluir o mestrado ou o doutorado, tendo realizado
+novo processo seletivo.
+§ 1o Considera-se desligamento para fins do caput deste artigo quando ocorrer uma das hipóteses relacionadas no artigo 76 deste Regimento.
+§ 2o No caso de desligamento por motivos disciplinares ou éticos, conforme disposto no inciso X do artigo 76, não será permitida a nova
+matrícula pelo período de cinco anos.
+§ 3o A solicitação de nova matrícula deverá ser aprovada pela respectiva CaPGPq, mediante justificativa do(a) interessado(a) e anuência do(a)
+orientador(a).
+§ 4o O(A) interessado(a) cujo pedido for deferido será considerado(a) discente novo(a) e, consequentemente, deverá cumprir todas as
+exigências a que estão sujeitos(as) os(as) discentes ingressantes, podendo aproveitar os créditos e resultados de exames de qualificação obtidos
+anteriormente a critério da CEPG onde o(a) discente efetuar a nova matrícula.
+§ 5o A nova matrícula mencionada no caput deste artigo será permitida uma única vez.
+§ 6o O não cumprimento das presentes normas implicará no cancelamento da nova matrícula.
+DA TRANSFERÊNCIA DE NÍVEL
+
+Art. 78. A transferência de nível dentro de um mesmo PPG, quer seja mestrado para doutorado ou doutorado para mestrado, deverá ser
+permitida com o aproveitamento dos créditos já obtidos e sujeita à concordância do(a) orientador(a) e da respectiva CEPG.
+§ 1o Para efeitos de prazo, será considerada a matrícula inicial efetuada de acordo com as regras do PPG e da CaPGPq da UU.
+§ 2o Somente será permitida uma única transferência de nível.
+§ 3o Na transferência de nível de doutorado para mestrado, o processo só será considerado desde que respeitados os prazos máximos
+estabelecidos pelo PPG para o nível de mestrado a partir da matrícula inicial.
+
+DA MUDANÇA DE ORIENTADORES(AS) OU DE PROGRAMA
+
+Art. 79. É facultada ao(à) discente a mudança de orientador(a).
+§ 1o A aprovação da mudança de orientador(a), dentro do mesmo PPG, fica a critério de cada CEPG.
+§ 2o A transferência do(a) discente entre diferentes PPGs deverá ser aprovada e facilitada pela CaPGPq da UU. A transferência será
+consubstanciada por:
+I - solicitação do(a) discente com justificativa própria e dos(as) orientadores(as) envolvidos(as);
+II - concordância e parecer das CEPGs envolvidas.
+Art. 80. Na situação de transferência entre orientadores(as), do mesmo PPG ou não, será contabilizada a data da matrícula inicial para efeitos
+de prazo.
+Art. 81. Na situação de transferência entre PPGs, os créditos obtidos no primeiro poderão ser contabilizados para o segundo PPG, a critério de
+sua CEPG.
+Art. 82. Somente será aceita uma transferência entre PPGs.
+
+DOS(AS) ALUNOS(AS) ESPECIAIS
+
+Art. 83. Aluno(a) especial é aquele(a) que se matricula em disciplina mas não ingressa no PPG, podendo solicitar os créditos posteriormente de
+acordo com as regras definidas pelos PPGs.
+Art. 84. As CaPGPqs aprovarão as regras de aceitação e ingresso dos(as) alunos(as) especiais encaminhadas por cada CEPG.
+
+DOS(AS) ALUNOS(AS) ESTRANGEIROS(AS)
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 14/21
+Art. 85. Os(As) discentes estrangeiros(as) que pretendam ingressar nos PPGs da Unifesp deverão atender aos seguintes requisitos:
+I - satisfazer as exigências específicas para ingresso e permanência de discentes estrangeiros(as), conforme estabelecidas pela CaPGPq;
+II - comprovar sua formação em curso de graduação e ter seu diploma de graduação admitido conforme os critérios estabelecidos neste
+Regimento;
+III - providenciar a documentação legal para comprovar situação regular em território nacional. O(A) orientador(a) e a CEPG julgarão a
+necessidade de o(a) discente estrangeiro(a) apresentar comprovante de proficiência em língua portuguesa.
+Parágrafo único. Quando necessário, a ProPGPq solicitará tradução juramentada de diplomas, históricos e demais documentos obtidos no
+exterior.
+
+CAPÍTULO V
+
+DA PROFICIÊNCIA EM LÍNGUA ESTRANGEIRA
+
+Art. 86. Para a defesa da dissertação ou trabalho equivalente de conclusão de mestrado ou tese de doutorado, os(as) discentes deverão
+evidenciar proficiência em idioma estrangeiro determinado pelo PPG.
+§ 1o A critério do PPG e de acordo com suas normas, o exame de proficiência em língua estrangeira poderá constar como parte do processo
+seletivo.
+§ 2o Aos mestrados e doutorados cujo funcionamento se faz em rede, é facultada a possibilidade de seguir a orientação da instituição central
+no que diz respeito à proficiência em língua.
+§ 3o Sendo de interesse do PPG, poderá ser exigida uma segunda língua estrangeira no nível de doutorado, cabendo à CEPG, em seu regimento,
+discriminá-la e adotar os critérios do exame de proficiência.
+§ 4o É reconhecida a proficiência em língua portuguesa como língua estrangeira para candidatos surdos, estrangeiros ou indígenas.
+
+CAPÍTULO VI
+
+DAS DISCIPLINAS E DO EXAME DE QUALIFICAÇÃO
+
+DAS DISCIPLINAS
+Art. 87. Os PPGs têm autonomia para propor e executar disciplinas.
+Parágrafo único. Cada Unidade de Crédito deverá corresponder a um mínimo de quinze horas de atividades.
+Art. 88. A ProPGPq poderá, a seu critério, propor disciplinas.
+
+DO EXAME DE QUALIFICAÇÃO
+
+Art. 89. O exame de qualificação é obrigatório para o curso de doutorado e facultativo para o mestrado, de acordo com os critérios
+estabelecidos pelas CEPGs.
+§ 1o Os critérios e regramentos do exame de qualificação deverão ser explicitados nos regimentos dos PPGs, aprovados pela CaPGPq da UU e
+homologados pelo CPGPq.
+§ 2o O exame de qualificação poderá ser efetivado em língua estrangeira, conforme regramento da CEPG.
+
+CAPÍTULO VII
+DOS TÍTULOS DE MESTRE E DE DOUTOR
+DO TÍTULO DE MESTRE
+
+Art. 90. Para a homologação do título de mestre pelo CPGPq, o(a) discente deverá obrigatoriamente:
+I - totalizar as Unidades de Crédito em atividades, programadas ou supervisionadas, conforme estabelecido pelo regimento do PPG, devendo
+observar o limite mínimo de vinte e cinco créditos;
+II - cursar as disciplinas exigidas pelo PPG para ser aprovado;
+III - cumprir todas as obrigações específicas ao PPG, conforme estabelecido em seu regimento;
+IV - comprovar proficiência em língua estrangeira, de acordo com o regimento do PPG;
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 15/21
+V - ter aprovada(o) pela comissão julgadora a dissertação, ou trabalho equivalente, que poderá ser escrita(o) em língua estrangeira conforme
+regimento do PPG;
+VI - depositar no Repositório Institucional da Unifesp a dissertação ou trabalho de conclusão equivalente, contemplando ajustes sugeridos pela
+comissão avaliadora, de acordo normativa vigente.
+
+DO TÍTULO DE DOUTOR
+Art. 91. Para a homologação do título de Doutor pelo CPGPq, o(a) discente deverá:
+I - totalizar as Unidades de Crédito em atividades, programadas ou supervisionadas, conforme estabelecido pelo regimento do PPG, devendo
+observar o limite mínimo de quarenta créditos;
+II - cursar as disciplinas exigidas pelo PPG para ser aprovado(a);
+III - cumprir todas as obrigações específicas ao PPG, conforme estabelecido em seu regimento;
+IV - comprovar proficiência em língua estrangeira, de acordo com o regimento do PPG;
+V - desenvolver trabalho original constituindo-se em base para o desenvolvimento da tese de doutorado;
+VI - entregar ao(à) orientador(a) da Unifesp todos os dados originais resultantes do trabalho de pesquisa, em formato original, acompanhado
+dos respectivos materiais que a ele deram origem, quando aplicável;
+VII - ter aprovada pela Comissão Julgadora a tese, a qual poderá ser escrita em língua estrangeira conforme Regimento da CEPG;
+VIII - depositar no Repositório Institucional da Unifesp a tese, contemplando ajustes sugeridos pela comissão avaliadora, de acordo normativa
+vigente.
+Art. 92. A tese de doutorado acadêmico poderá, opcionalmente, ser apresentada sob a forma de compilação de trabalhos aceitos para
+publicação, de acordo com o estabelecido no regimento do PPG.
+§ 1o A opção pela apresentação disposta no caput deste artigo exige que, no volume da tese, os artigos sejam precedidos de um apanhado do
+estado atual da arte, localizando o objeto de estudo dentro da área e justificando-o, bem como de uma conclusão geral que permeie todos os
+resultados apresentados sob a forma de publicações.
+§ 2o Deverão ser consideradas, neste caso, as implicações legais e relativas à originalidade, além da propriedade intelectual associadas à
+publicação em revistas científicas que passam a ter os direitos autorais sobre artigos publicados.
+
+CAPÍTULO VIII
+
+DAS COMISSÕES JULGADORAS E DO JULGAMENTO DAS
+
+DISSERTAÇÕES E TESES
+DAS COMISSÕES JULGADORAS
+
+Art. 93. Os membros titulares e suplentes das comissões julgadoras são definidos pela CEPG, aprovados e homologados pela CaPGPq da UU.
+Art. 94. A comissão julgadora da dissertação de mestrado, ou trabalho equivalente, será constituída por três membros, sendo a presença e o
+papel do(a) orientador(a) definidos pela CEPG.
+Art. 95. A comissão julgadora da tese de doutorado, ou trabalho equivalente, será constituída por cinco membros, sendo a presença e o papel
+do(a) orientador(a) definidos pela CEPG.
+Art. 96. Na falta ou impedimento do(a) orientador(a) à sessão de defesa da tese, a CEPG designará um(a) substituto(a).
+Art. 97. É vedada a participação do(a) coorientador(a) em comissão julgadora da qual participe o(a) respectivo(a) orientador(a).
+Art. 98. Os membros da comissão julgadora deverão ser portadores(as) do título de Doutor.
+Art. 99. O PPG deve garantir que, para a comissão julgadora da dissertação de mestrado, a banca se realize com pelo menos
+um membro externo à Unifesp.
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 16/21
+Art. 100. O PPG deve garantir que, para a comissão julgadora da tese de doutorado, a banca se realize com pelo menos
+dois membros externos à Unifesp.
+Art. 101. Deverão ser observados conflitos de interesse.
+Art. 102. Situações não explicitadas neste artigo serão apreciadas pelo Comitê de Ética institucional.
+
+DOS JULGAMENTOS
+
+Art. 103. A dissertação de mestrado, ou trabalho equivalente, e a tese de doutorado, serão consideradas APROVADA(O) ou REPROVADA(O),
+conforme decisão da maioria simples dos membros da comissão julgadora.
+Art. 104. A sessão de defesa pública será constituída de duas fases: exposição oral do trabalho e arguição do(a) candidato(a) pela comissão
+julgadora.
+Art. 105. Em situações excepcionais, como no caso de trabalhos que envolvam direitos autorais, inovações tecnológicas, científicas, resguardo
+de patentes e demais dispositivos apresentados pela Lei n° 10.973/2004, a CEPG poderá julgar pertinente que todo o processo de defesa ocorra
+em sessão fechada, desde que o(a) candidato(a) e o(a) orientador(a) encaminhem previamente à CEPG requerimento devidamente justificado
+solicitando a presença exclusiva dos membros da comissão julgadora.
+Parágrafo único. Na situação apresentada no caput deste artigo, será solicitada aos membros titulares e suplentes da comissão julgadora,
+quando da formalização do convite de participação, a assinatura de Termo de Confidencialidade.
+Art. 106. Imediatamente após a conclusão da fase de arguição do(a) candidato(a) pela comissão julgadora, cada examinador(a) expressará seu
+julgamento, em sessão secreta, considerando-o(a) aprovado(a) ou reprovado(a).
+Art. 107. A conclusão da comissão julgadora será formalizada por escrito, sendo o resultado proclamado ao(à) candidato(a) e o documento final
+encaminhado à CaPGPq.
+Art. 108. A sessão de defesa pública poderá ser realizada em outro idioma, desde que devidamente justificada a escolha e aprovada pela CEPG.
+Parágrafo único. Além de a defesa pública poder ocorrer em outro idioma, em situações excepcionais, o mesmo pode acontecer com o idioma
+do documento apresentado: dissertação, tese ou trabalho equivalente.
+Art. 109. No caso de a comissão julgadora reprovar o(a) candidato(a) ao título de Mestre ou de Doutor, haverá direito a uma nova apresentação
+em prazo máximo de um ano, desde que não ultrapasse os prazos máximos para conclusão definidos pelo PPG.
+§ 1o Toda decisão de reprovação da comissão julgadora deverá ser acompanhada de justificativa com os motivos que a ensejaram.
+§ 2o Se o(a) candidato(a), após a reapresentação da defesa, for novamente reprovado(a), será desligado(a) do PPG.
+§ 3o O desligamento por duas reprovações na defesa deverá ser informado ao CPGPq por meio de ofício circunstanciado assinado pelo(a)
+coordenador(a) do PPG, com a ciência da CaPGPq da UU.
+
+CAPÍTULO IX
+DOS PROGRAMAS ESPECIAIS
+DOS PROGRAMAS INTERINSTITUCIONAIS
+
+Art. 110. A Unifesp poderá associar-se a outras instituições, nacionais ou estrangeiras, para desenvolver PPG interinstitucionais sob a forma de
+PPGs Plenos, PPGs Fora de Sede e PPGs em Rede.
+Art. 111. PPGs Plenos são aqueles resultantes da associação com instituições de elevada qualidade acadêmica, sendo as atividades
+desenvolvidas nestas e na Unifesp.
+Art. 112. Os PPGs Plenos possuem os seguintes objetivos:
+I - incentivar a criação de cursos de pós-graduação, quando desenvolvidos no Brasil, em que as instituições envolvidas promovam atividades
+complementares visando a execução de projetos acadêmicos inovadores e o aumento qualitativo de massa crítica de orientadores(as) em áreas
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 17/21
+afins;
+II - desenvolver atividades de ensino e pesquisa, quando desenvolvidas no exterior, com Instituições de Ensino Superior ou de Pesquisa de
+reconhecida qualidade, a fim de fortalecer e criar novas redes de colaboração internacional.
+Art. 113. PPGs Fora de Sede são aqueles que viabilizam o acesso aos níveis de mestrado e de doutorado da Unifesp a docentes e
+pesquisadores(as) de outras instituições que não tenham a possibilidade de se deslocar para a localidade em que tais cursos são regularmente
+oferecidos.
+Art. 114. Os PPGs Fora de Sede visam contribuir para a implantação de infraestrutura básica e para a formação de pesquisadores(as) que criem,
+implementem e fortaleçam novos centros de pós-graduação e de pesquisa nas instituições apoiadas.
+Art. 115. Os PPGs Plenos e os PPGs Fora de Sede serão regidos por regimentos próprios previstos em convênios entre a Unifesp e a outra
+Instituição, nacional ou estrangeira, com detalhamento das atividades de formação e de pesquisa.
+Art. 116. Os PPGs em Rede obedecerão aos regramentos definidos pela CAPES.
+DA COOPERAÇÃO INTERNACIONAL
+
+Art. 117. A ProPGPq poderá sugerir para a Unifesp acordos de cooperação técnico científica com instituições estrangeiras para desenvolver
+atividades de ensino de pós-graduação e de pesquisa.
+Parágrafo único. Os acordos de cooperação celebrados entre Unifesp e as instituições estrangeiras serão precedidos de análise jurídica por
+parte da Procuradoria Federal junto à Unifesp
+
+TÍTULO IV
+LIVRE-DOCÊNCIA
+
+Art. 118. A Livre-docência é título da carreira universitária que se pode atingir apenas por competência, independente da disponibilidade de
+vagas na carreira funcional.
+Parágrafo único. Caberá à Comissão de Livre-docência normatizar anualmente os concursos e definir seus prazos por meio de edital, respeitado
+mecanismo normativo específico.
+
+TÍTULO V
+
+EQUIVALÊNCIA E RECONHECIMENTO DE TÍTULOS
+
+CAPÍTULO I
+DA EQUIVALÊNCIA DE TÍTULOS
+
+Art. 119. Equivalência é a admissão, pela Unifesp, de título de Livre-docente obtido no país, ou títulos de Mestre ou de Doutor obtidos no
+exterior, tendo por finalidade exclusivamente possibilitar o desenvolvimento de atividades específicas de pós-graduação e pesquisa na Unifesp,
+não tendo validade para quaisquer outros efeitos.
+§ 1o A solicitação de equivalência deverá ser encaminhada à CEPG do PPG pertinente ou área afim, que emitirá parecer circunstanciado e o
+encaminhará para a CaPGPq da UU.
+§ 2o A CaPGPq da UU encaminhará o parecer para a ProPGPq que solicitará subsequente homologação pelo CPGPq.
+§ 3o A solicitação de equivalência do título de Livre-docente será avaliada pela Comissão de Livre-docência, que dará parecer final.
+§ 4o A normatização do processo de equivalência será feita por portaria e disponibilizada pela ProPGPq.
+
+CAPÍTULO II
+DO RECONHECIMENTO DE TÍTULOS
+
+Art. 120. O reconhecimento pela Unifesp de títulos de Mestrado ou Doutorado expedidos por instituições estrangeiras de ensino superior se
+dará para todas as atividades específicas de pós-graduação, pesquisa e docência em todo o território nacional.
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 18/21
+§ 1o São passíveis de reconhecimento pela Unifesp os títulos ou certificados que correspondam aos cursos de pós-graduação stricto sensu por
+ela oferecidos.
+§ 2o A solicitação de reconhecimento se dará no âmbito do PPG de área afim.
+TÍTULO VI
+
+DA PESQUISA E DO(A) PESQUISADOR(A)
+
+CAPÍTULO I
+DA PESQUISA
+
+Art. 121. A pesquisa científica é desenvolvida por grupos de pesquisa ou pesquisadores(as) individuais, de acordo com alinhamento
+institucional, obedecidos fluxos específicos de aprovação e execução.
+Art. 122. Cada grupo de pesquisa deverá ter um(a) representante institucional, responsável pelo cumprimento dos fluxos e trâmites junto à
+ProPGPq, ao respectivo comitê de ética, à AGITS e aos outros órgãos e entes internos e externos à Unifesp, envolvidos em suas atividades.
+Parágrafo único. A ProPGPq manterá cadastro atualizado dos grupos de pesquisa e de seus(suas) representantes institucionais.
+
+CAPÍTULO II
+DO(A) PESQUISADOR(A)
+
+Art. 123. Os(As) pesquisadores(as) da Unifesp, para o desenvolvimento do seu trabalho, deverão primar pelo respeito à legislação vigente, bem
+como pelos princípios éticos adotados pela comunidade de pesquisa.
+Parágrafo único. As publicações e comunicações em encontros científicos, ou em outros meios, sobre os resultados das pesquisas são de
+responsabilidade única do(a) pesquisador(a) e não representam opinião oficial da Unifesp.
+DAS RESPONSABILIDADES DOS(AS) PESQUISADORES(AS)
+
+Art. 124. É responsabilidade dos(as) pesquisadores(as):
+I - manter, no local de pesquisa sob sua responsabilidade, condições de segurança adequadas para funcionários(as), alunos(as) e
+pesquisadores(as);
+II - obedecer às normas institucionais sobre a disposição de resíduos tóxicos ou infectantes;
+III - manter os membros de seu laboratório cientes sobre os riscos envolvidos em sua pesquisa;
+IV - manter em áreas de fácil leitura as informações acerca dos procedimentos em caso de acidentes;
+V - manter documentação das pesquisas realizadas sob sua responsabilidade por um período mínimo de cinco anos após a sua finalização;
+VI - obedecer às normas institucionais sobre a utilização da tecnologia da informação e comunicação relativas a sua pesquisa;
+VII - ter os seus projetos de pesquisa aprovados pelos órgãos internos e externos de regulamentação da pesquisa.
+Parágrafo único. A inobservância às regras acima poderá acarretar a suspensão das atividades de orientação e supervisão de discentes ou
+pesquisadores(as) de pós-doutorado, bem como a interdição do laboratório até que sejam sanadas as pendências apontadas.
+
+DO PÓS-DOUTORADO
+
+Art. 125. O pós-doutorado é um estágio de pesquisa, realizada por portadores(as) de título de Doutor, sob supervisão de um(a) orientador(a)
+credenciado(a) em PPG da Unifesp, ou de um(a) supervisor(a) vinculado(a) a uma Unidade Acadêmica da Unifesp.
+Art. 126. As atividades de pós-doutorado, realizadas nas várias unidades da Unifesp, visam o aprimoramento da qualificação do(a)
+pesquisador(a) e colaborar para o desenvolvimento de novas estratégias de pesquisa do grupo no qual está inserido(a).
+§ 1o As atividades de pós-doutorado podem ser desenvolvidas nas Unidades Acadêmicas ou equivalentes da Unifesp. Caberá à CaPGPq do
+campus ao qual se vincula o(a) supervisor(a) que pretende acolher a proposta, definir as regras e os fluxos do programa de pós-doutorado,
+assim como avaliar a proposta, respeitando portaria específica de normatização, o Regimento da ProPGPq, além do Estatuto e Regimento Geral
+da Unifesp.
+§ 2o A Unifesp aceitará supervisores(as) externos(as) participantes de pesquisas desenvolvidas na instituição de acordo com as regras sugeridas
+pela CaPGPq da UU à qual o(a) supervisor(a) estiver vinculado(a).
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 19/21
+Art. 127. Compete ao(à) supervisor(a) do estágio de pós-doutorado:
+I - definir o início e o término do estágio de pós-doutorado e prever a captação de recursos necessários para realização do estágio;
+II - assegurar condições necessárias para a realização das atividades de pesquisa previstas;
+III - acompanhar e supervisionar as atividades de pesquisa, a apresentação de relatórios parcial e final e o encerramento dos trabalhos, além
+das eventuais atividades de suporte ao ensino.
+Art. 128. Cada proposta de pós-doutorado deverá ser encaminhada à CaPGPq da UU, acompanhada da documentação por ela solicitada,
+incluindo-se o resumo do projeto de pesquisa e as anuências expressas do(a) supervisor(a) e do(a) chefe de departamento ou do(a)
+coordenador(a) de PPG, quando for vinculado a PPG.
+§ 1o Nenhum projeto de pesquisa poderá ser iniciado sem aprovação de seu respectivo comitê de ética ou de liberação para realização, de
+acordo com a normativa vigente.
+§ 2o Para efeitos de certificação, o pós-doutorado terá duração mínima de seis meses e máxima de cinco anos.
+Art. 129. A atividade de pós-doutorado não gera vínculo empregatício ou funcional entre a universidade e o(a) pós-doutorando(a), sendo
+vedada a extensão de direitos e vantagens concedidos aos(às) servidores(as) e discentes de pós-graduação.
+Art. 130. O(A) pós-doutorando deverá se recadastrar a cada ano com aval do(a) supervisor(a) e apresentação das atividades parciais sugeridas
+pela regulamentação da CaPGPq da UU à qual se vincula.
+Art. 131. Ao final das atividades de pós-doutorado, deverá ser encaminhado à CaPGPq o relatório final com parecer conclusivo do(a)
+supervisor(a).
+Art. 132. Cumpridos os requisitos estabelecidos, a ProPGPq expedirá o certificado final ao pós-doutorando.
+Art. 133. O(A) pós-doutorando(a) poderá ser desligado(a):
+I - a pedido, por meio de documento circunstanciado e firmado com ciência do(a) supervisor(a), endereçado à CaPGPq;
+II - por solicitação do(a) supervisor(a), por meio de documento circunstanciado e firmado, endereçado à CaPGPq, respeitando-se o direito ao
+contraditório e à ampla defesa ao(à) pós-doutorando(a);
+III - por solicitação da coordenação do PPG ou pela chefia de departamento, ouvidos(as) os(as) respectivos(as) membros e supervisor(a),
+respeitando-se o direito ao contraditório e à ampla defesa ao(à) pós-doutorando(a);
+IV - por conduta imprópria ou que fira as normas ou ética, respeitando-se o direito ao contraditório e à ampla defesa ao(à) pós-doutorando(a);
+V - de ofício, pela não apresentação do resultado da avaliação do projeto pelo respectivo comitê de ética ou de liberação para realização, de
+acordo com a normativa vigente.
+§ 1o A CaPGPq é o foro de apresentação de recursos em primeira instância.
+§ 2o O(A) requerente poderá recorrer ao CPGPq em última instância.
+
+DE OUTROS(AS) PESQUISADORES(AS) SEM VÍNCULO EMPREGATÍCIO COM A UNIVERSIDADE
+
+Art. 134. A Unifesp poderá abrigar, em seus laboratórios e espaços de pesquisa, discentes de iniciação científica, pesquisadores(as) visitantes,
+professores(as) afiliados(as), jovens pesquisadores(as), pesquisadores(as) seniores e outras categorias vinculadas à Pesquisa.
+Art. 135. Todos(as) os(as) pesquisadores(as) deverão estar formalmente autorizados(as) junto à administração dos campi, portando crachá de
+identificação.
+§ 1o No caso de discentes de iniciação científica que não pertençam ao corpo discente da Unifesp, cabe ao(à) orientador(a), juntamente à
+Unidade Acadêmica envolvida, a responsabilidade de assegurar a inscrição do(a) discente junto à ProPGPq.
+§ 2o No caso de discentes de outra instituição realizando Trabalho de Conclusão de Curso (TCC) na Unifesp, cabe ao(à) orientador(a) da Unifesp
+verificar a existência de convênio específico para tal entre a Unifesp e a outra instituição.
+§ 3o No caso de outros tipos de pesquisadores(as) listados no caput deste artigo, cabe ao(à) chefe de departamento assegurar o registro do(a)
+pesquisador(a) junto à administração dos campi.
+
+DA AUTORIA DE TRABALHOS
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 20/21
+Art. 136. Nas diversas modalidades de trabalhos científicos, a afiliação em relação à “Universidade Federal de São Paulo” e às suas unidades
+deverá ser redigida em língua portuguesa e por extenso.
+
+CAPÍTULO III
+
+DA ÉTICA EM PESQUISA E DA PROPRIEDADE INTELECTUAL
+
+Art. 137. Os materiais utilizados nas pesquisas terão sua propriedade identificada no início do projeto, permanecendo, ao término da pesquisa,
+na Unifesp, ou retornando ao local de origem, na dependência de acordo preestabelecido formalmente.
+Art. 138. Os produtos das pesquisas bem como os direitos gerados pela pesquisa, exceção feita a livros e artigos em periódicos ou em outros
+meios, são de propriedade da Unifesp.
+Art. 139. Nos casos de geração de patentes e royalties, a divisão ocorrerá entre a Unifesp, a UU, o departamento e o(a) pesquisador(a), nas
+formas estabelecidas pela legislação vigente.
+Parágrafo único. Nos casos de financiamento externo e/ou colaboração com outras instituições de pesquisa, a divisão ocorrerá entre a Unifesp
+e as outras partes conforme o estabelecido em convênios previamente definidos e aprovados pela Unifesp.
+
+Art. 140. Plágio, falsificação ou fabricação de dados são passíveis de descredenciamento para orientação de discentes e supervisão de pós-
+doutorado, desligamento de discentes e de pós-doutorandos(as), e revogação de bolsas institucionais, sendo tais atos comunicados aos órgãos
+
+competentes da universidade para as demais medidas administrativas cabíveis, e sem prejuízo de sanções cíveis, administrativas e penais
+estabelecidas na legislação brasileira.
+
+CAPÍTULO IV
+
+DOS ESPAÇOS INSTITUCIONAIS DE PESQUISA
+
+Art. 141. Os espaços institucionais de pesquisa, como edifícios de pesquisa, laboratórios multiusuários e centrais analíticas e de prestação de
+serviços, são geridos pelas UU conforme regramentos definidos por suas Congregações, em acordo com as CaPGPq.
+
+TÍTULO VII
+NORMAS REGIMENTAIS E RECURSO
+CAPÍTULO I
+
+DAS NORMAS REGIMENTAIS E REGULAMENTARES
+
+Art. 142. Os regimentos das CEPG que alterem o número mínimo de Unidades de Crédito exigidas, obedecendo aos limites mínimos
+estabelecidos neste Regimento, ou que visem prazos restritivos menores para finalização do mestrado ou doutorado, quando aprovados,
+deverão explicitar norma transitória prevendo a opção ou não pelos novos critérios estipulados em relação aos(às) discentes já
+matriculados(as).
+
+CAPÍTULO II
+DO RECURSO
+
+Art. 143. O recurso contra decisões dos colegiados deve ser interposto pelo(a) interessado(a) no prazo máximo de trinta dias a contar da data
+de divulgação da decisão, podendo excepcionalmente ser fixado em até sessenta dias pelo colegiado pertinente.
+
+TÍTULO VIII DISPOSIÇÕES TRANSITÓRIAS
+
+Art. 144. As CaPGPqs terão prazo de quatro meses para providenciar a alteração de seus regimentos, adequando-os a este Regimento Interno,
+a contar da data de entrada em vigor deste Regimento.
+Parágrafo único. As CEPGs terão igual tempo para adequar seus respectivos regimentos, após os regimentos das respectivas câmaras terem
+sido aprovados, e encaminhar para as CaPGPqs da UU.
+
+30/06/2021 SEI/Unifesp - 0739198 - Resolução
+
+https://sei.unifesp.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=819047&infra_sistema=... 21/21
+Art. 145. Os mandatos vigentes, na data de entrada em vigor deste Regimento, seguem o Regimento anterior até o prazo de sua expiração.
+Art. 146. Os casos omissos serão decididos pelo(a) pró-reitor(a) de pós-graduação e pesquisa, ouvido o CPGPq.
+Art. 147. Este Regimento entra em vigor a partir de 7 de julho de 2021.
+
+Profa. Dra. Raiane Patrícia Severino Assumpção
+Vice-reitora em exercício da reitoria
+e da presidência do Conselho Universitário (Consu)
+
+Documento assinado eletronicamente por Raiane Patricia Severino Assumpção, Vice-Reitor, em 30/06/2021, às 21:55, conforme horário
+oficial de Brasília, com fundamento no art. 6o, § 1o, do Decreto no 8.539, de 8 de outubro de 2015.
+
+A autenticidade deste documento pode ser conferida clicando aqui, ou pelo endereço: "https://sei.unifesp.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0" informando o código verificador 0739198 e o código CRC 3F2EEC04.
+
+Referência: Processo no 23089.011897/2021-11 SEI no 0739198
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+CRITÉRIOS DE CREDENCIAMENTO E RECREDENCIAMENTO DE ORIENTADORES
+
+PERMANENTES NO PPG-CC DO ICT-UNIFESP
+
+Este documento apresenta as diretrizes a serem adotadas pela CEPG-CC (Comissão de
+Ensino de Pós-Graduação do Programa de Pós-Graduação em Ciência da Computação)
+para a avaliação de credenciamento e recredenciamento de orientadores permanentes
+do PPG-CC (Programa de Pós-graduação em Ciência da Computação) do ICT-UNIFESP. Os
+critérios apresentados foram aprovados na reunião ordinária da CEPG-CC no dia 13 de
+maio de 2026.
+1. Dos critérios mínimos para credenciamento de orientadores
+Artigo 1o. O interessado deve apresentar um plano de trabalho com as seguintes
+informações:
+I. Disciplinas que poderia ministrar no programa;
+II. Aderência de sua área de pesquisa com o programa;
+III. Experiência prévia de pelo menos uma orientação;
+IV. Indicação de aluno para orientação;
+V. Outras informações que julgar relevantes.
+Artigo 2o. O interessado deve apresentar um projeto de pesquisa a ser desenvolvido
+
+no PPG-CC, destacando os possíveis tópicos a serem abordados por alunos de pós-
+graduação do programa.
+
+Artigo 3o. Em termos de produção científica, o interessado deve atender a pelo
+menos um dos seguintes requisitos:
+I. Possuir um índice i!"#$!%$& ≥ 4 calculado a partir de suas publicações no
+último quadriênio, de acordo com os estratos superiores (A1-A4) do Qualis
+da Capes na Comissão de Área da Ciência da Computação.
+i. Dentre essas publicações, deve figurar, obrigatoriamente, um artigo
+em periódico;
+ii. No cálculo do i!"#$!%$&, as pontuações correspondentes a artigos
+com coautorias de orientadores do programa serão divididas
+proporcionalmente.
+
+II. Ser bolsista de Produtividade do CNPq no Comitê Assessor da Ciência da
+Computação (CA-CC).
+i. Solicitações de bolsistas de Produtividade do CNPq em outros
+comitês serão avaliadas pela CEPG-CC, que poderá conceder o
+credenciamento/recredenciamento em virtude de fatores
+excepcionais, tais como senioridade, artigos de alto impacto ainda
+sem Qualis na Computação, produção de patentes e outros
+fatores que possam contribuir ou suprir eventuais deficiências do
+programa.
+
+2. Dos critérios para recredenciamento de orientadores
+Artigo 4o. Para recredenciamento como orientador permanente no PPG-CC, os
+candidatos devem atender a todos os seguintes requisitos:
+I. Atender aos requisitos de produção científica descritos no Artigo 3o,
+incluindo pelo menos uma produção com orientando no programa;
+II. Cumprir o prazo estipulado pela coordenação para envio de dados
+necessários para gestão e avaliação do programa;
+III. Ter orientação de pelo menos 3 alunos durante o último quadriênio;
+IV. Ter concluído pelo menos uma orientação no último quadriênio;
+V. Ter orientação vigente;
+VI. Ter ministrado pelo menos 2 (duas) disciplinas no PPG-CC no último
+quadriênio;
+VII. Ter sido coordenador ou pesquisador principal de pelo menos um projeto
+de pesquisa financiado com vigência no último quadriênio.
+
+3. Dos períodos de solicitações e análise
+Artigo 5o. As solicitações de credenciamento dos interessados serão avaliadas em
+fluxo contínuo.
+Artigo 6o. O recredenciamento dos orientadores do PPG-CC será realizado
+anualmente, no primeiro bimestre do ano, e válido até o final do ano corrente, pela
+CEPG-CC.
+§1 Embora o recredenciamento seja realizado anualmente, os critérios serão
+aplicados com base no último quadriênio do interessado.
+§2 Para os orientadores com menos de 2 (dois) anos de credenciamento no
+programa, o critério de exigência para o recredenciamento anual limita-se
+aos requisitos de produção científica (Artigo 3o) e de orientação (Artigo
+4o, item V).
+4. Das considerações finais
+Artigo 7o. Credenciamentos e recredenciamentos de orientadores que atuam em
+outro(s) programa(s) serão avaliados pela CEGP-CC, com prioridade para bolsistas de
+Produtividade do CNPq, sempre considerando os critérios de avaliação da Capes na
+Comissão de Área da Ciência da Computação.
+Artigo 8o. A CEPG-CC mantém sua autonomia para deliberar sobre a decisão final
+quanto ao credenciamento e ao recredenciamento de orientadores.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+CRITÉRIOS DE CREDENCIAMENTO DE ORIENTADORES COLABORADORES NO PPG-CC DO
+
+ICT-UNIFESP
+
+Este documento apresenta as diretrizes norteadoras da CEPG-CC (Comissão de Ensino de
+Pós-Graduação do Programa de Pós-Graduação em Ciência da Computação) para a
+avaliação de credenciamento de Orientadores Colaboradores no PPG-CC (Programa de
+Pós-graduação em Ciência da Computação) do ICT-UNIFESP. Os critérios apresentados
+foram aprovados na reunião ordinária da CEPG-CC no dia 13 de maio de 2026.
+1. Dos critérios mínimos para credenciamento de Orientador Colaborador no PPG-CC
+Artigo 1. O interessado deve ser enquadrado em um dos seguintes perfis:
+I. Perfil 1: orientador que agregue senioridade ao programa, com produção
+científica acima da média;
+II. Perfil 2: jovem recentemente ingressante na instituição e que ainda não
+atingiu os critérios de credenciamento como Orientador Permanente;
+III. Perfil 3: participação pontual na orientação de um aluno.
+Artigo 2. O interessado deve solicitar o credenciamento e apresentar um plano de
+trabalho com as seguintes informações:
+IV. Disciplinas que pode ministrar no programa;
+V. Aderência de sua área de pesquisa com o programa;
+VI. Outras informações que julgar relevantes.
+Artigo 3. O interessado deve apresentar um aluno regular do programa que
+demonstre interesse em sua orientação.
+2. Atividades de Orientadores Colaboradores
+Artigo 4. O Orientador Colaborador deve lecionar disciplina(s) no programa.
+Artigo 5. O Orientador Colaborador enquadrado no Perfil 3 deve, obrigatoriamente,
+contar com a orientação conjunta de um Orientador Permanente do programa.
+2. Duração do credenciamento como Orientador Colaborador
+Artigo 6. O credenciamento do Orientador Colaborador enquadrado no Perfil 3
+encerra-se com o término da orientação do seu aluno.
+Artigo 7. O Orientador Colaborador enquadrado no Perfil 2 só poderá solicitar novo
+credenciamento como Orientador Permanente.
+3. Dos períodos de solicitações e análise
+Artigo 8. As solicitações de credenciamento serão avaliadas em fluxo contínuo.
+4. Das considerações finais
+Artigo 9. A definição dos perfis dos Orientadores Colaboradores será realizada pela
+CEPG-CC, sempre priorizando os interesses do programa.
+Artigo 10. A CEPG-CC mantém sua autonomia para deliberar sobre a decisão final
+relativa ao credenciamento de orientadores colaboradores.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Critérios para pós-doutorandos
+
+O programa de pós-doutoramento junto ao programa é regulado por diretrizes quanto à aceitação,
+participação e encerramento de pesquisadores respeitando-se as regras estabelecidas no Regimento
+Interno de Pós-graduação e Pesquisa da UNIFESP.
+§ 1o - O pós-doutorado é uma atividade temporária de pesquisa supervisionada e treinamento acadêmico,
+sem vínculo profissional, exercida no programa cuja supervisão é realizada por um orientador
+permanente do programa. O pós-doutoramento visa melhorar o nível de excelência da universidade e das
+pesquisas no programa. O objetivo para o pesquisador em pós-doutorado é adquirir conhecimento
+necessário para seguir uma carreira acadêmica e científica. Espera-se que o pós-doutorando participe das
+atividades do laboratório ou área em que está vinculado e se envolva em orientação e coorientação de
+discentes.
+§ 2o - O candidato ao pós-doutorado deve ter título de Doutor obtido em entidade reconhecida pela
+CAPES ou ser pesquisador estrangeiro com título equivalente reconhecido no país. O pesquisador
+estrangeiro deverá ter sua situação regulamentada de acordo com as normas estabelecidas pelo Governo
+Federal. Deve cumprir as demais exigências estabelecidas pela Pró-reitoria de Pós-graduação e Pesquisa.
+§ 3o - O pós-doutorando deve realizar as seguintes atividades:
+● manter atividade acadêmica na UNIFESP em função do projeto de pesquisa;
+● participar de atividades relacionadas ao programa;
+● colaborar ativamente em atividades de ensino de pós-graduação associadas ao supervisor
+e/ou outros orientadores do programa;
+● participar de unidade curricular sob responsabilidade de um orientador do programa
+ministrando aula de graduação ou pós-graduação e colaborando com frequência mínima de
+1 (uma) unidade curricular por ano;
+● buscar captação de recursos (bolsas, auxílios, editais etc.) em agências de fomento para
+pesquisa ou entidades privadas;
+● expor por meio de palestra ou sessão oral em evento científico junto ao programa para
+divulgação de resultados relacionados ao projeto de pesquisa com frequência mínima de 1
+(uma) palestra por ano;
+● participar de eventos científicos externos ao programa com apresentação de trabalhos
+relacionados ao projeto de pesquisa com frequência mínima de 1 (uma) apresentação a cada
+2 anos;
+● submeter pelo menos 2 (dois) artigos para periódicos científicos indexados sendo pelo menos
+1 (um) periódico com Qualis B1 ou superior na área de Computação, especificando o vínculo
+com a UNIFESP;
+● submeter à CEPG para apreciação e aprovação um relatório anual com resultados científicos
+e descrição das atividades realizadas no âmbito do pós-doutoramento constando de parecer
+do supervisor.
+§ 4o - O pós-doutorado tem duração mínima de 1 (um) ano e máxima de 5 (cinco) anos. O pós-doutorado
+deverá renovar a matrícula anualmente no SIU conforme regras da universidade. Essa renovação estará
+atrelada à entrega e aprovação do relatório pela CEPG-CC.
+§ 5o - Quanto à dedicação o pós-doutorando que obtiver bolsa em entidade de fomento governamental
+deve ter sua permanência nos laboratórios do programa segundo tempo de dedicação definida pelas
+normas contratadas para outorga. Quando o pós-doutor não obtiver bolsa, o período de permanência
+deverá ser de no mínimo 8 horas semanais junto ao programa em programação a ser definida pelo
+supervisor.
+§ 6o - Seleção: Somente poderão ser candidatos aqueles que obtiverem anuência de orientador
+permanente do programa que desempenhará a função de supervisor. A seleção ocorrerá em caráter
+contínuo mediante da solicitação de um orientador permanente à CEPG-CC. Cabe à CEPG-CC a apreciação
+e aprovação para início do pós-doutorado. Haverá seleção através de edital público sempre que houver
+cota de bolsa de pós-doutorado cedida por agência de fomento ao programa. A seleção considera:
+● apresentação e análise do projeto de pesquisa proposto;
+● análise de currículo no formato da plataforma Lattes CNPq;
+● carta de aceite do supervisor contextualizando a proposta apresentada;
+● entrevista do candidato por membros designados pela CEPG-CC.
+§ 7o - Relatório de atividades: O pós-doutorando deverá apresentar anualmente um relatório
+circunstanciado dos resultados científicos do projeto e de suas atividades. O relatório deve conter pelo
+menos os seguintes tópicos: contexto e objetivos, métodos, resultados parciais, conclusões preliminares,
+referências, financiamentos obtidos, atividade didática realizada, orientação e coorientação realizadas
+(de pós-graduação, iniciação científica ou outra modalidade), produtividade (publicação ou submissão de
+artigo científico, patentes, capítulos de livro, instalação de novas técnicas ou laboratório de pesquisa no
+departamento). Os relatórios anuais deverão ser apresentados em até 30 (trinta) dias corridos após o
+término do período anual ou do encerramento previsto. Os relatórios serão encaminhados à CEPG-CC
+para avaliação e aprovação.
+§ 8o - Certificado: A certificação será obtida mediante o cumprimento das regras estabelecidas pelo
+programa e da Pró-reitoria de Pós-graduação e Pesquisa. Os documentos apresentados ao programa
+deverão ter anuência do supervisor.
+§ 9o - Desligamento: O pós-doutorando poderá ser desligado do programa após julgamento pela CEPG
+nas seguintes situações:
+● solicitação do pós-doutorando por meio de documento circunstanciado firmado e
+endereçado à CEPG-CC;
+● solicitação do supervisor através de documento circunstanciado e firmado, endereçado à
+CEPG-CC, respeitando-se o contraditório do pós-doutorando;
+● solicitação da CEPG-CC através de seu coordenador, ouvidos os membros do conselho,
+respeitando-se o contraditório do pós-doutorando;
+● conduta imprópria ou que fira a ética acadêmica e profissional, após julgamento na CEPG;
+● por não atender às atividades previstas;
+● não respeitar os prazos definidos para duração do pós-doutorado.
+
+§ 10o - As decisões da CEPG-CC referentes ao pós-doutorado serão encaminhadas para aprovação à Pró-
+reitoria de Pós-graduação e Pesquisa.
+
+§ 11o - Os casos omissos serão julgados pela CEPG.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+RESOLUÇÃO PARA EXAME DE PROFICIÊNCIA EM LÍNGUA ESTRANGEIRA
+
+Estabelece procedimentos para realização dos exames de proficiência no âmbito do Programa de Pós-
+Graduação em Ciência da Computação da Universidade Federal de São Paulo.
+
+A Comissão de Ensino de Pós-Graduação do Programa de Pós-Graduação em Ciência da Computação
+(CEPG-CC) da Universidade Federal de São Paulo (UNIFESP), no uso de suas atribuições regimentais e,
+CONSIDERANDO os art. 42, XIX, art. 86, art. 90, IV e art. 91, IV, do Regimento Interno da Pós-Graduação e
+Pesquisa da UNIFESP;
+CONSIDERANDO o que dispõe, no que couber, o Regimento do Programa de Pós-Graduação em Ciência da
+Computação (PPG-CC) acerca do exame de proficiência em língua estrangeira;
+CONSIDERANDO o Ofício-Circular no 6/2023/PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA - ProPGPq
+constante nos autos 23089.014213/2023-96.
+RESOLVE:
+§ 1o - O exame de proficiência em língua inglesa será obrigatório aos (às) estudantes regularmente
+matriculados no PPG-CC.
+§ 2o - A prova de proficiência em inglês será realizada anualmente por Comissão indicada pela CEPG-CC.
+§ 3o - Como comprovação de proficiência em língua inglesa, o PPG-CC também aceita apresentação de um
+certificado de proficiência em língua inglesa de um dos exames a seguir, desde que a pontuação mínima
+indicada abaixo seja alcançada:
+- TOEFL ITP (Test of English as a Foreign Language - Institutional Testing Program): Pontuação mínima de
+470 pontos.
+- TOEFL IBT (Test of English as a Foreign Language - Internet-based Test): Pontuação mínima de 52 pontos.
+- IELTS (International English Language Testing System): Pontuação mínima de 4 pontos.
+- TOEIC (Test of English for International Communication): Pontuação mínima de 450 pontos.
+- TEAP (Test of English for Academic Purposes): Pontuação mínima de 60 pontos.
+- DET (Duolingo English Test): Pontuação mínima 100 pontos.
+§ 4o - Outros testes serão analisados individualmente, desde que forneçam pontuações detalhadas em
+cada habilidade avaliada (listening, writing, speaking, reading) e a pontuação máxima possível em cada
+uma delas.
+§ 5o - Os casos omissos serão resolvidos pela CEPG-CC.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Instrução Normativa sobre Qualificação no PPG-CC
+1) Qualificação
+§ 1º -  De acordo com o regimento, o aluno regular que completar um mínimo de 75% (setenta e cinco por cento) dos créditos exigidos poderá solicitar agendamento do Exame de Qualificação, que deve ser solicitado com 45 dias de antecedência, e deverá ser realizado no prazo máximo de 18 (dezoito) meses para o Mestrado e 24 (vinte e quatro) meses para o Doutorado, contados a partir da data de ingresso.
+§ 2º - Se o aluno não cumprir os prazos máximos para a qualificação da dissertação ou tese, fixado pelo Art. 49 do regimento e Art. 1 desta instrução, estará sujeito ao desligamento do programa.
+Parágrafo Único Caso necessário, o aluno poderá solicitar prorrogação do prazo para realização do Exame de Qualificação. A solicitação deverá ser formalmente apresentada e avaliada pela CEPG-CC (Comissão de Ensino e Pesquisa em Graduação de Ciência da Computação), que decidirá pela aprovação ou não do pedido de prorrogação. A prorrogação máxima concedida ao longo do curso será de 6 meses. O aluno deve apresentar um plano de atividades junto ao pedido.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Instrução Normativa sobre Publicação de Artigos para Defesa
+1) Defesa de Mestrado
+§ 1o - Para a defesa de dissertação de mestrado, o aluno deve comprovar a submissão de pelo menos um artigo científico como primeiro autor, cujo trabalho seja uma contribuição da dissertação, a uma conferência ou periódico classificados no Qualis da CAPES no comitê da Ciência da Computação.
+Parágrafo Único Exceções a esta exigência poderão ser feitas em casos devidamente justificados pelo orientador, como trabalhos que envolvam sigilo industrial, depósito de patente ou equivalência de contribuição na autoria com mais de um autor.
+2) Defesa de Doutorado
+§ 1o - Para a defesa de tese de doutorado, o aluno deve comprovar o aceite de publicação de pelo menos um artigo científico como primeiro autor, cujo tema se relacione com a tese, em uma conferência ou periódico classificados como Qualis A pela CAPES no comitê da Ciência da Computação.
+Parágrafo Único Exceções a esta exigência poderão ser feitas em casos devidamente justificados pelo orientador, como trabalhos que envolvam sigilo industrial, depósito de patente ou equivalência de contribuição na autoria com mais de um autor.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Instrução Normativa sobre Mudança de Nível
+§ 1º - A transferência de nível dentro de um mesmo Programa do Mestrado para Doutorado deverá ser permitida com o aproveitamento dos créditos já obtidos e sujeita à concordância do orientador e da respectiva CEPG-CC.
+§ 2º - Para efeitos de prazo, será considerada a matrícula inicial efetuada na PROPGPq.
+§ 3º - Somente será permitida uma única transferência de nível.
+§ 4º - A transferência de nível do Mestrado para o Doutorado deve ser solicitada pelo orientador por email  à Comissão de Ensino e Pós-Graduação do PPG-CC.
+§ 5º - O aluno de Mestrado interessado em solicitar transferência do Mestrado para o Doutorado deverá ter obtido preferencialmente conceitos “A” em disciplinas cursadas no Mestrado.
+§ 6º - A promoção do Mestrado para o Doutorado será permitida se o aluno for aprovado pela banca examinadora de mudança de nível. Durante a realização do exame, o candidato deverá apresentar os resultados obtidos até o momento, bem como o projeto que deverá ser desenvolvido no doutoramento. A banca examinadora deverá recomendar a mudança de nível do aluno. O parecer da banca examinadora deverá considerar a relevância do projeto de pesquisa, bem como o desempenho do candidato no exame.
+
+
+
+
+
+
+
+
+
+

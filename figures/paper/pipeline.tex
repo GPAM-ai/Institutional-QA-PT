@@ -1,0 +1,68 @@
+% Stage-based vector schematic; normal paths, hybrid guidance and oracle input.
+\begingroup
+\definecolor{pipeInk}{HTML}{243746}
+\definecolor{pipeSage}{HTML}{58736B}
+\definecolor{pipeBrass}{HTML}{9C8050}
+\definecolor{pipeLine}{HTML}{7D8991}
+\begin{tikzpicture}[
+ x=1cm,y=1cm,font=\rmfamily\scriptsize,
+ flow/.style={-{Stealth[length=3pt,width=3pt]},line width=.7pt,draw=pipeLine,rounded corners=3pt},
+ hybrid/.style={-{Stealth[length=3pt,width=3pt]},line width=.9pt,draw=pipeBrass,rounded corners=3pt},
+ model/.style={font=\rmfamily\fontsize{6.5}{7.5}\selectfont,rounded corners=2pt,text width=2.28cm,minimum height=.67cm,inner xsep=3pt,inner ysep=3pt,align=center},
+ output/.style={circle,minimum size=.42cm,inner sep=0pt},
+ small/.style={font=\rmfamily\fontsize{6}{7}\selectfont,align=center,text=pipeLine}]
+\path[use as bounding box] (-.20,-3.10) rectangle (8.63,.31);
+% Editorial stage headers form a reading order, with no enclosing dashboard frame.
+\node[anchor=west,font=\rmfamily\fontsize{6}{7}\selectfont,text=pipeLine] at (-.10,.19)
+ {\textbf{01}\enspace EVIDENCE};
+\draw[pipeLine!35,line width=.35pt] (-.10,-.01) -- (3.65,-.01);
+\node[anchor=west,font=\rmfamily\fontsize{6}{7}\selectfont,text=pipeLine] at (4.05,.19)
+ {\textbf{02}\enspace ANSWERING};
+\draw[pipeLine!35,line width=.35pt] (4.05,-.01) -- (6.63,-.01);
+\node[anchor=west,font=\rmfamily\fontsize{6}{7}\selectfont,text=pipeLine] at (6.93,.19)
+ {\textbf{03}\enspace OUTPUTS};
+\draw[pipeLine!35,line width=.35pt] (6.93,-.01) -- (8.53,-.01);
+% Corpus as a document pictogram, query as a distinct linguistic input.
+\node[text=pipeInk,font=\large] at (.28,-.56) {\faIcon{file-alt}};
+\node[anchor=west,text=pipeInk,align=left] at (.58,-.56)
+ {\textbf{Public corpus}\\[-1pt]{\fontsize{6}{7}\selectfont 318 segments}};
+\node[model,fill=pipeInk,text=white,text width=1.96cm,minimum width=2.03cm] (retrieval) at (.98,-1.48)
+ {\faIcon{search}\enspace\textbf{Retriever}\\[-1pt]{\fontsize{6}{7}\selectfont BM25 + E5\\[-1pt]$\alpha=0.5$}};
+\node[text=pipeInk,align=center] (query) at (.98,-2.55)
+ {\faIcon{comment-dots}\enspace\textbf{Question} $q$};
+% Evidence is a shared junction, not another processing box.
+\node[circle,fill=pipeInk!6,minimum size=.66cm,inner sep=0pt,text=pipeInk,font=\large] (evidence) at (3.12,-1.48)
+ {\faIcon{layer-group}};
+\node[small,text=pipeInk] at (3.12,-1.00) {\textbf{Evidence}\\[-1pt]$q$ + context};
+\node[small] at (2.40,-1.75) {top 5};
+\node[text=pipeInk,align=center,text width=1.58cm] (reference) at (3.12,-2.78)
+ {\faIcon{bookmark}\enspace\textbf{Reference}\\[-1pt]{\fontsize{6}{7}\selectfont context (oracle)}};
+\draw[flow] (.98,-.83) -- (retrieval.north);
+\draw[flow] (query.north) -- (retrieval.south);
+\draw[flow] (retrieval.east) -- (evidence.west);
+\draw[flow] (query.east) -- (2.33,-2.55) -- (2.33,-1.48);
+\fill[pipeLine] (2.33,-1.48) circle (.8pt);
+\draw[flow,dashed] (reference.north) -- (evidence.south);
+% The two readers share evidence, while hybrid coupling runs between them.
+\node[model,fill=pipeSage!9,text=pipeInk] (reader) at (5.35,-.78)
+ {\textcolor{pipeSage}{\faIcon{highlighter}}\enspace\textbf{Extractive reader}\\[-1pt]{\fontsize{6}{7}\selectfont BERTimbau}};
+
+\node[model,fill=pipeInk!6,text=pipeInk] (generator) at (5.35,-2.45)
+ {\faIcon{microchip}\enspace\textbf{Compact generator}\\[-1pt]{\fontsize{6}{7}\selectfont without SFT / SFT}};
+
+\draw[flow] (evidence.east) -- (3.80,-1.48) |- (reader.west);
+\draw[flow] (3.80,-1.48) |- (generator.west);
+\draw[hybrid] (reader.south) -- node[right,small,text=pipeBrass,xshift=2pt]
+ {span guidance$^{*}$\\truth / verify / gate} (generator.north);
+% Answers are visible endpoints, with an optional span fallback for the hybrid.
+\node[output,fill=pipeSage!12,text=pipeSage] (span) at (7.66,-.78) {\faIcon{quote-left}};
+\node[small,text=pipeInk,text width=1.65cm] at (7.66,-1.23) {\textbf{Extractive}\\[-1pt]\textbf{answer}};
+\node[output,fill=pipeInk!8,text=pipeInk] (answer) at (7.66,-2.45) {\faIcon{comment-alt}};
+\node[small,text=pipeInk,text width=1.95cm] at (7.66,-2.96) {\textbf{Generated / hybrid}\\[-1pt]\textbf{answer}};
+\draw[flow,draw=pipeSage] (reader.east) -- (span.west);
+\draw[flow,draw=pipeInk] (generator.east) -- (answer.west);
+\draw[hybrid,dashed] (span.east) -- (8.52,-.78)
+ -- (8.52,-2.45) -- (answer.east);
+\node[small,text=pipeBrass] at (7.75,-1.78) {optional\\fallback};
+\end{tikzpicture}
+\endgroup
