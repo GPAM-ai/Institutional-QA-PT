@@ -94,7 +94,6 @@ As métricas salvas continuaram iguais após as substituições; isso não garan
 | `scripts/generate_figures.py` | Gerar gráficos a partir da auditoria |
 | `scripts/check_privacy.py` | Verificar contatos e posições das respostas |
 | `scripts/verify_artifact.py` | Verificar integridade e reprodução numérica |
-| `scripts/package_artifact.py` | Gerar ZIP sem histórico Git |
 
 ## Atualização e envio ao GPAM-ai
 
@@ -105,9 +104,8 @@ python reproducibility/audit_results.py
 python scripts/summarize_results.py
 python scripts/refresh_manifest.py
 python scripts/verify_artifact.py
-python scripts/package_artifact.py
 ```
 
-O ZIP `Institutional-QA-PT.zip` é criado ao lado da pasta. Para um novo repositório privado `GPAM-ai/Institutional-QA-PT`, extraia seu conteúdo na raiz do repositório e inicie um histórico Git novo. Assim, `.github/workflows/` estará no local correto.
+Envie diretamente os arquivos preparados para o novo repositório privado `GPAM-ai/Institutional-QA-PT`, sem criar ou usar ZIP. Coloque os arquivos na raiz do repositório, incluindo `.github/` e `.gitignore`, e inicie um histórico Git novo. Assim, `.github/workflows/` estará no local correto.
 
-**Não envie o histórico Git local anterior:** ele antecede a revisão de privacidade. ZIPs antigos com outro nome não foram atualizados. Os scripts acima não fazem upload nem alteram a visibilidade de repositórios.
+**Não envie o histórico Git local anterior:** ele antecede a revisão de privacidade. Os scripts acima não fazem upload nem alteram a visibilidade de repositórios.
