@@ -1,108 +1,102 @@
 # Institutional-QA-PT
 
-Código e artefatos de reprodução do artigo **Local Institutional QA under Resource and Privacy Constraints: Benchmarking Extractive, Generative, and Verified Hybrid Pipelines in Portuguese**.
+Respostas a perguntas em português sobre informações institucionais do Programa de Pós-Graduação em Ciência da Computação da UNIFESP.
 
-O projeto compara leitores extrativos, geradores com recuperação de documentos (RAG) e estratégias híbridas para responder perguntas sobre um programa de pós-graduação da UNIFESP. Os guias estão em português; identificadores dos modelos e interfaces do código foram preservados.
+Código, dataset e resultados do estudo **Local Institutional QA under Resource and Privacy Constraints: Benchmarking Extractive, Generative, and Verified Hybrid Pipelines in Portuguese**. O trabalho compara leitores extrativos, geradores com recuperação de documentos (RAG) e estratégias híbridas, incluindo ajuste completo, LoRA e QLoRA.
 
-## Comece aqui
+[Dataset · Zenodo](https://doi.org/10.5281/zenodo.23839298) · [Treinamento e inferência](docs/TRAINING.md) · [Resultados](docs/RESULTS.md) · [Figuras](docs/FIGURAS.md)
 
-Use Python 3.10 ou superior e execute na raiz do projeto:
+## Pipeline
+
+![Pipeline de recuperação, leitura extrativa e geração híbrida](figures/pipeline.png)
+
+A pergunta e os documentos recuperados alimentam um leitor extrativo ou um gerador compacto. Nas variantes híbridas, o trecho extraído orienta a geração, com estratégias de verificação, roteamento e fallback. O contexto de referência é uma condição experimental separada da recuperação.
+
+[Diagrama em PDF](figures/pipeline.pdf) · [Fonte TikZ](figures/pipeline.tex)
+
+## Dataset
+
+| Conteúdo | Quantidade |
+|---|---:|
+| Perguntas originais | 514 |
+| Paráfrases não vazias | 1.507 |
+| Perguntas originais em treinamento / validação | 411 / 103 |
+| Formulações em treinamento / validação | 1.613 / 408 |
+| Segmentos indexados nas execuções históricas | 318 |
+
+A divisão 80/20 usa semente 42 e agrupa as paráfrases pela pergunta original. O corpus inclui contextos, respostas e posições de caracteres para QA extrativo.
+
+- **Corpus:** [`data/processed/corpus_completo.json`](data/processed/corpus_completo.json).
+- **Documentos para recuperação:** [`data/documents/`](data/documents/).
+- **Divisão dos dados:** [`reproducibility/split_manifest.json`](reproducibility/split_manifest.json).
+- **Versão publicada:** [Zenodo · 1.0.0](https://doi.org/10.5281/zenodo.23839298). O depósito contém o JSON do corpus; os demais artefatos estão neste repositório.
+
+## Uso
+
+### Verificar os resultados distribuídos
+
+Com Python 3.10 ou superior, execute na raiz do repositório:
 
 ```bash
 python scripts/verify_artifact.py
 ```
 
-Não é necessário instalar dependências, baixar modelos ou usar GPU para essa verificação. O comando verifica os arquivos, a política de contatos, as posições das respostas, a divisão dos dados, EM/F1, 186 resumos extrativos elegíveis, tabelas e 10.000 reamostragens bootstrap pareadas por pergunta original (semente 20261028).
+A verificação usa apenas a biblioteca padrão, sem GPU ou download de modelos. Confere a integridade dos arquivos, os contatos revisados, as posições das respostas, a divisão dos dados e as métricas das predições salvas, incluindo as tabelas e os intervalos bootstrap.
 
-**Escopo verificado:** métricas das predições salvas. Os adaptadores não estão distribuídos e não há registro completo das revisões e do ambiente original. Não se promete reproduzir o treinamento bit a bit.
+### Treinar e avaliar modelos
 
-Consulte as [instruções de treinamento e inferência](docs/TRAINING.md), as [tabelas de resultados](docs/RESULTS.md), a [galeria de figuras](docs/FIGURAS.md) e a [revisão de privacidade](docs/PRIVACIDADE.md).
+As dependências, os modelos e os exemplos de execução estão em [Treinamento e inferência](docs/TRAINING.md). Os principais pontos de entrada são:
 
-## Organização
+| Etapa | Script |
+|---|---|
+| Preparação dos documentos | `preprocess_docs.py` |
+| Recuperação BM25, densa e híbrida | `scripts/retriever.py` |
+| Treinamento de leitores extrativos | `scripts/train_unifesp_qa.py` |
+| Adaptação supervisionada de geradores | `scripts/train_llm_rag.py` |
+| Avaliação generativa | `scripts/evaluate_generative_rag.py` |
+| Avaliação híbrida | `scripts/evaluate_hybrid_rag.py` |
+
+Checkpoints e adaptadores não estão incluídos. A auditoria reproduz as métricas das predições distribuídas; o ambiente e as revisões históricas não permitem garantir reprodução idêntica do treinamento.
+
+## Resultados
+
+### Memória e qualidade das respostas
+
+![F1 e incremento de alocação de memória para BERTimbau com ajuste completo, LoRA e QLoRA](figures/memory_f1.png)
+
+Comparação de BERTimbau Base e Large com contexto de referência. A memória corresponde ao incremento registrado de alocação durante o treinamento, em GiB; não representa o pico total de VRAM nem uma medida de energia.
+
+### Contexto de referência e contexto recuperado
+
+![F1 e EM de Phi-4-Mini adaptado e BERTimbau Large LoRA nos dois regimes de contexto](figures/context_comparison.png)
+
+As condições com contexto de referência e recuperado são apresentadas separadamente. Os protocolos de decodificação de BERT diferem entre regimes; esta comparação não isola o efeito da recuperação.
+
+**Limites da avaliação.** O mesmo holdout foi usado para selecionar checkpoints e limiares; não há teste independente. Os resultados são exploratórios. Os intervalos bootstrap das diferenças híbridas incluem zero e não corrigem o viés de seleção. Consulte as [tabelas e a análise completa](docs/RESULTS.md) e a [galeria de figuras](docs/FIGURAS.md).
+
+## Estrutura
 
 ```text
-Institutional-QA-PT/
-├── README.md
-├── requirements.txt
-├── preprocess_docs.py       # Leitura, limpeza e segmentação dos documentos
-├── data/
-│   ├── documents/           # Documentos institucionais para recuperação
-│   └── processed/           # Corpus de perguntas e respostas revisado
-├── scripts/                 # Treinamento, avaliação, figuras e verificações
-├── results/                 # Predições e resumos históricos preservados
-├── reproducibility/         # Auditoria, divisão, proveniência e política de contatos
-├── figures/                 # Gráficos em português, PDF/PNG e pipeline
-│   └── paper/               # Cópias exatas das figuras do manuscrito local
-├── docs/                    # Guias, tabelas e revisão de privacidade
-├── environment/             # Pacotes observados no cluster
-├── .github/workflows/       # Verificação automática no GitHub
-└── ARTIFACT_MANIFEST.json   # Checksums SHA-256 dos arquivos distribuídos
+data/              Corpus de QA e documentos institucionais
+scripts/           Treinamento, recuperação, avaliação e verificação
+results/           Predições e resumos experimentais
+reproducibility/   Auditoria, divisão dos dados e proveniência
+figures/           Gráficos e diagrama do pipeline
+figures/paper/     Figuras preservadas do manuscrito
+docs/              Guias de uso, resultados e privacidade
+environment/       Registros dos pacotes observados no cluster
 ```
 
-O corpus está em `data/processed/corpus_completo.json`. Os scripts encontram os documentos em `data/documents/` a partir da localização do próprio projeto. Os nomes históricos em `results/` foram preservados; use os mapeamentos de `reproducibility/audit_results.py` para interpretá-los.
+## Citação
 
-Checkpoints, caches, logs do cluster, datasets alternativos e fontes do manuscrito não fazem parte do pacote. Alguns caminhos em `historical_provenance.json` são referências a arquivos históricos não distribuídos, e não entradas necessárias à verificação.
-
-## Figuras
-
-Em um ambiente de visualização com NumPy e Matplotlib:
-
-```bash
-python -m pip install numpy matplotlib
-python scripts/generate_figures.py
-```
-
-O script gera seis gráficos em português a partir de `reproducibility/verified_results.json`: comparação extrativa, memória/F1, geradores sem adaptação no domínio, contexto de referência versus recuperado, variantes híbridas e intervalos das diferenças pareadas. Veja as explicações e limites na [galeria](docs/FIGURAS.md).
-
-![F1 dos leitores extrativos com contexto de referência](figures/extractive_f1.png)
-
-![Diferenças pareadas e intervalos bootstrap](figures/paired_differences.png)
-
-Os gráficos usam validação reutilizada. Os intervalos dos ganhos híbridos incluem zero; os resultados não estabelecem superioridade geral entre arquiteturas.
-
-As figuras originais do paper estão em `figures/paper/` e não são sobrescritas por esse comando. Para recompilar o diagrama editável, instale LaTeX com TikZ, standalone e FontAwesome5:
-
-```bash
-python scripts/build_pipeline.py
-```
-
-Metadados de PDFs podem variar entre plataformas. A reprodução numérica usa a auditoria JSON, não igualdade binária entre figuras regeneradas.
-
-## Dados e interpretação
-
-O corpus contém 514 perguntas originais e 1.507 paráfrases não vazias. A divisão 80/20 por pergunta original (semente 42) contém 411/103 originais, expandidas após a divisão para 1.613/408 formulações. Os IDs estão em `reproducibility/split_manifest.json`. As execuções históricas de recuperação indexaram 318 segmentos.
-
-**Não há conjunto de teste independente:** o mesmo holdout selecionou checkpoints e limiares. Os resultados são estimativas exploratórias de validação. O bootstrap agrupa variantes pela pergunta original, mas não elimina viés de seleção nem variação entre sementes. BERT com contexto de referência e recuperado usa protocolos de decodificação diferentes. A memória registrada é o incremento de alocação de treinamento em GiB, não o pico total do dispositivo nem energia consumida. O grafo estava indisponível nas execuções históricas de Phi. Os intervalos dos ganhos híbridos incluem zero.
-
-## Dataset e citação
-
-O corpus de perguntas e respostas está publicado no Zenodo como **Institutional-QA-PT**, versão **1.0.0**: [doi:10.5281/zenodo.23839298](https://doi.org/10.5281/zenodo.23839298). Esse depósito contém `corpus_completo.json`; os documentos de origem, a divisão dos dados, o código e os artefatos de avaliação estão neste repositório.
+Ao utilizar o dataset, cite a versão publicada:
 
 > Nina Capujra, M. M., Paye Mamani, J. E., & Vega Oliveros, D. A. (2026). *Institutional-QA-PT: A Portuguese Question Answering Dataset for Institutional Information* (Version 1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23839298
 
-## Licenças
+## Licenças e privacidade
 
-- **Código original deste projeto:** [MIT](LICENSE).
-- **Dataset `data/processed/corpus_completo.json`:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), conforme o depósito no Zenodo. A licença MIT não se aplica ao dataset.
-- **Documentos institucionais, modelos e demais materiais de terceiros:** permanecem sujeitos aos direitos e às condições de suas fontes. A licença MIT não concede direitos sobre esses materiais, nem atribui automaticamente uma licença aos demais artefatos não classificados como código.
+- **Código original:** [MIT](LICENSE).
+- **Corpus `corpus_completo.json`:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), conforme o depósito no Zenodo.
+- **Material de terceiros:** documentos institucionais e modelos permanecem sujeitos aos direitos e às condições de suas fontes. A licença MIT não se aplica ao dataset nem concede direitos sobre material de terceiros ou outros artefatos não classificados como código.
 
-## Privacidade e direitos de uso
-
-Foram substituídos o nome do representante discente, 21 e-mails individuais e links individuais de currículo. Contatos gerais da universidade, nomes profissionais públicos de docentes necessários ao benchmark e referências institucionais permanecem. **O dataset não é totalmente anônimo.** Leia a [revisão de privacidade](docs/PRIVACIDADE.md).
-
-As métricas salvas continuaram iguais após as substituições; isso não garante resultados idênticos em um novo treinamento com os textos revisados. O corpus revisado foi publicado no Zenodo na versão 1.0.0. As condições das fontes e as licenças dos modelos continuam aplicáveis. Este pacote não concede uma nova licença sobre material de terceiros.
-
-## Principais scripts
-
-| Arquivo | Finalidade |
-|---|---|
-| `scripts/train_unifesp_qa.py` | Treinar leitores extrativos Full/LoRA/QLoRA |
-| `scripts/qa_utils.py` | Tokenização, janelas e decodificação de spans |
-| `scripts/train_llm_rag.py` | Adaptar geradores por treinamento supervisionado |
-| `scripts/evaluate_generative_rag.py` | Avaliar com contexto recuperado ou de referência |
-| `scripts/evaluate_hybrid_rag.py` | Avaliar orientação por span, fallback e roteamento |
-| `scripts/retriever.py` | Recuperação BM25, densa e híbrida |
-| `reproducibility/audit_results.py` | Recalcular evidências sem carregar modelos |
-| `scripts/generate_figures.py` | Gerar gráficos a partir da auditoria |
-| `scripts/check_privacy.py` | Verificar contatos e posições das respostas |
-| `scripts/verify_artifact.py` | Verificar integridade e reprodução numérica |
+O corpus passou por substituição de e-mails individuais, links de perfis pessoais e do nome do representante discente. Nomes públicos de docentes, contatos gerais e links para listas institucionais de alunos e egressos permanecem. **O dataset não é totalmente anônimo.** A [revisão de privacidade](docs/PRIVACIDADE.md) descreve o tratamento e seus limites.
