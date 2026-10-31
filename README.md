@@ -66,11 +66,11 @@ Checkpoints e adaptadores não estão incluídos. A auditoria reproduz as métri
 
 Comparação de BERTimbau Base e Large com contexto de referência. A memória corresponde ao incremento registrado de alocação durante o treinamento, em GiB; não representa o pico total de VRAM nem uma medida de energia.
 
-### Contexto de referência e contexto recuperado
+### Estratégias híbridas
 
-![F1 e EM de Phi-4-Mini adaptado e BERTimbau Large LoRA nos dois regimes de contexto](figures/context_comparison.png)
+![F1 e EM do extrator e das variantes híbridas com Qwen2.5-1.5B](figures/hybrid_variants.png)
 
-As condições com contexto de referência e recuperado são apresentadas separadamente. Os protocolos de decodificação de BERT diferem entre regimes; esta comparação não isola o efeito da recuperação.
+Comparação do leitor extrativo com variantes de geração orientada por trechos, roteamento, verificação e fallback. SFT indica adaptação supervisionada no domínio. Os resultados são exploratórios: o limiar de roteamento foi selecionado no holdout e os intervalos das diferenças híbridas incluem zero, sem evidência conclusiva de ganho.
 
 **Limites da avaliação.** O mesmo holdout foi usado para selecionar checkpoints e limiares; não há teste independente. Os resultados são exploratórios. Os intervalos bootstrap das diferenças híbridas incluem zero e não corrigem o viés de seleção. Consulte as [tabelas e a análise completa](docs/RESULTS.md) e a [galeria de figuras](docs/FIGURAS.md).
 
