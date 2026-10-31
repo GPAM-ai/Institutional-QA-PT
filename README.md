@@ -106,18 +106,3 @@ As métricas salvas continuaram iguais após as substituições; isso não garan
 | `scripts/generate_figures.py` | Gerar gráficos a partir da auditoria |
 | `scripts/check_privacy.py` | Verificar contatos e posições das respostas |
 | `scripts/verify_artifact.py` | Verificar integridade e reprodução numérica |
-
-## Atualização e envio ao GPAM-ai
-
-Depois de alterar código ou dados intencionalmente, execute a auditoria, gere novamente as tabelas e figuras afetadas, revise as diferenças e atualize o manifesto:
-
-```bash
-python reproducibility/audit_results.py
-python scripts/summarize_results.py
-python scripts/refresh_manifest.py
-python scripts/verify_artifact.py
-```
-
-As atualizações devem ser enviadas diretamente para `GPAM-ai/Institutional-QA-PT`, sem criar ou usar ZIP. Preserve a estrutura na raiz do repositório, incluindo `.github/`, `.gitignore` e `LICENSE`. O repositório do laboratório foi iniciado com um histórico novo após a revisão de privacidade.
-
-**Não envie o histórico Git local anterior:** ele antecede a revisão de privacidade. Os scripts acima não fazem upload nem alteram a visibilidade de repositórios.
