@@ -74,11 +74,23 @@ O corpus contém 514 perguntas originais e 1.507 paráfrases não vazias. A divi
 
 **Não há conjunto de teste independente:** o mesmo holdout selecionou checkpoints e limiares. Os resultados são estimativas exploratórias de validação. O bootstrap agrupa variantes pela pergunta original, mas não elimina viés de seleção nem variação entre sementes. BERT com contexto de referência e recuperado usa protocolos de decodificação diferentes. A memória registrada é o incremento de alocação de treinamento em GiB, não o pico total do dispositivo nem energia consumida. O grafo estava indisponível nas execuções históricas de Phi. Os intervalos dos ganhos híbridos incluem zero.
 
+## Dataset e citação
+
+O corpus de perguntas e respostas está publicado no Zenodo como **Institutional-QA-PT**, versão **1.0.0**: [doi:10.5281/zenodo.23839298](https://doi.org/10.5281/zenodo.23839298). Esse depósito contém `corpus_completo.json`; os documentos de origem, a divisão dos dados, o código e os artefatos de avaliação estão neste repositório.
+
+> Nina Capujra, M. M., Paye Mamani, J. E., & Vega Oliveros, D. A. (2026). *Institutional-QA-PT: A Portuguese Question Answering Dataset for Institutional Information* (Version 1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23839298
+
+## Licenças
+
+- **Código original deste projeto:** [MIT](LICENSE).
+- **Dataset `data/processed/corpus_completo.json`:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), conforme o depósito no Zenodo. A licença MIT não se aplica ao dataset.
+- **Documentos institucionais, modelos e demais materiais de terceiros:** permanecem sujeitos aos direitos e às condições de suas fontes. A licença MIT não concede direitos sobre esses materiais, nem atribui automaticamente uma licença aos demais artefatos não classificados como código.
+
 ## Privacidade e direitos de uso
 
 Foram substituídos o nome do representante discente, 21 e-mails individuais e links individuais de currículo. Contatos gerais da universidade, nomes profissionais públicos de docentes necessários ao benchmark e referências institucionais permanecem. **O dataset não é totalmente anônimo.** Leia a [revisão de privacidade](docs/PRIVACIDADE.md).
 
-As métricas salvas continuaram iguais após as substituições; isso não garante resultados idênticos em um novo treinamento com os textos revisados. O envio ao Zenodo ainda depende da revisão do responsável pelo projeto. As condições das fontes e as licenças dos modelos continuam aplicáveis. Este pacote não concede uma nova licença sobre material de terceiros. Uma licença de distribuição do código ainda deve ser definida pelos responsáveis antes da abertura pública.
+As métricas salvas continuaram iguais após as substituições; isso não garante resultados idênticos em um novo treinamento com os textos revisados. O corpus revisado foi publicado no Zenodo na versão 1.0.0. As condições das fontes e as licenças dos modelos continuam aplicáveis. Este pacote não concede uma nova licença sobre material de terceiros.
 
 ## Principais scripts
 
@@ -106,6 +118,6 @@ python scripts/refresh_manifest.py
 python scripts/verify_artifact.py
 ```
 
-Envie diretamente os arquivos preparados para o novo repositório privado `GPAM-ai/Institutional-QA-PT`, sem criar ou usar ZIP. Coloque os arquivos na raiz do repositório, incluindo `.github/` e `.gitignore`, e inicie um histórico Git novo. Assim, `.github/workflows/` estará no local correto.
+As atualizações devem ser enviadas diretamente para `GPAM-ai/Institutional-QA-PT`, sem criar ou usar ZIP. Preserve a estrutura na raiz do repositório, incluindo `.github/`, `.gitignore` e `LICENSE`. O repositório do laboratório foi iniciado com um histórico novo após a revisão de privacidade.
 
 **Não envie o histórico Git local anterior:** ele antecede a revisão de privacidade. Os scripts acima não fazem upload nem alteram a visibilidade de repositórios.

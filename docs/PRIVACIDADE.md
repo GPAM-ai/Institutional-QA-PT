@@ -29,6 +29,8 @@ Execute `python scripts/check_privacy.py` para verificar a política de contatos
 
 ## GitHub e Zenodo
 
-O histórico Git local antecede estas alterações e pode conter os dados substituídos. Não publique esse histórico. `python scripts/package_artifact.py` gera um ZIP apenas com os arquivos do manifesto, sem `.git`; utilize seu conteúdo em um repositório novo com histórico inicial limpo.
+O histórico Git local anterior à revisão pode conter os dados substituídos e não deve ser publicado. O repositório `GPAM-ai/Institutional-QA-PT` foi iniciado com um histórico novo; envie as atualizações diretamente, sem criar ou usar ZIP.
 
-Arquivos ZIP anteriores à revisão não foram atualizados e não devem ser enviados. A publicação do dataset no Zenodo permanece pendente da revisão do responsável pelo projeto. Nenhum envio é realizado pelos scripts de verificação ou empacotamento.
+O corpus revisado foi publicado no Zenodo como versão 1.0.0: [doi:10.5281/zenodo.23839298](https://doi.org/10.5281/zenodo.23839298), sob CC BY 4.0. O depósito contém o corpus de perguntas e respostas; documentos de origem, divisão dos dados, código e artefatos de avaliação estão no GitHub. Nomes públicos de docentes, contatos institucionais e links para listas institucionais de alunos e egressos permanecem no corpus, que não é totalmente anônimo.
+
+A licença MIT do repositório cobre o código original do projeto e não substitui a licença do dataset nem as condições de materiais de terceiros. Os scripts de verificação não fazem upload nem alteram a visibilidade dos repositórios.

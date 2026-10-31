@@ -6,7 +6,7 @@ import re
 
 ROOT=Path(__file__).resolve().parents[1]
 folders=['scripts','reproducibility','figures','data','results','docs','environment','.github']
-files=[ROOT/n for n in ['README.md','requirements.txt','preprocess_docs.py','.gitignore']]
+files=[ROOT/n for n in ['README.md','LICENSE','requirements.txt','preprocess_docs.py','.gitignore']]
 for folder in folders:
     files.extend(p for p in (ROOT/folder).rglob('*') if p.is_file()
                  and '__pycache__' not in p.parts and p.suffix not in {'.pyc','.pyo'})
