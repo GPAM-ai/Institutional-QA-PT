@@ -8,11 +8,11 @@ Código, dataset e resultados do estudo **Local Institutional QA under Resource 
 
 ## Pipeline
 
-![Pipeline de recuperação, leitura extrativa e geração híbrida](figures/pipeline.png)
+![Pipeline de recuperação, leitura extrativa e geração híbrida](figures/paper/pipeline_preview.png)
 
 A pergunta e os documentos recuperados alimentam um leitor extrativo ou um gerador compacto. Nas variantes híbridas, o trecho extraído orienta a geração, com estratégias de verificação, roteamento e fallback. O contexto de referência é uma condição experimental separada da recuperação.
 
-[Diagrama em PDF](figures/pipeline.pdf) · [Fonte TikZ](figures/pipeline.tex)
+[Diagrama em PDF](figures/paper/pipeline_preview.pdf) · [Fonte TikZ](figures/paper/pipeline.tex)
 
 ## Dataset
 
@@ -60,11 +60,23 @@ Checkpoints e adaptadores não estão incluídos. A auditoria reproduz as métri
 
 ## Resultados
 
+As figuras abaixo são as versões utilizadas no manuscrito final, com rótulos em inglês. Os gráficos complementares em português estão na [galeria de figuras](docs/FIGURAS.md).
+
+### Qualidade dos leitores extrativos
+
+![F1 de validação dos leitores extrativos com ajuste completo, LoRA e QLoRA](figures/paper/fig3_barras.png)
+
+Comparação dos leitores extrativos com contexto de referência. Cada resultado corresponde à seleção de uma configuração em uma única execução na validação.
+
+[Gráfico em PDF](figures/paper/fig3_barras.pdf)
+
 ### Memória e qualidade das respostas
 
-![F1 e incremento de alocação de memória para BERTimbau com ajuste completo, LoRA e QLoRA](figures/memory_f1.png)
+![F1 e incremento de alocação de memória para BERTimbau com ajuste completo, LoRA e QLoRA](figures/paper/fig1_green_ai.png)
 
 Comparação de BERTimbau Base e Large com contexto de referência. A memória corresponde ao incremento registrado de alocação durante o treinamento, em GiB; não representa o pico total de VRAM nem uma medida de energia.
+
+[Gráfico em PDF](figures/paper/fig1_green_ai.pdf)
 
 ### Estratégias híbridas
 

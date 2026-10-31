@@ -1,8 +1,9 @@
 % Stage-based vector schematic; normal paths, hybrid guidance and oracle input.
 \begingroup
-\definecolor{pipeInk}{HTML}{243746}
-\definecolor{pipeSage}{HTML}{58736B}
-\definecolor{pipeBrass}{HTML}{9C8050}
+\definecolor{pipeInk}{HTML}{223140}
+\definecolor{pipeNavy}{HTML}{526575}
+\definecolor{pipeSage}{HTML}{88AA9E}
+\definecolor{pipeBrass}{HTML}{C6B38D}
 \definecolor{pipeLine}{HTML}{7D8991}
 \begin{tikzpicture}[
  x=1cm,y=1cm,font=\rmfamily\scriptsize,
@@ -26,7 +27,7 @@
 \node[text=pipeInk,font=\large] at (.28,-.56) {\faIcon{file-alt}};
 \node[anchor=west,text=pipeInk,align=left] at (.58,-.56)
  {\textbf{Public corpus}\\[-1pt]{\fontsize{6}{7}\selectfont 318 segments}};
-\node[model,fill=pipeInk,text=white,text width=1.96cm,minimum width=2.03cm] (retrieval) at (.98,-1.48)
+\node[model,fill=pipeNavy,text=white,text width=1.96cm,minimum width=2.03cm] (retrieval) at (.98,-1.48)
  {\faIcon{search}\enspace\textbf{Retriever}\\[-1pt]{\fontsize{6}{7}\selectfont BM25 + E5\\[-1pt]$\alpha=0.5$}};
 \node[text=pipeInk,align=center] (query) at (.98,-2.55)
  {\faIcon{comment-dots}\enspace\textbf{Question} $q$};
@@ -47,12 +48,12 @@
 \node[model,fill=pipeSage!9,text=pipeInk] (reader) at (5.35,-.78)
  {\textcolor{pipeSage}{\faIcon{highlighter}}\enspace\textbf{Extractive reader}\\[-1pt]{\fontsize{6}{7}\selectfont BERTimbau}};
 
-\node[model,fill=pipeInk!6,text=pipeInk] (generator) at (5.35,-2.45)
+\node[model,fill=pipeNavy!10,text=pipeInk] (generator) at (5.35,-2.45)
  {\faIcon{microchip}\enspace\textbf{Compact generator}\\[-1pt]{\fontsize{6}{7}\selectfont without SFT / SFT}};
 
 \draw[flow] (evidence.east) -- (3.80,-1.48) |- (reader.west);
 \draw[flow] (3.80,-1.48) |- (generator.west);
-\draw[hybrid] (reader.south) -- node[right,small,text=pipeBrass,xshift=2pt]
+\draw[hybrid] (reader.south) -- node[right,small,text=pipeBrass!65!black,xshift=2pt]
  {span guidance$^{*}$\\truth / verify / gate} (generator.north);
 % Answers are visible endpoints, with an optional span fallback for the hybrid.
 \node[output,fill=pipeSage!12,text=pipeSage] (span) at (7.66,-.78) {\faIcon{quote-left}};
@@ -63,6 +64,6 @@
 \draw[flow,draw=pipeInk] (generator.east) -- (answer.west);
 \draw[hybrid,dashed] (span.east) -- (8.52,-.78)
  -- (8.52,-2.45) -- (answer.east);
-\node[small,text=pipeBrass] at (7.75,-1.78) {optional\\fallback};
+\node[small,text=pipeBrass!65!black] at (7.75,-1.78) {optional\\fallback};
 \end{tikzpicture}
 \endgroup

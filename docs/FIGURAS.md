@@ -56,8 +56,14 @@ Diferenças de F1 Q-macro, com 10.000 reamostragens bootstrap por pergunta origi
 
 Estas são cópias exatas dos arquivos usados pelo manuscrito local revisado. Mantêm os rótulos em inglês. Seus checksums estão em `reproducibility/paper_figure_manifest.json`; o gerador dos gráficos em português não as sobrescreve.
 
+![Pipeline do paper](../figures/paper/pipeline_preview.png)
+
+[Pipeline em PDF](../figures/paper/pipeline_preview.pdf) · [Fonte TikZ](../figures/paper/pipeline.tex)
+
+![Memória e F1 do paper](../figures/paper/fig1_green_ai.png)
+
 ![Comparação extrativa do paper](../figures/paper/fig3_barras.png)
 
 [Comparação extrativa em PDF](../figures/paper/fig3_barras.pdf) · [Memória/F1 em PDF](../figures/paper/fig1_green_ai.pdf) · [Pipeline em PDF](../figures/paper/pipeline_preview.pdf)
 
-O diagrama editável em `figures/pipeline.tex` conserva a versão em inglês usada no paper. `python scripts/build_pipeline.py` recompila uma cópia em `figures/pipeline.pdf` quando LaTeX e os pacotes necessários estão disponíveis.
+A fonte exata do diagrama do manuscrito está em `figures/paper/pipeline.tex`. O diagrama editável adicional está em `figures/pipeline.tex`. `python scripts/build_pipeline.py` recompila uma cópia em `figures/pipeline.pdf` quando LaTeX e os pacotes necessários estão disponíveis.
